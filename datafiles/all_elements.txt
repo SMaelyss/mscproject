@@ -1,0 +1,6965 @@
+element_id	element_type
+ Rv1637c	cds
+ Rv3242c	cds
+ Rv2534c	cds
+ Rv0078A	cds
+ Rv1064c	cds
+ Rv3710	cds
+ Rv0478	cds
+ Rv0638	cds
+ Rv0813c	cds
+ Rv2265	cds
+ Rv1081c	cds
+ Rv2788	cds
+ Rv0413	cds
+ Rv2753c	cds
+ Rv2704	cds
+ Rv1193	cds
+ Rv2116	cds
+ Rv3279c	cds
+ Rv3924c	cds
+ Rv2138	cds
+ Rv2703	cds
+ Rv1141c	cds
+ Rv2871	cds
+ Rv2407	cds
+ Rv0585c	cds
+ Rv2443	cds
+ Rv0154c	cds
+ Rv2595	cds
+ Rv1732c	cds
+ Rv2765	cds
+ Rv0740	cds
+ Rv1731	cds
+ Rv2307D	cds
+ Rv0311	cds
+ Rv2470	cds
+ Rv2285	cds
+ Rv1372	cds
+ Rv1879	cds
+ Rv3519	cds
+ Rv1431	cds
+ Rv3698	cds
+ Rv3839	cds
+ Rv0419	cds
+ Rv1785c	cds
+ Rv0940c	cds
+ Rv3238c	cds
+ Rv3269	cds
+ Rv3160c	cds
+ Rv0323c	cds
+ Rv3914	cds
+ Rv0916c	cds
+ Rv1982A	cds
+ Rv2043c	cds
+ Rv2089c	cds
+ Rv1772	cds
+ Rv1915	cds
+ Rv1916	cds
+ Rv0686	cds
+ Rv3161c	cds
+ Rv2385	cds
+ Rv1331	cds
+ Rv2461c	cds
+ Rv2140c	cds
+ Rv0856	cds
+ Rv0564c	cds
+ Rv1926c	cds
+ Rv3010c	cds
+ Rv2218	cds
+ Rv2369c	cds
+ Rv0274	cds
+ Rv1219c	cds
+ Rv2616	cds
+ Rv0670	cds
+ Rv0046c	cds
+ Rv2730	cds
+ Rv1498A	cds
+ Rv1217c	cds
+ Rv0549c	cds
+ Rv1467c	cds
+ Rv0678	cds
+ Rv3159c	cds
+ Rv2865	cds
+ Rv3735	cds
+ Rv3173c	cds
+ Rv3142c	cds
+ Rv1218c	cds
+ Rv0233	cds
+ Rv0898c	cds
+ Rv2556c	cds
+ Rv2286c	cds
+ Rv2718c	cds
+ Rv0388c	cds
+ Rv1739c	cds
+ Rv0744c	cds
+ Rv0743c	cds
+ Rv3627c	cds
+ Rv0676c	cds
+ Rv1213	cds
+ Rv1234	cds
+ Rv2602	cds
+ Rv3699	cds
+ Rv1216c	cds
+ Rv1988	cds
+ Rv0903c	cds
+ Rv3278c	cds
+ Rv0258c	cds
+ Rv0250c	cds
+ Rv2926c	cds
+ Rv1615	cds
+ Rv3172c	cds
+ Rv2601A	cds
+ Rv0677c	cds
+ Rv2217	cds
+ Rv1721c	cds
+ Rv3283	cds
+ Rv3547	cds
+ Rv2674	cds
+ Rv0675	cds
+ Rv2867c	cds
+ Rv3176c	cds
+ Rv1727	cds
+ Rv2879c	cds
+ Rv2264c	cds
+ Rv3016	cds
+ Rv1990A	cds
+ Rv0877	cds
+ Rv1972	cds
+ Rv1803c	cds
+ Rv0612	cds
+ Rv1760	cds
+ Rv1268c	cds
+ Rv1834	cds
+ Rv2182c	cds
+ Rv1977	cds
+ Rv1671	cds
+ Rv0615	cds
+ Rv1966	cds
+ Rv2143	cds
+ Rv2266	cds
+ Rv1967	cds
+ Rv2037c	cds
+ Rv0064	cds
+ Rv2297	cds
+ Rv3539	cds
+ Rv0943c	cds
+ Rv0530A	cds
+ Rv1992c	cds
+ Rv2664	cds
+ Rv2631	cds
+ Rv2077c	cds
+ Rv1964	cds
+ Rv3287c	cds
+ Rv0571c	cds
+ Rv1989c	cds
+ Rv3286c	cds
+ Rv3079c	cds
+ Rv0116c	cds
+ Rv1965	cds
+ Rv3288c	cds
+ Rv1228	cds
+ Rv3548c	cds
+ Rv2663	cds
+ Rv2687c	cds
+ Rv1968	cds
+ Rv2639c	cds
+ Rv3289c	cds
+ Rv3533c	cds
+ Rv1974	cds
+ Rv3054c	cds
+ Rv2146c	cds
+ Rv1828	cds
+ Rv1937	cds
+ Rv1285	cds
+ Rv1777	cds
+ Rv1645c	cds
+ Rv0842	cds
+ Rv1976c	cds
+ Rv0340	cds
+ Rv3221A	cds
+ Rv0160c	cds
+ Rv2295	cds
+ Rv2204c	cds
+ Rv1266c	cds
+ Rv3235	cds
+ Rv2516c	cds
+ Rv0771	cds
+ Rv2188c	cds
+ Rv3751	cds
+ Rv1149	cds
+ Rv1041c	cds
+ Rv1970	cds
+ Rv0307c	cds
+ Rv0223c	cds
+ Rv3080c	cds
+ Rv1994c	cds
+ Rv1868	cds
+ Rv0672	cds
+ Rv2087	cds
+ Rv3437	cds
+ Rv2018	cds
+ Rv1990c	cds
+ Rv3636	cds
+ Rv0028	cds
+ Rv3136A	cds
+ Rv0622	cds
+ Rv3098c	cds
+ Rv1969	cds
+ Rv0588	cds
+ Rv1286	cds
+ Rv3840	cds
+ Rv3046c	cds
+ Rv3347c	cds
+ Rv0754	cds
+ Rv0131c	cds
+ Rv1907c	cds
+ Rv2036	cds
+ Rv0810c	cds
+ Rv2961	cds
+ Rv2912c	cds
+ Rv3166c	cds
+ Rv0758	cds
+ Rv1908c	cds
+ Rv3290c	cds
+ Rv2570	cds
+ Rv1088	cds
+ Rv2776c	cds
+ Rv1707	cds
+ Rv3052c	cds
+ Rv1366A	cds
+ Rv3022A	cds
+ Rv0065	cds
+ Rv1322	cds
+ Rv0550c	cds
+ Rv0322	cds
+ Rv2296	cds
+ Rv3568c	cds
+ Rv1805c	cds
+ Rv0476	cds
+ Rv2643	cds
+ Rv1135c	cds
+ Rv2920c	cds
+ Rv0345	cds
+ Rv2709	cds
+ Rv0941c	cds
+ Rv2169c	cds
+ Rv3165c	cds
+ Rv1955	cds
+ Rv1971	cds
+ Rv3177	cds
+ Rv3650	cds
+ Rv0137c	cds
+ Rv2913c	cds
+ Rv3334	cds
+ Rv3169	cds
+ Rv0589	cds
+ Rv3188	cds
+ Rv1895	cds
+ Rv2042c	cds
+ Rv3053c	cds
+ Rv2669	cds
+ Rv0068	cds
+ Rv0573c	cds
+ Rv1734c	cds
+ Rv2642	cds
+ Rv2298	cds
+ Rv0967	cds
+ Rv1364c	cds
+ Rv1586c	cds
+ Rv3163c	cds
+ Rv3848	cds
+ Rv1781c	cds
+ Rv1724c	cds
+ Rv0826	cds
+ Rv0397A	cds
+ Rv0590	cds
+ Rv3007c	cds
+ Rv1255c	cds
+ Rv2302	cds
+ Rv2780	cds
+ Rv0766c	cds
+ Rv1352	cds
+ Rv0521	cds
+ Rv1898	cds
+ Rv2025c	cds
+ Rv3189	cds
+ Rv0152c	cds
+ Rv2342	cds
+ Rv1931c	cds
+ Rv1991c	cds
+ Rv3034c	cds
+ Rv0140	cds
+ Rv0806c	cds
+ Rv0762c	cds
+ Rv0919	cds
+ Rv1455	cds
+ Rv2519	cds
+ Rv0387c	cds
+ Rv2020c	cds
+ Rv1956	cds
+ Rv0767c	cds
+ Rv0802c	cds
+ Rv1342c	cds
+ Rv1893	cds
+ Rv1811	cds
+ Rv3359	cds
+ Rv3138	cds
+ Rv0917	cds
+ Rv0764c	cds
+ Rv2515c	cds
+ Rv0313	cds
+ Rv1954A	cds
+ Rv2017	cds
+ Rv2041c	cds
+ Rv0840c	cds
+ Rv3405c	cds
+ Rv3164c	cds
+ Rv1038c	cds
+ Rv3071	cds
+ Rv3082c	cds
+ Rv0188	cds
+ Rv2026c	cds
+ Rv3749c	cds
+ Rv0837c	cds
+ Rv1042c	cds
+ Rv1453	cds
+ Rv2359	cds
+ Rv3270	cds
+ Rv2862c	cds
+ Rv1598c	cds
+ Rv1585c	cds
+ Rv0262c	cds
+ Rv0960	cds
+ Rv1946c	cds
+ Rv0123	cds
+ Rv2641	cds
+ Rv2322c	cds
+ Rv2432c	cds
+ Rv0623	cds
+ Rv0047c	cds
+ Rv3743c	cds
+ Rv2117	cds
+ Rv1673c	cds
+ Rv1740	cds
+ Rv1921c	cds
+ Rv1517	cds
+ Rv1888c	cds
+ Rv2318	cds
+ Rv2659c	cds
+ Rv1804c	cds
+ Rv3829c	cds
+ Rv1048c	cds
+ Rv0918	cds
+ Rv0853c	cds
+ Rv0426c	cds
+ Rv3471c	cds
+ Rv1027c	cds
+ Rv3168	cds
+ Rv1892	cds
+ Rv0836c	cds
+ Rv0552	cds
+ Rv0095c	cds
+ Rv0331	cds
+ Rv1159A	cds
+ Rv1991A	cds
+ Rv1371	cds
+ Rv1520	cds
+ Rv1578c	cds
+ Rv1152	cds
+ Rv3549c	cds
+ Rv3744	cds
+ Rv2548A	cds
+ Rv1248c	cds
+ Rv0324	cds
+ Rv2764c	cds
+ Rv0712	cds
+ Rv3178	cds
+ Rv1110	cds
+ Rv3750c	cds
+ Rv1049	cds
+ Rv1891	cds
+ Rv0273c	cds
+ Rv1920	cds
+ Rv0979c	cds
+ Rv0624	cds
+ Rv2970A	cds
+ Rv1249c	cds
+ Rv1930c	cds
+ Rv1758	cds
+ Rv2828A	cds
+ Rv2307c	cds
+ Rv2212	cds
+ Rv2866	cds
+ Rv1044	cds
+ Rv2810c	cds
+ Rv3765c	cds
+ Rv0347	cds
+ Rv1063c	cds
+ Rv0494	cds
+ Rv0348	cds
+ Rv2658c	cds
+ Rv0351	cds
+ Rv2330c	cds
+ Rv2012	cds
+ Rv1274	cds
+ Rv0350	cds
+ Rv1151c	cds
+ Rv1826	cds
+ Rv1999c	cds
+ Rv0560c	cds
+ Rv2401A	cds
+ Rv1403c	cds
+ Rv1186c	cds
+ Rv0352	cds
+ Rv0232	cds
+ Rv2465c	cds
+ Rv0827c	cds
+ Rv2011c	cds
+ Rv0272c	cds
+ Rv0575c	cds
+ Rv0899	cds
+ Rv0857	cds
+ Rv1960c	cds
+ Rv1963c	cds
+ Rv1153c	cds
+ Rv3254	cds
+ Rv1071c	cds
+ Rv2223c	cds
+ Rv0016c	cds
+ Rv1022	cds
+ Rv3276c	cds
+ Rv0661c	cds
+ Rv1386	cds
+ Rv0445c	cds
+ Rv1241	cds
+ Rv3808c	cds
+ Rv0844c	cds
+ Rv3258c	cds
+ Rv1387	cds
+ Rv2545	cds
+ Rv2911	cds
+ Rv3265c	cds
+ Rv2335	cds
+ Rv0526	cds
+ Rv0499	cds
+ Rv0952	cds
+ Rv1484	cds
+ Rv2113	cds
+ Rv3268	cds
+ Rv2074	cds
+ Rv1191	cds
+ Rv3711c	cds
+ Rv0951	cds
+ Rv0319	cds
+ Rv0519c	cds
+ Rv0158	cds
+ Rv2095c	cds
+ Rv2118c	cds
+ Rv0529	cds
+ Rv0647c	cds
+ Rv2593c	cds
+ Rv1023	cds
+ Rv3275c	cds
+ Rv1107c	cds
+ Rv3032	cds
+ Rv1411c	cds
+ Rv1324	cds
+ Rv2783c	cds
+ Rv0933	cds
+ Rv1099c	cds
+ Rv0690c	cds
+ Rv0205	cds
+ Rv0528	cds
+ Rv2890c	cds
+ Rv0428c	cds
+ Rv3282	cds
+ Rv1070c	cds
+ Rv0019c	cds
+ Rv0390	cds
+ Rv0527	cds
+ Rv1175c	cds
+ Rv2680	cds
+ Rv1611	cds
+ Rv2902c	cds
+ Rv2592c	cds
+ Rv2151c	cds
+ Rv1788	cds
+ Rv0018c	cds
+ Rv3589	cds
+ Rv3591c	cds
+ Rv1085c	cds
+ Rv1710	cds
+ Rv0949	cds
+ Rv1882c	cds
+ Rv2671	cds
+ Rv2530c	cds
+ Rv0646c	cds
+ Rv3285	cds
+ Rv3903c	cds
+ Rv0225	cds
+ Rv1272c	cds
+ Rv2061c	cds
+ Rv0265c	cds
+ Rv2737c	cds
+ Rv2231c	cds
+ Rv0184	cds
+ Rv3883c	cds
+ Rv1483	cds
+ Rv2679	cds
+ Rv1712	cds
+ Rv3207c	cds
+ Rv3029c	cds
+ Rv2152c	cds
+ Rv3806c	cds
+ Rv2794c	cds
+ Rv2447c	cds
+ Rv3709c	cds
+ Rv0020c	cds
+ Rv0832	cds
+ Rv2681	cds
+ Rv1232c	cds
+ Rv0234c	cds
+ Rv2364c	cds
+ Rv0693	cds
+ Rv3208	cds
+ Rv0237	cds
+ Rv3401	cds
+ Rv2889c	cds
+ Rv2885c	cds
+ Rv2981c	cds
+ Rv0692	cds
+ Rv2240c	cds
+ Rv3308	cds
+ Rv1711	cds
+ Rv0641	cds
+ Rv3013	cds
+ Rv3678A	cds
+ Rv0803	cds
+ Rv1632c	cds
+ Rv0024	cds
+ Rv0382c	cds
+ Rv0226c	cds
+ Rv0883c	cds
+ Rv2071c	cds
+ Rv3303c	cds
+ Rv3031	cds
+ Rv0447c	cds
+ Rv3728	cds
+ Rv1388	cds
+ Rv3805c	cds
+ Rv2701c	cds
+ Rv0513	cds
+ Rv3211	cds
+ Rv2367c	cds
+ Rv2468A	cds
+ Rv0512	cds
+ Rv3835	cds
+ Rv0112	cds
+ Rv1293	cds
+ Rv2888c	cds
+ Rv0555	cds
+ Rv3248c	cds
+ Rv2719c	cds
+ Rv1018c	cds
+ Rv1485	cds
+ Rv0694	cds
+ Rv0015c	cds
+ Rv1696	cds
+ Rv2761c	cds
+ Rv2782c	cds
+ Rv2932	cds
+ Rv1860	cds
+ Rv0931c	cds
+ Rv3807c	cds
+ Rv0908	cds
+ Rv3035	cds
+ Rv1025	cds
+ Rv0439c	cds
+ Rv1602	cds
+ Rv1207	cds
+ Rv1277	cds
+ Rv2609c	cds
+ Rv3244c	cds
+ Rv1629	cds
+ Rv3218	cds
+ Rv2462c	cds
+ Rv2933	cds
+ Rv1043c	cds
+ Rv1609	cds
+ Rv2305	cds
+ Rv1603	cds
+ Rv2148c	cds
+ Rv2259	cds
+ Rv3423c	cds
+ Rv2216	cds
+ Rv1650	cds
+ Rv0134	cds
+ Rv1604	cds
+ Rv0907	cds
+ Rv1605	cds
+ Rv2096c	cds
+ Rv3678c	cds
+ Rv1026	cds
+ Rv0568	cds
+ Rv0236c	cds
+ Rv1869c	cds
+ Rv2948c	cds
+ Rv3904c	cds
+ Rv1901	cds
+ Rv3233c	cds
+ Rv0658c	cds
+ Rv3028c	cds
+ Rv3044	cds
+ Rv2580c	cds
+ Rv1416	cds
+ Rv2163c	cds
+ Rv2150c	cds
+ Rv3910	cds
+ Rv2273	cds
+ Rv0800	cds
+ Rv0861c	cds
+ Rv1458c	cds
+ Rv0617	cds
+ Rv3713	cds
+ Rv1294	cds
+ Rv3024c	cds
+ Rv2051c	cds
+ Rv2257c	cds
+ Rv1631	cds
+ Rv2366c	cds
+ Rv2192c	cds
+ Rv1333	cds
+ Rv3682	cds
+ Rv2934	cds
+ Rv3387	cds
+ Rv2084	cds
+ Rv2215	cds
+ Rv0176	cds
+ Rv2468c	cds
+ Rv1589	cds
+ Rv2858c	cds
+ Rv0541c	cds
+ Rv2230c	cds
+ Rv2085	cds
+ Rv0955	cds
+ Rv3693	cds
+ Rv2859c	cds
+ Rv1787	cds
+ Rv0013	cds
+ Rv2974c	cds
+ Rv1301	cds
+ Rv1295	cds
+ Rv2065	cds
+ Rv3850	cds
+ Rv1481	cds
+ Rv0435c	cds
+ Rv2942	cds
+ Rv0186	cds
+ Rv1573	cds
+ Rv1941	cds
+ Rv0511	cds
+ Rv0545c	cds
+ Rv0722	cds
+ Rv2997	cds
+ Rv2976c	cds
+ Rv2797c	cds
+ Rv3455c	cds
+ Rv0175	cds
+ Rv3708c	cds
+ Rv3026c	cds
+ Rv0408	cds
+ Rv3677c	cds
+ Rv0221	cds
+ Rv0084	cds
+ Rv2996c	cds
+ Rv3041c	cds
+ Rv2189c	cds
+ Rv1849	cds
+ Rv0787	cds
+ Rv0905	cds
+ Rv3122	cds
+ Rv3104c	cds
+ Rv1610	cds
+ Rv2100	cds
+ Rv3362c	cds
+ Rv2978c	cds
+ Rv1340	cds
+ Rv0602c	cds
+ Rv0613c	cds
+ Rv3422c	cds
+ Rv3586	cds
+ Rv0812	cds
+ Rv1278	cds
+ Rv2849c	cds
+ Rv1381	cds
+ Rv1380	cds
+ Rv0409	cds
+ Rv3585	cds
+ Rv3594	cds
+ Rv0819	cds
+ Rv3421c	cds
+ Rv2781c	cds
+ Rv3372	cds
+ Rv1062	cds
+ Rv2946c	cds
+ Rv3714c	cds
+ Rv2947c	cds
+ Rv2792c	cds
+ Rv3485c	cds
+ Rv2965c	cds
+ Rv0606	cds
+ Rv1850	cds
+ Rv1068c	cds
+ Rv0235c	cds
+ Rv3382c	cds
+ Rv1713	cds
+ Rv3332	cds
+ Rv0143c	cds
+ Rv2762c	cds
+ Rv1701	cds
+ Rv1338	cds
+ Rv0542c	cds
+ Rv3887c	cds
+ Rv0299	cds
+ Rv0074	cds
+ Rv1009	cds
+ Rv3271c	cds
+ Rv0423c	cds
+ Rv1597	cds
+ Rv2921c	cds
+ Rv2725c	cds
+ Rv2739c	cds
+ Rv0085	cds
+ Rv2387	cds
+ Rv1980c	cds
+ Rv3140	cds
+ Rv2738c	cds
+ Rv2880c	cds
+ Rv1407	cds
+ Rv0086	cds
+ Rv2532c	cds
+ Rv1165	cds
+ Rv3439c	cds
+ Rv0862c	cds
+ Rv2397c	cds
+ Rv2551c	cds
+ Rv2191	cds
+ Rv2585c	cds
+ Rv0906	cds
+ Rv1143	cds
+ Rv3610c	cds
+ Rv3861	cds
+ Rv1349	cds
+ Rv1329c	cds
+ Rv3343c	cds
+ Rv1858	cds
+ Rv2966c	cds
+ Rv1204c	cds
+ Rv3027c	cds
+ Rv2897c	cds
+ Rv1445c	cds
+ Rv3419c	cds
+ Rv1382	cds
+ Rv1015c	cds
+ Rv0607	cds
+ Rv0534c	cds
+ Rv0105c	cds
+ Rv3647c	cds
+ Rv1559	cds
+ Rv2058c	cds
+ Rv2433c	cds
+ Rv2778c	cds
+ Rv3784	cds
+ Rv3609c	cds
+ Rv3555c	cds
+ Rv3911	cds
+ Rv1035c	cds
+ Rv1061	cds
+ Rv2943	cds
+ Rv1852	cds
+ Rv0421c	cds
+ Rv0787A	cds
+ Rv2056c	cds
+ Rv1848	cds
+ Rv1595	cds
+ Rv2766c	cds
+ Rv0746	cds
+ Rv2732c	cds
+ Rv2086	cds
+ Rv0629c	cds
+ Rv1421	cds
+ Rv3293	cds
+ Rv3224	cds
+ Rv2427c	cds
+ Rv1220c	cds
+ Rv1109c	cds
+ Rv0932c	cds
+ Rv0997	cds
+ Rv3257c	cds
+ Rv1400c	cds
+ Rv3757c	cds
+ Rv2736c	cds
+ Rv3224A	cds
+ Rv2426c	cds
+ Rv3306c	cds
+ Rv0741	cds
+ Rv0239	cds
+ Rv3314c	cds
+ Rv2796c	cds
+ Rv1544	cds
+ Rv1000c	cds
+ Rv2982c	cds
+ Rv2790c	cds
+ Rv3224B	cds
+ Rv3045	cds
+ Rv2789c	cds
+ Rv3662c	cds
+ Rv0668	cds
+ Rv2235	cds
+ Rv0633c	cds
+ Rv3259	cds
+ Rv1456c	cds
+ Rv0249c	cds
+ Rv0547c	cds
+ Rv2203	cds
+ Rv1114	cds
+ Rv2437	cds
+ Rv0296c	cds
+ Rv1008	cds
+ Rv2872	cds
+ Rv1838c	cds
+ Rv2104c	cds
+ Rv1102c	cds
+ Rv3818	cds
+ Rv3727	cds
+ Rv1522c	cds
+ Rv1515c	cds
+ Rv0333	cds
+ Rv1494	cds
+ Rv3481c	cds
+ Rv1367c	cds
+ Rv2420c	cds
+ Rv0749	cds
+ Rv0928	cds
+ Rv2596	cds
+ Rv1516c	cds
+ Rv2548	cds
+ Rv3628	cds
+ Rv0923c	cds
+ Rv3460c	cds
+ Rv2299c	cds
+ Rv2787	cds
+ Rv0595c	cds
+ Rv3184	cds
+ Rv1334	cds
+ Rv1749c	cds
+ Rv3102c	cds
+ Rv3787c	cds
+ Rv0054	cds
+ Rv0682	cds
+ Rv0683	cds
+ Rv0053	cds
+ Rv1096	cds
+ Rv2320c	cds
+ Rv0930	cds
+ Rv3454	cds
+ Rv2088	cds
+ Rv3350c	cds
+ Rv3676	cds
+ Rv3719	cds
+ Rv0796	cds
+ Rv0386	cds
+ Rv3185	cds
+ Rv2511	cds
+ Rv3635	cds
+ Rv2464c	cds
+ Rv2814c	cds
+ Rv3697c	cds
+ Rv2279	cds
+ Rv1756c	cds
+ Rv3789	cds
+ Rv1889c	cds
+ Rv2319c	cds
+ Rv0261c	cds
+ Rv0392c	cds
+ Rv0091	cds
+ Rv2400c	cds
+ Rv2399c	cds
+ Rv1942c	cds
+ Rv0071	cds
+ Rv2106	cds
+ Rv3326	cds
+ Rv1878	cds
+ Rv3292	cds
+ Rv1136	cds
+ Rv3380c	cds
+ Rv2177c	cds
+ Rv2398c	cds
+ Rv0260c	cds
+ Rv2167c	cds
+ Rv1764	cds
+ Rv2649	cds
+ Rv3902c	cds
+ Rv3187	cds
+ Rv1369c	cds
+ Rv2355	cds
+ Rv2479c	cds
+ Rv3467	cds
+ Rv2421c	cds
+ Rv0343	cds
+ Rv2321c	cds
+ Rv3148	cds
+ Rv3147	cds
+ Rv2336	cds
+ Rv3146	cds
+ Rv2390c	cds
+ Rv0993	cds
+ Rv0503c	cds
+ Rv3623	cds
+ Rv0346c	cds
+ Rv0360c	cds
+ Rv0709	cds
+ Rv2798c	cds
+ Rv3295	cds
+ Rv1693	cds
+ Rv2331A	cds
+ Rv2291	cds
+ Rv0170	cds
+ Rv2457c	cds
+ Rv1318c	cds
+ Rv0168	cds
+ Rv0169	cds
+ Rv3525c	cds
+ Rv0174	cds
+ Rv0172	cds
+ Rv0173	cds
+ Rv0171	cds
+ Rv1440	cds
+ Rv2803	cds
+ Rv3732	cds
+ Rv2985	cds
+ Rv3762c	cds
+ Rv0801	cds
+ Rv1185c	cds
+ Rv3726	cds
+ Rv1550	cds
+ Rv1549	cds
+ Rv3841	cds
+ Rv0401	cds
+ Rv1918c	cds
+ Rv1551	cds
+ Rv1361c	cds
+ Rv2485c	cds
+ Rv0167	cds
+ Rv3236c	cds
+ Rv1530	cds
+ Rv0166	cds
+ Rv1230c	cds
+ Rv1401	cds
+ Rv3212	cds
+ Rv1264	cds
+ Rv1717	cds
+ Rv1716	cds
+ Rv1160	cds
+ Rv1571	cds
+ Rv1718	cds
+ Rv0514	cds
+ Rv2365c	cds
+ Rv3918c	cds
+ Rv2066	cds
+ Rv2552c	cds
+ Rv1590	cds
+ Rv1887	cds
+ Rv2793c	cds
+ Rv0381c	cds
+ Rv3804c	cds
+ Rv2541	cds
+ Rv2553c	cds
+ Rv1694	cds
+ Rv1642	cds
+ Rv2848c	cds
+ Rv3446c	cds
+ Rv1196	cds
+ Rv1385	cds
+ Rv1634	cds
+ Rv3025c	cds
+ Rv1715	cds
+ Rv1719	cds
+ Rv1714	cds
+ Rv0610c	cds
+ Rv1178	cds
+ Rv1198	cds
+ Rv2456c	cds
+ Rv3322c	cds
+ Rv2522c	cds
+ Rv1197	cds
+ Rv2836c	cds
+ Rv0625c	cds
+ Rv3672c	cds
+ Rv1851	cds
+ Rv1341	cds
+ Rv1644	cds
+ Rv3919c	cds
+ Rv1297	cds
+ Rv2478c	cds
+ Rv2338c	cds
+ Rv3731	cds
+ Rv2337c	cds
+ Rv3057c	cds
+ Rv2389c	cds
+ Rv3915	cds
+ Rv2352c	cds
+ Rv0500B	cds
+ Rv3734c	cds
+ Rv1177	cds
+ Rv1425	cds
+ Rv1269c	cds
+ Rv3033	cds
+ Rv3107c	cds
+ Rv3058c	cds
+ Rv0314c	cds
+ Rv2884	cds
+ Rv0854	cds
+ Rv1880c	cds
+ Rv2237A	cds
+ Rv2347c	cds
+ Rv0108c	cds
+ Rv1261c	cds
+ Rv2346c	cds
+ Rv3763	cds
+ Rv2348c	cds
+ Rv3144c	cds
+ Rv2402	cds
+ Rv3059	cds
+ Rv2839c	cds
+ Rv1087	cds
+ Rv2838c	cds
+ Rv2837c	cds
+ Rv3895c	cds
+ Rv1414	cds
+ Rv2126c	cds
+ Rv1450c	cds
+ Rv2490c	cds
+ Rv0650	cds
+ Rv2487c	cds
+ Rv1074c	cds
+ Rv1452c	cds
+ Rv3344c	cds
+ Rv0210	cds
+ Rv3514	cds
+ Rv2540c	cds
+ Rv1091	cds
+ Rv3897c	cds
+ Rv1226c	cds
+ Rv0162c	cds
+ Rv3659c	cds
+ Rv2539c	cds
+ Rv2444c	cds
+ Rv0255c	cds
+ Rv3508	cds
+ Rv1173	cds
+ Rv1396c	cds
+ Rv1454c	cds
+ Rv1666c	cds
+ Rv1668c	cds
+ Rv0289	cds
+ Rv1857	cds
+ Rv1090	cds
+ Rv0539	cds
+ Rv0860	cds
+ Rv2538c	cds
+ Rv1446c	cds
+ Rv1067c	cds
+ Rv3511	cds
+ Rv0992c	cds
+ Rv3512	cds
+ Rv2831	cds
+ Rv1667c	cds
+ Rv3648c	cds
+ Rv1320c	cds
+ Rv0630c	cds
+ Rv3450c	cds
+ Rv1562c	cds
+ Rv1904	cds
+ Rv1181	cds
+ Rv3234c	cds
+ Rv0868c	cds
+ Rv3686c	cds
+ Rv1368	cds
+ Rv3477	cds
+ Rv2237	cds
+ Rv2327	cds
+ Rv0107c	cds
+ Rv3685c	cds
+ Rv3612c	cds
+ Rv0871	cds
+ Rv3822	cds
+ Rv0119	cds
+ Rv3331	cds
+ Rv3198c	cds
+ Rv1179c	cds
+ Rv0118c	cds
+ Rv1183	cds
+ Rv3851	cds
+ Rv1641	cds
+ Rv1681	cds
+ Rv3522	cds
+ Rv2288	cds
+ Rv3479	cds
+ Rv3487c	cds
+ Rv2536	cds
+ Rv3478	cds
+ Rv0144	cds
+ Rv0697	cds
+ Rv0994	cds
+ Rv3312A	cds
+ Rv0696	cds
+ Rv2682c	cds
+ Rv2493	cds
+ Rv3739c	cds
+ Rv3738c	cds
+ Rv1374c	cds
+ Rv2063	cds
+ Rv0731c	cds
+ Rv0691A	cds
+ Rv0193c	cds
+ Rv1636	cds
+ Rv3597c	cds
+ Rv3741c	cds
+ Rv3898c	cds
+ Rv1215c	cds
+ Rv3740c	cds
+ Rv1786	cds
+ Rv3093c	cds
+ Rv3386	cds
+ Rv3742c	cds
+ Rv3094c	cds
+ Rv2256c	cds
+ Rv3656c	cds
+ Rv1743	cds
+ Rv0308	cds
+ Rv2316	cds
+ Rv0566c	cds
+ Rv0309	cds
+ Rv2856	cds
+ Rv0523c	cds
+ Rv1746	cds
+ Rv1984c	cds
+ Rv1511	cds
+ Rv1260	cds
+ Rv0927c	cds
+ Rv2186c	cds
+ Rv0925c	cds
+ Rv1157c	cds
+ Rv1251c	cds
+ Rv3302c	cds
+ Rv3476c	cds
+ Rv1867	cds
+ Rv1359	cds
+ Rv3190A	cds
+ Rv0102	cds
+ Rv0781	cds
+ Rv1231c	cds
+ Rv0044c	cds
+ Rv2620c	cds
+ Rv3366	cds
+ Rv0888	cds
+ Rv0937c	cds
+ Rv3221c	cds
+ Rv0304c	cds
+ Rv1351	cds
+ Rv1413	cds
+ Rv2817c	cds
+ Rv2820c	cds
+ Rv1924c	cds
+ Rv3379c	cds
+ Rv1686c	cds
+ Rv0779c	cds
+ Rv0583c	cds
+ Rv2819c	cds
+ Rv2822c	cds
+ Rv1531	cds
+ Rv1262c	cds
+ Rv2821c	cds
+ Rv2818c	cds
+ Rv2998A	cds
+ Rv2170	cds
+ Rv0887c	cds
+ Rv3766	cds
+ Rv3368c	cds
+ Rv3874	cds
+ Rv1685c	cds
+ Rv1687c	cds
+ Rv3875	cds
+ Rv1998c	cds
+ Rv0219	cds
+ Rv0988	cds
+ Rv0926c	cds
+ Rv0436c	cds
+ Rv2733c	cds
+ Rv3722c	cds
+ Rv0438c	cds
+ Rv2795c	cds
+ Rv1292	cds
+ Rv2248	cds
+ Rv3247c	cds
+ Rv3737	cds
+ Rv3908	cds
+ Rv1020	cds
+ Rv0864	cds
+ Rv3856c	cds
+ Rv1480	cds
+ Rv2750	cds
+ Rv3712	cds
+ Rv3707c	cds
+ Rv0875c	cds
+ Rv0530	cds
+ Rv3625c	cds
+ Rv1540	cds
+ Rv1210	cds
+ Rv1723	cds
+ Rv3037c	cds
+ Rv2841c	cds
+ Rv0537c	cds
+ Rv2057c	cds
+ Rv3626c	cds
+ Rv0865	cds
+ Rv2409c	cds
+ Rv3815c	cds
+ Rv0422c	cds
+ Rv3103c	cds
+ Rv0866	cds
+ Rv2712c	cds
+ Rv1765A	cds
+ Rv2661c	cds
+ Rv0579	cds
+ Rv1975	cds
+ Rv0268c	cds
+ Rv2636	cds
+ Rv2638	cds
+ Rv2303c	cds
+ Rv1829	cds
+ Rv2307A	cds
+ Rv3367	cds
+ Rv0755A	cds
+ Rv2081c	cds
+ Rv0621	cds
+ Rv2557	cds
+ Rv1439c	cds
+ Rv1983	cds
+ Rv3170	cds
+ Rv2668	cds
+ Rv0294	cds
+ Rv0117	cds
+ Rv2634c	cds
+ Rv3089	cds
+ Rv1171	cds
+ Rv2176	cds
+ Rv2093c	cds
+ Rv1675c	cds
+ Rv0276	cds
+ Rv1397c	cds
+ Rv1394c	cds
+ Rv1398c	cds
+ Rv0474	cds
+ Rv0456c	cds
+ Rv0852	cds
+ Rv1393c	cds
+ Rv1145	cds
+ Rv1172c	cds
+ Rv1208	cds
+ Rv0966c	cds
+ Rv2471	cds
+ Rv1002c	cds
+ Rv2689c	cds
+ Rv2360c	cds
+ Rv3466	cds
+ Rv2895c	cds
+ Rv3781	cds
+ Rv2811	cds
+ Rv0777	cds
+ Rv3724A	cds
+ Rv1823	cds
+ Rv1337	cds
+ Rv3050c	cds
+ Rv0639	cds
+ Rv0127	cds
+ Rv3853	cds
+ Rv2915c	cds
+ Rv2049c	cds
+ Rv1144	cds
+ Rv2339	cds
+ Rv3042c	cds
+ Rv3747	cds
+ Rv2929	cds
+ Rv2067c	cds
+ Rv1728c	cds
+ Rv3631	cds
+ Rv0157	cds
+ Rv2993c	cds
+ Rv0155	cds
+ Rv2544	cds
+ Rv2171	cds
+ Rv0957	cds
+ Rv3790	cds
+ Rv2959c	cds
+ Rv3669	cds
+ Rv1366	cds
+ Rv0831c	cds
+ Rv2760c	cds
+ Rv3796	cds
+ Rv2127	cds
+ Rv3429	cds
+ Rv3392c	cds
+ Rv0337c	cds
+ Rv0893c	cds
+ Rv2613c	cds
+ Rv2001	cds
+ Rv0062	cds
+ Rv2271	cds
+ Rv3395A	cds
+ Rv0402c	cds
+ Rv1508c	cds
+ Rv2971	cds
+ Rv1504c	cds
+ Rv2757c	cds
+ Rv2292c	cds
+ Rv1514c	cds
+ Rv2128	cds
+ Rv0635	cds
+ Rv1649	cds
+ Rv1276c	cds
+ Rv1824	cds
+ Rv3554	cds
+ Rv1704c	cds
+ Rv0636	cds
+ Rv0637	cds
+ Rv3730c	cds
+ Rv1505c	cds
+ Rv2992c	cds
+ Rv3791	cds
+ Rv3761c	cds
+ Rv3426	cds
+ Rv0669c	cds
+ Rv1752	cds
+ Rv2276	cds
+ Rv3000	cds
+ Rv2238c	cds
+ Rv1242	cds
+ Rv3465	cds
+ Rv0405	cds
+ Rv1730c	cds
+ Rv2294	cds
+ Rv3598c	cds
+ Rv1016c	cds
+ Rv2403c	cds
+ Rv2756c	cds
+ Rv3748	cds
+ Rv0567	cds
+ Rv3072c	cds
+ Rv0665	cds
+ Rv0785	cds
+ Rv3575c	cds
+ Rv1947	cds
+ Rv3427c	cds
+ Rv1501	cds
+ Rv2763c	cds
+ Rv1030	cds
+ Rv3665c	cds
+ Rv0032	cds
+ Rv3425	cds
+ Rv0713	cds
+ Rv3398c	cds
+ Rv1473	cds
+ Rv2906c	cds
+ Rv2860c	cds
+ Rv0783c	cds
+ Rv0950c	cds
+ Rv3304	cds
+ Rv2958c	cds
+ Rv1684	cds
+ Rv1353c	cds
+ Rv0316	cds
+ Rv0026	cds
+ Rv2272	cds
+ Rv3663c	cds
+ Rv0894	cds
+ Rv2723	cds
+ Rv0664	cds
+ Rv3469c	cds
+ Rv0582	cds
+ Rv3381c	cds
+ Rv3137	cds
+ Rv1126c	cds
+ Rv0151c	cds
+ Rv0724A	cds
+ Rv1227c	cds
+ Rv2914c	cds
+ Rv3480c	cds
+ Rv0772	cds
+ Rv2040c	cds
+ Rv0882	cds
+ Rv0738	cds
+ Rv2484c	cds
+ Rv2483c	cds
+ Rv2628	cds
+ Rv2623	cds
+ Rv0120c	cds
+ Rv0574c	cds
+ Rv3126c	cds
+ Rv0569	cds
+ Rv0808	cds
+ Rv2003c	cds
+ Rv2629	cds
+ Rv1733c	cds
+ Rv1996	cds
+ Rv2627c	cds
+ Rv3237c	cds
+ Rv3130c	cds
+ Rv1997	cds
+ Rv2004c	cds
+ Rv0570	cds
+ Rv2032	cds
+ Rv3131	cds
+ Rv2005c	cds
+ Rv1813c	cds
+ Rv2006	cds
+ Rv2626c	cds
+ Rv0680c	cds
+ Rv2630	cds
+ Rv2740	cds
+ Rv1738	cds
+ Rv2031c	cds
+ Rv1419	cds
+ Rv2625c	cds
+ Rv1100	cds
+ Rv0038	cds
+ Rv2624c	cds
+ Rv0078B	cds
+ Rv3127	cds
+ Rv0377	cds
+ Rv2393	cds
+ Rv2391	cds
+ Rv2030c	cds
+ Rv2482c	cds
+ Rv0080	cds
+ Rv3837c	cds
+ Rv1735c	cds
+ Rv3134c	cds
+ Rv2028c	cds
+ Rv0079	cds
+ Rv1737c	cds
+ Rv0757	cds
+ Rv0081	cds
+ Rv3133c	cds
+ Rv0246	cds
+ Rv3601c	cds
+ Rv2459	cds
+ Rv2392	cds
+ Rv3132c	cds
+ Rv1593c	cds
+ Rv2007c	cds
+ Rv2027c	cds
+ Rv1844c	cds
+ Rv1209	cds
+ Rv1736c	cds
+ Rv1155	cds
+ Rv0876c	cds
+ Rv2713	cds
+ Rv2375	cds
+ Rv0572c	cds
+ Rv2029c	cds
+ Rv2910c	cds
+ Rv0082	cds
+ Rv1950c	cds
+ Rv3125c	cds
+ Rv2137c	cds
+ Rv3566c	cds
+ Rv0253	cds
+ Rv2053c	cds
+ Rv0922	cds
+ Rv1759c	cds
+ Rv1940	cds
+ Rv3600c	cds
+ Rv0794c	cds
+ Rv1619	cds
+ Rv0208c	cds
+ Rv0561c	cds
+ Rv2361c	cds
+ Rv3009c	cds
+ Rv3906c	cds
+ Rv1139c	cds
+ Rv0551c	cds
+ Rv3540c	cds
+ Rv1202	cds
+ Rv1722	cds
+ Rv1729c	cds
+ Rv3900c	cds
+ Rv1853	cds
+ Rv2904c	cds
+ Rv0594	cds
+ Rv3470c	cds
+ Rv3541c	cds
+ Rv1768	cds
+ Rv2896c	cds
+ Rv2524c	cds
+ Rv1345	cds
+ Rv3356c	cds
+ Rv2376c	cds
+ Rv0911	cds
+ Rv1944c	cds
+ Rv1055	cds
+ Rv0688	cds
+ Rv0378	cds
+ Rv3560c	cds
+ Rv1542c	cds
+ Rv1682	cds
+ Rv1653	cds
+ Rv0092	cds
+ Rv0609A	cds
+ Rv0531	cds
+ Rv0370c	cds
+ Rv0138	cds
+ Rv1376	cds
+ Rv2165c	cds
+ Rv0730	cds
+ Rv1503c	cds
+ Rv1580c	cds
+ Rv1654	cds
+ Rv2645	cds
+ Rv2306A	cds
+ Rv0096	cds
+ Rv1508A	cds
+ Rv0083	cds
+ Rv1254	cds
+ Rv0443	cds
+ Rv1357c	cds
+ Rv0094c	cds
+ Rv0616A	cds
+ Rv2943A	cds
+ Rv3324c	cds
+ Rv3112	cds
+ Rv1119c	cds
+ Rv0022c	cds
+ Rv0209	cds
+ Rv0182c	cds
+ Rv0455c	cds
+ Rv0900	cds
+ Rv1579c	cds
+ Rv1656	cds
+ Rv3097c	cds
+ Rv1053c	cds
+ Rv1355c	cds
+ Rv1951c	cds
+ Rv1500	cds
+ Rv0726c	cds
+ Rv3872	cds
+ Rv0061c	cds
+ Rv0318c	cds
+ Rv1300	cds
+ Rv2598	cds
+ Rv0300	cds
+ Rv2751	cds
+ Rv0657c	cds
+ Rv3580c	cds
+ Rv3472	cds
+ Rv0070c	cds
+ Rv2579	cds
+ Rv1106c	cds
+ Rv3266c	cds
+ Rv0133	cds
+ Rv0269c	cds
+ Rv1569	cds
+ Rv1570	cds
+ Rv1568	cds
+ Rv2586c	cds
+ Rv0660c	cds
+ Rv3490	cds
+ Rv0380c	cds
+ Rv1003	cds
+ Rv3441c	cds
+ Rv2980	cds
+ Rv0479c	cds
+ Rv2537c	cds
+ Rv0006	cds
+ Rv1108c	cds
+ Rv1399c	cds
+ Rv1408	cds
+ Rv0510	cds
+ Rv3607c	cds
+ Rv1563c	cds
+ Rv3489	cds
+ Rv0206c	cds
+ Rv3606c	cds
+ Rv2678c	cds
+ Rv0288	cds
+ Rv1449c	cds
+ Rv0339c	cds
+ Rv2207	cds
+ Rv2063A	cds
+ Rv2173	cds
+ Rv2991	cds
+ Rv1389	cds
+ Rv2940c	cds
+ Rv0902c	cds
+ Rv3608c	cds
+ Rv2153c	cds
+ Rv1325c	cds
+ Rv2083	cds
+ Rv3256c	cds
+ Rv3409c	cds
+ Rv2977c	cds
+ Rv0540	cds
+ Rv1794	cds
+ Rv0532	cds
+ Rv0515	cds
+ Rv2048c	cds
+ Rv1133c	cds
+ Rv2677c	cds
+ Rv1796	cds
+ Rv2587c	cds
+ Rv2314c	cds
+ Rv2092c	cds
+ Rv3813c	cds
+ Rv3296	cds
+ Rv0398c	cds
+ Rv2900c	cds
+ Rv2325c	cds
+ Rv1643	cds
+ Rv1095	cds
+ Rv3605c	cds
+ Rv3364c	cds
+ Rv0336	cds
+ Rv0399c	cds
+ Rv2850c	cds
+ Rv3363c	cds
+ Rv3389c	cds
+ Rv3039c	cds
+ Rv3655c	cds
+ Rv1422	cds
+ Rv2149c	cds
+ Rv3365c	cds
+ Rv2994	cds
+ Rv0536	cds
+ Rv0425c	cds
+ Rv3701c	cds
+ Rv2155c	cds
+ Rv2691	cds
+ Rv0007	cds
+ Rv3433c	cds
+ Rv1409	cds
+ Rv0509	cds
+ Rv2326c	cds
+ Rv3300c	cds
+ Rv3410c	cds
+ Rv3700c	cds
+ Rv2047c	cds
+ Rv2208	cds
+ Rv3297	cds
+ Rv0012	cds
+ Rv0742	cds
+ Rv3702c	cds
+ Rv3814c	cds
+ Rv3593	cds
+ Rv0562	cds
+ Rv0956	cds
+ Rv1561	cds
+ Rv2812	cds
+ Rv2759c	cds
+ Rv3579c	cds
+ Rv3845	cds
+ Rv2424c	cds
+ Rv1336	cds
+ Rv0187	cds
+ Rv1420	cds
+ Rv2103c	cds
+ Rv2807	cds
+ Rv3899c	cds
+ Rv3673c	cds
+ Rv3721c	cds
+ Rv0240	cds
+ Rv2242	cds
+ Rv1617	cds
+ Rv0301	cds
+ Rv0964c	cds
+ Rv2647	cds
+ Rv1296	cds
+ Rv2924c	cds
+ Rv3653	cds
+ Rv2253	cds
+ Rv0735	cds
+ Rv2828c	cds
+ Rv3520c	cds
+ Rv2252	cds
+ Rv3230c	cds
+ Rv1066	cds
+ Rv2813	cds
+ Rv3602c	cds
+ Rv3705c	cds
+ Rv1789	cds
+ Rv2251	cds
+ Rv0414c	cds
+ Rv0383c	cds
+ Rv3562	cds
+ Rv3658c	cds
+ Rv3561	cds
+ Rv0437c	cds
+ Rv3139	cds
+ Rv0972c	cds
+ Rv1557	cds
+ Rv2413c	cds
+ Rv2250A	cds
+ Rv3219	cds
+ Rv3532	cds
+ Rv3563	cds
+ Rv1790	cds
+ Rv3657c	cds
+ Rv2988c	cds
+ Rv2989	cds
+ Rv0146	cds
+ Rv2055c	cds
+ Rv3552	cds
+ Rv1655	cds
+ Rv0093c	cds
+ Rv1146	cds
+ Rv3704c	cds
+ Rv0973c	cds
+ Rv0001	cds
+ Rv1658	cds
+ Rv3229c	cds
+ Rv1159	cds
+ Rv0974c	cds
+ Rv0279c	cds
+ Rv3123	cds
+ Rv3703c	cds
+ Rv2622	cds
+ Rv0822c	cds
+ Rv3328c	cds
+ Rv1243c	cds
+ Rv3752c	cds
+ Rv2987c	cds
+ Rv0859	cds
+ Rv1459c	cds
+ Rv1094	cds
+ Rv0975c	cds
+ Rv1856c	cds
+ Rv0839	cds
+ Rv2388c	cds
+ Rv2840c	cds
+ Rv1441c	cds
+ Rv3564	cds
+ Rv0976c	cds
+ Rv0824c	cds
+ Rv0971c	cds
+ Rv3551	cds
+ Rv0679c	cds
+ Rv0145	cds
+ Rv0484c	cds
+ Rv2024c	cds
+ Rv0264c	cds
+ Rv1657	cds
+ Rv2046	cds
+ Rv3553	cds
+ Rv0823c	cds
+ Rv2724c	cds
+ Rv3440c	cds
+ Rv2328	cds
+ Rv3488	cds
+ Rv2928	cds
+ Rv2956	cds
+ Rv1837c	cds
+ Rv3809c	cds
+ Rv3316	cds
+ Rv1240	cds
+ Rv2198c	cds
+ Rv0634B	cds
+ Rv3442c	cds
+ Rv0130	cds
+ Rv0055	cds
+ Rv2960c	cds
+ Rv0867c	cds
+ Rv3400	cds
+ Rv3443c	cds
+ Rv2735c	cds
+ Rv0948c	cds
+ Rv1906c	cds
+ Rv2758c	cds
+ Rv3857c	cds
+ Rv0321	cds
+ Rv0717	cds
+ Rv2274A	cds
+ Rv3374	cds
+ Rv2404c	cds
+ Rv0466	cds
+ Rv3893c	cds
+ Rv2274c	cds
+ Rv3135	cds
+ Rv3020c	cds
+ Rv0395	cds
+ Rv1212c	cds
+ Rv2269c	cds
+ Rv2690c	cds
+ Rv1888A	cds
+ Rv2617c	cds
+ Rv2123	cds
+ Rv3833	cds
+ Rv1720c	cds
+ Rv3098A	cds
+ Rv0849	cds
+ Rv0045c	cds
+ Rv0150c	cds
+ Rv0267	cds
+ Rv0353	cds
+ Rv0961	cds
+ Rv3501c	cds
+ Rv1443c	cds
+ Rv1742	cds
+ Rv2717c	cds
+ Rv0190	cds
+ Rv0850	cds
+ Rv1250	cds
+ Rv0987	cds
+ Rv2577	cds
+ Rv3558	cds
+ Rv3462c	cds
+ Rv0128	cds
+ Rv1766	cds
+ Rv1052	cds
+ Rv0396	cds
+ Rv1744c	cds
+ Rv0725c	cds
+ Rv1529	cds
+ Rv1518	cds
+ Rv1959c	cds
+ Rv1827	cds
+ Rv0349	cds
+ Rv2423	cds
+ Rv3397c	cds
+ Rv1948c	cds
+ Rv1050	cds
+ Rv2300c	cds
+ Rv1267c	cds
+ Rv2964	cds
+ Rv3191c	cds
+ Rv1117	cds
+ Rv2416c	cds
+ Rv2824c	cds
+ Rv2473	cds
+ Rv1917c	cds
+ Rv1358	cds
+ Rv2528c	cds
+ Rv2962c	cds
+ Rv0759c	cds
+ Rv1051c	cds
+ Rv0109	cds
+ Rv0755c	cds
+ Rv2333c	cds
+ Rv0157A	cds
+ Rv2632c	cds
+ Rv0502	cds
+ Rv3633	cds
+ Rv1365c	cds
+ Rv2633c	cds
+ Rv0851c	cds
+ Rv1833c	cds
+ Rv1877	cds
+ Rv3491	cds
+ Rv2301	cds
+ Rv1284	cds
+ Rv0141c	cds
+ Rv2469c	cds
+ Rv3788	cds
+ Rv3390	cds
+ Rv3680	cds
+ Rv0480c	cds
+ Rv1778c	cds
+ Rv2683	cds
+ Rv0921	cds
+ Rv2201	cds
+ Rv3438	cds
+ Rv2931	cds
+ Rv0457c	cds
+ Rv1339	cds
+ Rv1635c	cds
+ Rv0645c	cds
+ Rv1317c	cds
+ Rv3830c	cds
+ Rv1058	cds
+ Rv2428	cds
+ Rv2429	cds
+ Rv0420c	cds
+ Rv2453c	cds
+ Rv3436c	cds
+ Rv0904c	cds
+ Rv2368c	cds
+ Rv3724B	cds
+ Rv2226	cds
+ Rv2450c	cds
+ Rv1854c	cds
+ Rv3240c	cds
+ Rv3484	cds
+ Rv2727c	cds
+ Rv0361	cds
+ Rv0440	cds
+ Rv2518c	cds
+ Rv2930	cds
+ Rv2454c	cds
+ Rv1199c	cds
+ Rv1356c	cds
+ Rv0784	cds
+ Rv2801c	cds
+ Rv2455c	cds
+ Rv0727c	cds
+ Rv0814c	cds
+ Rv1625c	cds
+ Rv3384c	cds
+ Rv2107	cds
+ Rv0729	cds
+ Rv0815c	cds
+ Rv1587c	cds
+ Rv3517	cds
+ Rv3451	cds
+ Rv3483c	cds
+ Rv1034c	cds
+ Rv2234	cds
+ Rv1350	cds
+ Rv3091	cds
+ Rv2546	cds
+ Rv3118	cds
+ Rv2665	cds
+ Rv0464c	cds
+ Rv0362	cds
+ Rv1845c	cds
+ Rv1594	cds
+ Rv3092c	cds
+ Rv2512c	cds
+ Rv3117	cds
+ Rv0805	cds
+ Rv1192	cds
+ Rv0485	cds
+ Rv2728c	cds
+ Rv1194c	cds
+ Rv0389	cds
+ Rv2729c	cds
+ Rv1012	cds
+ Rv0872c	cds
+ Rv2501c	cds
+ Rv2741	cds
+ Rv1084	cds
+ Rv2500c	cds
+ Rv2395B	cds
+ Rv0297	cds
+ Rv1840c	cds
+ Rv2505c	cds
+ Rv1651c	cds
+ Rv3342	cds
+ Rv0747	cds
+ Rv3341	cds
+ Rv2159c	cds
+ Rv2161c	cds
+ Rv2502c	cds
+ Rv3086	cds
+ Rv2504c	cds
+ Rv2499c	cds
+ Rv2695	cds
+ Rv2340c	cds
+ Rv3391	cds
+ Rv0648	cds
+ Rv1808	cds
+ Rv1818c	cds
+ Rv2160A	cds
+ Rv2640c	cds
+ Rv3197	cds
+ Rv0977	cds
+ Rv0492A	cds
+ Rv1161	cds
+ Rv0136	cds
+ Rv2503c	cds
+ Rv3088	cds
+ Rv3124	cds
+ Rv3087	cds
+ Rv2800	cds
+ Rv0886	cds
+ Rv2853	cds
+ Rv1809	cds
+ Rv2124c	cds
+ Rv2395A	cds
+ Rv0475	cds
+ Rv1627c	cds
+ Rv0467	cds
+ Rv1488	cds
+ Rv3507	cds
+ Rv3590c	cds
+ Rv3411c	cds
+ Rv3241c	cds
+ Rv0885	cds
+ Rv1468c	cds
+ Rv3873	cds
+ Rv0492c	cds
+ Rv1174c	cds
+ Rv3337	cds
+ Rv0238	cds
+ Rv0982	cds
+ Rv1646	cds
+ Rv0244c	cds
+ Rv0147	cds
+ Rv0468	cds
+ Rv0211	cds
+ Rv1779c	cds
+ Rv1245c	cds
+ Rv0469	cds
+ Rv2249c	cds
+ Rv3855	cds
+ Rv1799	cds
+ Rv3881c	cds
+ Rv3338	cds
+ Rv2652c	cds
+ Rv0305c	cds
+ Rv3912	cds
+ Rv0818	cds
+ Rv2131c	cds
+ Rv2130c	cds
+ Rv1535	cds
+ Rv1057	cds
+ Rv1154c	cds
+ Rv3550	cds
+ Rv3556c	cds
+ Rv3746c	cds
+ Rv3420c	cds
+ Rv1405c	cds
+ Rv1375	cds
+ Rv3066	cds
+ Rv3065	cds
+ Rv0067c	cds
+ Rv0195	cds
+ Rv1323	cds
+ Rv1572c	cds
+ Rv2250c	cds
+ Rv2619c	cds
+ Rv3620c	cds
+ Rv3619c	cds
+ Rv1793	cds
+ Rv0942	cds
+ Rv3196A	cds
+ Rv3583c	cds
+ Rv3891c	cds
+ Rv2108	cds
+ Rv2708c	cds
+ Rv3890c	cds
+ Rv0873	cds
+ Rv0944	cds
+ Rv2949c	cds
+ Rv2950c	cds
+ Rv3706c	cds
+ Rv2955c	cds
+ Rv1903	cds
+ Rv2772c	cds
+ Rv2833c	cds
+ Rv1321	cds
+ Rv2331	cds
+ Rv1298	cds
+ Rv1402	cds
+ Rv1190	cds
+ Rv2236c	cds
+ Rv1189	cds
+ Rv0938	cds
+ Rv2832c	cds
+ Rv3649	cds
+ Rv0901	cds
+ Rv0557	cds
+ Rv1754c	cds
+ Rv2200c	cds
+ Rv2199c	cds
+ Rv0025	cds
+ Rv2746c	cds
+ Rv0344c	cds
+ Rv1509	cds
+ Rv0489	cds
+ Rv0506	cds
+ Rv2194	cds
+ Rv3632	cds
+ Rv0204c	cds
+ Rv2195	cds
+ Rv3261	cds
+ Rv2193	cds
+ Rv3584	cds
+ Rv3208A	cds
+ Rv3075c	cds
+ Rv0507	cds
+ Rv3099c	cds
+ Rv3246c	cds
+ Rv0363c	cds
+ Rv2574	cds
+ Rv0017c	cds
+ Rv1523	cds
+ Rv3043c	cds
+ Rv0462	cds
+ Rv1306	cds
+ Rv0247c	cds
+ Rv1497	cds
+ Rv0364	cds
+ Rv3634c	cds
+ Rv1304	cds
+ Rv0404	cds
+ Rv2351c	cds
+ Rv3821	cds
+ Rv0640	cds
+ Rv1524	cds
+ Rv3820c	cds
+ Rv3116	cds
+ Rv1307	cds
+ Rv3877	cds
+ Rv1819c	cds
+ Rv2080	cds
+ Rv1923	cds
+ Rv1305	cds
+ Rv3274c	cds
+ Rv2909c	cds
+ Rv1308	cds
+ Rv3262	cds
+ Rv1310	cds
+ Rv1309	cds
+ Rv1311	cds
+ Rv0685	cds
+ Rv0113	cds
+ Rv2542	cds
+ Rv1201c	cds
+ Rv1077	cds
+ Rv3812	cds
+ Rv3119	cds
+ Rv0066c	cds
+ Rv3077	cds
+ Rv2438c	cds
+ Rv1525	cds
+ Rv0500A	cds
+ Rv3263	cds
+ Rv1104	cds
+ Rv2720	cds
+ Rv1415	cds
+ Rv1142c	cds
+ Rv2268c	cds
+ Rv1448c	cds
+ Rv0163	cds
+ Rv1237	cds
+ Rv0043c	cds
+ Rv2941	cds
+ Rv0929	cds
+ Rv2120c	cds
+ Rv0089	cds
+ Rv0505c	cds
+ Rv1765c	cds
+ Rv1032c	cds
+ Rv0088	cds
+ Rv2284	cds
+ Rv3645	cds
+ Rv3038c	cds
+ Rv0278c	cds
+ Rv3074	cds
+ Rv0577	cds
+ Rv1773c	cds
+ Rv3394c	cds
+ Rv2589	cds
+ Rv3776	cds
+ Rv2166c	cds
+ Rv1820	cds
+ Rv2559c	cds
+ Rv3879c	cds
+ Rv0604	cds
+ Rv2362c	cds
+ Rv3201c	cds
+ Rv2164c	cds
+ Rv0829	cds
+ Rv1633	cds
+ Rv1699	cds
+ Rv1378c	cds
+ Rv3202c	cds
+ Rv3395c	cds
+ Rv0649	cds
+ Rv2255c	cds
+ Rv3321c	cds
+ Rv3320c	cds
+ Rv3311	cds
+ Rv1566c	cds
+ Rv0040c	cds
+ Rv2525c	cds
+ Rv3310	cds
+ Rv3414c	cds
+ Rv3413c	cds
+ Rv0179c	cds
+ Rv1477	cds
+ Rv3330	cds
+ Rv1436	cds
+ Rv3717	cds
+ Rv2594c	cds
+ Rv0642c	cds
+ Rv1233c	cds
+ Rv0063	cds
+ Rv0632c	cds
+ Rv3811	cds
+ Rv2748c	cds
+ Rv0651	cds
+ Rv3267	cds
+ Rv2986c	cds
+ Rv1059	cds
+ Rv3378c	cds
+ Rv3209	cds
+ Rv0129c	cds
+ Rv1626	cds
+ Rv3810	cds
+ Rv3317	cds
+ Rv0207c	cds
+ Rv1543	cds
+ Rv1676	cds
+ Rv1017c	cds
+ Rv1158c	cds
+ Rv2894c	cds
+ Rv0996	cds
+ Rv1252c	cds
+ Rv1435c	cds
+ Rv1830	cds
+ Rv2154c	cds
+ Rv0504c	cds
+ Rv2033c	cds
+ Rv2241	cds
+ Rv2425c	cds
+ Rv3110	cds
+ Rv3291c	cds
+ Rv3315c	cds
+ Rv2289	cds
+ Rv3171c	cds
+ Rv1036c	cds
+ Rv2975c	cds
+ Rv2023c	cds
+ Rv1762c	cds
+ Rv0599c	cds
+ Rv1761c	cds
+ Rv2068c	cds
+ Rv2079	cds
+ Rv0533c	cds
+ Rv0999	cds
+ Rv1512	cds
+ Rv3716c	cds
+ Rv1080c	cds
+ Rv1430	cds
+ Rv3666c	cds
+ Rv0199	cds
+ Rv1691	cds
+ Rv3220c	cds
+ Rv1692	cds
+ Rv1865c	cds
+ Rv2287	cds
+ Rv0161	cds
+ Rv0895	cds
+ Rv1214c	cds
+ Rv3611	cds
+ Rv2922A	cds
+ Rv2573	cds
+ Rv2834c	cds
+ Rv2791c	cds
+ Rv2923c	cds
+ Rv1545	cds
+ Rv3014c	cds
+ Rv1128c	cds
+ Rv3369	cds
+ Rv3015c	cds
+ Rv3003c	cds
+ Rv2439c	cds
+ Rv3001c	cds
+ Rv3002c	cds
+ Rv2835c	cds
+ Rv0598c	cds
+ Rv0156	cds
+ Rv0546c	cds
+ Rv1273c	cds
+ Rv3576	cds
+ Rv3577	cds
+ Rv0556	cds
+ Rv0799c	cds
+ Rv0429c	cds
+ Rv2957	cds
+ Rv0183	cds
+ Rv0525	cds
+ Rv2939	cds
+ Rv1836c	cds
+ Rv0524	cds
+ Rv2808	cds
+ Rv1751	cds
+ Rv3604c	cds
+ Rv3376	cds
+ Rv0059	cds
+ Rv3578	cds
+ Rv2938	cds
+ Rv1612	cds
+ Rv0780	cds
+ Rv2275	cds
+ Rv0774c	cds
+ Rv0058	cds
+ Rv3852	cds
+ Rv2605c	cds
+ Rv0189c	cds
+ Rv3155	cds
+ Rv2611c	cds
+ Rv2937	cds
+ Rv1098c	cds
+ Rv2973c	cds
+ Rv1024	cds
+ Rv3882c	cds
+ Rv1689	cds
+ Rv0945	cds
+ Rv1700	cds
+ Rv0394c	cds
+ Rv3393	cds
+ Rv0548c	cds
+ Rv2936	cds
+ Rv0057	cds
+ Rv3373	cds
+ Rv2604c	cds
+ Rv0003	cds
+ Rv2922c	cds
+ Rv2857c	cds
+ Rv2935	cds
+ Rv2886c	cds
+ Rv0153c	cds
+ Rv0643c	cds
+ Rv2114	cds
+ Rv2412	cds
+ Rv2876	cds
+ Rv2187	cds
+ Rv3528c	cds
+ Rv2442c	cds
+ Rv0231	cds
+ Rv0880	cds
+ Rv0644c	cds
+ Rv1363c	cds
+ Rv3846	cds
+ Rv3847	cds
+ Rv3892c	cds
+ Rv1899c	cds
+ Rv2584c	cds
+ Rv2396	cds
+ Rv3660c	cds
+ Rv0371c	cds
+ Rv3654c	cds
+ Rv2414c	cds
+ Rv1489A	cds
+ Rv3582c	cds
+ Rv3652	cds
+ Rv0603	cds
+ Rv2231B	cds
+ Rv2262c	cds
+ Rv2918c	cds
+ Rv3175	cds
+ Rv2129c	cds
+ Rv3430c	cds
+ Rv1900c	cds
+ Rv2158c	cds
+ Rv3084	cds
+ Rv0543c	cds
+ Rv0578c	cds
+ Rv3085	cds
+ Rv3083	cds
+ Rv3860	cds
+ Rv3767c	cds
+ Rv3825c	cds
+ Rv3615c	cds
+ Rv0939	cds
+ Rv1162	cds
+ Rv1265	cds
+ Rv2650c	cds
+ Rv2157c	cds
+ Rv1404	cds
+ Rv3614c	cds
+ Rv3618	cds
+ Rv1134	cds
+ Rv0230c	cds
+ Rv2263	cds
+ Rv1163	cds
+ Rv2162c	cds
+ Rv3616c	cds
+ Rv3797	cds
+ Rv1065	cds
+ Rv3705A	cds
+ Rv3617	cds
+ Rv2590	cds
+ Rv0148	cds
+ Rv2608	cds
+ Rv0870c	cds
+ Rv0869c	cds
+ Rv2343c	cds
+ Rv3859c	cds
+ Rv2875	cds
+ Rv1392	cds
+ Rv1871c	cds
+ Rv2799	cds
+ Rv2591	cds
+ Rv1872c	cds
+ Rv0611c	cds
+ Rv0909	cds
+ Rv1187	cds
+ Rv0981	cds
+ Rv2172c	cds
+ Rv2156c	cds
+ Rv1205	cds
+ Rv3854c	cds
+ Rv0263c	cds
+ Rv3871	cds
+ Rv2588c	cds
+ Rv1188	cds
+ Rv3613c	cds
+ Rv0998	cds
+ Rv0953c	cds
+ Rv3870	cds
+ Rv0535	cds
+ Rv2132	cds
+ Rv1120c	cds
+ Rv0011c	cds
+ Rv2702	cds
+ Rv3753c	cds
+ Rv0516c	cds
+ Rv3323c	cds
+ Rv3162c	cds
+ Rv0142	cds
+ Rv2219A	cds
+ Rv3889c	cds
+ Rv1489	cds
+ Rv2261c	cds
+ Rv0580c	cds
+ Rv2825c	cds
+ Rv1554	cds
+ Rv1552	cds
+ Rv1555	cds
+ Rv0914c	cds
+ Rv1486c	cds
+ Rv1553	cds
+ Rv2406c	cds
+ Rv0458	cds
+ Rv0104	cds
+ Rv1206	cds
+ Rv0459	cds
+ Rv0270	cds
+ Rv1810	cds
+ Rv0165c	cds
+ Rv1567c	cds
+ Rv0821c	cds
+ Rv0655	cds
+ Rv3227	cds
+ Rv1299	cds
+ Rv0959	cds
+ Rv2767c	cds
+ Rv2847c	cds
+ Rv2535c	cds
+ Rv2554c	cds
+ Rv2869c	cds
+ Rv0201c	cds
+ Rv1224	cds
+ Rv0486	cds
+ Rv1537	cds
+ Rv2802c	cds
+ Rv2221c	cds
+ Rv1229c	cds
+ Rv2064	cds
+ Rv2533c	cds
+ Rv3141	cds
+ Rv3006	cds
+ Rv2125	cds
+ Rv3838c	cds
+ Rv3661	cds
+ Rv2696c	cds
+ Rv2394	cds
+ Rv1821	cds
+ Rv3228	cds
+ Rv0400c	cds
+ Rv3090	cds
+ Rv1314c	cds
+ Rv1774	cds
+ Rv0453	cds
+ Rv0748	cds
+ Rv0482	cds
+ Rv1113	cds
+ Rv1943c	cds
+ Rv0662c	cds
+ Rv2520c	cds
+ Rv2075c	cds
+ Rv3780	cds
+ Rv2010	cds
+ Rv1075c	cds
+ Rv2562	cds
+ Rv2009	cds
+ Rv1690	cds
+ Rv2550c	cds
+ Rv2734	cds
+ Rv3399	cds
+ Rv2581c	cds
+ Rv2078	cds
+ Rv3461c	cds
+ Rv1560	cds
+ Rv0454	cds
+ Rv1962A	cds
+ Rv3675	cds
+ Rv2607	cds
+ Rv1912c	cds
+ Rv1745c	cds
+ Rv1335	cds
+ Rv3524	cds
+ Rv0196	cds
+ Rv2324	cds
+ Rv1029	cds
+ Rv3360	cds
+ Rv1344	cds
+ Rv1913	cds
+ Rv2492	cds
+ Rv0816c	cds
+ Rv0609	cds
+ Rv0060	cds
+ Rv1343c	cds
+ Rv0452	cds
+ Rv0989c	cds
+ Rv0329c	cds
+ Rv2185c	cds
+ Rv2526	cds
+ Rv1246c	cds
+ Rv3179	cds
+ Rv0581	cds
+ Rv2714	cds
+ Rv1472	cds
+ Rv1958c	cds
+ Rv2168c	cds
+ Rv1750c	cds
+ Rv1876	cds
+ Rv2887	cds
+ Rv3226c	cds
+ Rv3424c	cds
+ Rv2722	cds
+ Rv2440c	cds
+ Rv0031	cds
+ Rv0614	cds
+ Rv3862c	cds
+ Rv2441c	cds
+ Rv0962c	cds
+ Rv3745c	cds
+ Rv3863	cds
+ Rv1103c	cds
+ Rv1688	cds
+ Rv1471	cds
+ Rv0191	cds
+ Rv2514c	cds
+ Rv3668c	cds
+ Rv2179c	cds
+ Rv1616	cds
+ Rv2452c	cds
+ Rv3095	cds
+ Rv3864	cds
+ Rv2283	cds
+ Rv2323c	cds
+ Rv2916c	cds
+ Rv0985c	cds
+ Rv0214	cds
+ Rv0365c	cds
+ Rv0197	cds
+ Rv1235	cds
+ Rv1247c	cds
+ Rv3418c	cds
+ Rv1037c	cds
+ Rv2308	cds
+ Rv1001	cds
+ Rv0986	cds
+ Rv2873	cds
+ Rv1575	cds
+ Rv1861	cds
+ Rv0963c	cds
+ Rv1949c	cds
+ Rv3070	cds
+ Rv2008c	cds
+ Rv3901c	cds
+ Rv2307B	cds
+ Rv2312	cds
+ Rv2893	cds
+ Rv3622c	cds
+ Rv1817	cds
+ Rv1502	cds
+ Rv1835c	cds
+ Rv3783	cds
+ Rv3329	cds
+ Rv1630	cds
+ Rv1825	cds
+ Rv2566	cds
+ Rv2445c	cds
+ Rv3793	cds
+ Rv0433	cds
+ Rv2417c	cds
+ Rv0463	cds
+ Rv2258c	cds
+ Rv3795	cds
+ Rv0788	cds
+ Rv1438	cds
+ Rv0618	cds
+ Rv0072	cds
+ Rv0010c	cds
+ Rv0099	cds
+ Rv3691	cds
+ Rv3335c	cds
+ Rv1360	cds
+ Rv0317c	cds
+ Rv3849	cds
+ Rv1354c	cds
+ Rv1591	cds
+ Rv0178	cds
+ Rv0719	cds
+ Rv2395	cds
+ Rv2530A	cds
+ Rv0734	cds
+ Rv1427c	cds
+ Rv0544c	cds
+ Rv2344c	cds
+ Rv2228c	cds
+ Rv3231c	cds
+ Rv3792	cds
+ Rv1417	cds
+ Rv0716	cds
+ Rv0098	cds
+ Rv2972c	cds
+ Rv1195	cds
+ Rv0051	cds
+ Rv1822	cds
+ Rv0935	cds
+ Rv2062c	cds
+ Rv0699	cds
+ Rv2190c	cds
+ Rv3496c	cds
+ Rv3884c	cds
+ Rv0103c	cds
+ Rv0704	cds
+ Rv3828c	cds
+ Rv2508c	cds
+ Rv0936	cds
+ Rv0424c	cds
+ Rv1006	cds
+ Rv0101	cds
+ Rv1885c	cds
+ Rv3894c	cds
+ Rv3494c	cds
+ Rv2174	cds
+ Rv3492c	cds
+ Rv2475c	cds
+ Rv2136c	cds
+ Rv3495c	cds
+ Rv1426c	cds
+ Rv2881c	cds
+ Rv3782	cds
+ Rv0004	cds
+ Rv2565	cds
+ Rv1125	cds
+ Rv2332	cds
+ Rv1200	cds
+ Rv1011	cds
+ Rv1121	cds
+ Rv3671c	cds
+ Rv0052	cds
+ Rv3885c	cds
+ Rv0804	cds
+ Rv1870c	cds
+ Rv2474c	cds
+ Rv2685	cds
+ Rv2752c	cds
+ Rv0434	cds
+ Rv0700	cds
+ Rv1010	cds
+ Rv0878c	cds
+ Rv2899c	cds
+ Rv3383c	cds
+ Rv1506c	cds
+ Rv3040c	cds
+ Rv3886c	cds
+ Rv3920c	cds
+ Rv0222	cds
+ Rv2510c	cds
+ Rv3361c	cds
+ Rv3493c	cds
+ Rv1423	cds
+ Rv2898c	cds
+ Rv1979c	cds
+ Rv2135c	cds
+ Rv2967c	cds
+ Rv3803c	cds
+ Rv2601	cds
+ Rv3432c	cds
+ Rv3339c	cds
+ Rv3210c	cds
+ Rv3215	cds
+ Rv3836	cds
+ Rv3193c	cds
+ Rv3200c	cds
+ Rv3121	cds
+ Rv2806	cds
+ Rv0684	cds
+ Rv2603c	cds
+ Rv3723	cds
+ Rv2144c	cds
+ Rv3190c	cds
+ Rv1703c	cds
+ Rv1702c	cds
+ Rv0041	cds
+ Rv3770B	cds
+ Rv3819	cds
+ Rv1482c	cds
+ Rv3101c	cds
+ Rv1618	cds
+ Rv3100c	cds
+ Rv3771c	cds
+ Rv0666	cds
+ Rv1060	cds
+ Rv0965c	cds
+ Rv1914c	cds
+ Rv2755c	cds
+ Rv2419c	cds
+ Rv1236	cds
+ Rv2815c	cds
+ Rv3694c	cds
+ Rv2184c	cds
+ Rv2805	cds
+ Rv3770c	cds
+ Rv3834c	cds
+ Rv1054	cds
+ Rv0180c	cds
+ Rv1118c	cds
+ Rv3435c	cds
+ Rv0277c	cds
+ Rv2183c	cds
+ Rv0501	cds
+ Rv0126	cds
+ Rv3475	cds
+ Rv0592	cds
+ Rv2891	cds
+ Rv1905c	cds
+ Rv3770A	cds
+ Rv2222c	cds
+ Rv2069	cds
+ Rv0472c	cds
+ Rv2309c	cds
+ Rv2097c	cds
+ Rv1076	cds
+ Rv1521	cds
+ Rv0634c	cds
+ Rv3769	cds
+ Rv3408	cds
+ Rv3768	cds
+ Rv2816c	cds
+ Rv2855	cds
+ Rv1303	cds
+ Rv3407	cds
+ Rv0863	cds
+ Rv1925	cds
+ Rv1620c	cds
+ Rv1608c	cds
+ Rv1101c	cds
+ Rv1621c	cds
+ Rv2290	cds
+ Rv1424c	cds
+ Rv2576c	cds
+ Rv2969c	cds
+ Rv2521	cds
+ Rv3697A	cds
+ Rv1927	cds
+ Rv1156	cds
+ Rv1846c	cds
+ Rv1812c	cds
+ Rv1864c	cds
+ Rv2527	cds
+ Rv2280	cds
+ Rv3004	cds
+ Rv2575	cds
+ Rv1623c	cds
+ Rv1622c	cds
+ Rv1624c	cds
+ Rv2281	cds
+ Rv1316c	cds
+ Rv1330c	cds
+ Rv2227	cds
+ Rv2232	cds
+ Rv3831	cds
+ Rv2561	cds
+ Rv3096	cds
+ Rv2864c	cds
+ Rv2747	cds
+ Rv0616c	cds
+ Rv2529	cds
+ Rv0310c	cds
+ Rv0078	cds
+ Rv0021c	cds
+ Rv1541c	cds
+ Rv0358	cds
+ Rv1753c	cds
+ Rv2560	cds
+ Rv2999	cds
+ Rv3108	cds
+ Rv0845	cds
+ Rv0315	cds
+ Rv2547	cds
+ Rv1839c	cds
+ Rv2436	cds
+ Rv2606c	cds
+ Rv3109	cds
+ Rv1683	cds
+ Rv1137c	cds
+ Rv0298	cds
+ Rv2568c	cds
+ Rv1499	cds
+ Rv3143	cds
+ Rv0565c	cds
+ Rv1902c	cds
+ Rv3667	cds
+ Rv0320	cds
+ Rv2673	cds
+ Rv2571c	cds
+ Rv0608	cds
+ Rv1757c	cds
+ Rv1763	cds
+ Rv1238	cds
+ Rv1495	cds
+ Rv2077A	cds
+ Rv0213c	cds
+ Rv3718c	cds
+ Rv0456A	cds
+ Rv1498c	cds
+ Rv0626	cds
+ Rv0159c	cds
+ Rv1866	cds
+ Rv2357c	cds
+ Rv3876	cds
+ Rv0795	cds
+ Rv1527c	cds
+ Rv1665	cds
+ Rv3486	cds
+ Rv3114	cds
+ Rv2354	cds
+ Rv2648	cds
+ Rv3325	cds
+ Rv3592	cds
+ Rv0596c	cds
+ Rv2105	cds
+ Rv0334	cds
+ Rv0892	cds
+ Rv0600c	cds
+ Rv1490	cds
+ Rv1962c	cds
+ Rv0306	cds
+ Rv1982c	cds
+ Rv2480c	cds
+ Rv3905c	cds
+ Rv2823c	cds
+ Rv1258c	cds
+ Rv2513	cds
+ Rv1896c	cds
+ Rv1370c	cds
+ Rv3113	cds
+ Rv3720	cds
+ Rv3474	cds
+ Rv1105	cds
+ Rv0881	cds
+ Rv0920c	cds
+ Rv0254c	cds
+ Rv1548c	cds
+ Rv3351c	cds
+ Rv3111	cds
+ Rv1434	cds
+ Rv2278	cds
+ Rv0760c	cds
+ Rv0256c	cds
+ Rv2597	cds
+ Rv2917	cds
+ Rv3186	cds
+ Rv1290A	cds
+ Rv2861c	cds
+ Rv2670c	cds
+ Rv0817c	cds
+ Rv1708	cds
+ Rv1709	cds
+ Rv3353c	cds
+ Rv3011c	cds
+ Rv2145c	cds
+ Rv1115	cds
+ Rv1263	cds
+ Rv3352c	cds
+ Rv3459c	cds
+ Rv2614c	cds
+ Rv0456B	cds
+ Rv0228	cds
+ Rv0359	cds
+ Rv2549c	cds
+ Rv1116	cds
+ Rv2363	cds
+ Rv3907c	cds
+ Rv3012c	cds
+ Rv3670	cds
+ Rv2000	cds
+ Rv2572c	cds
+ Rv0593	cds
+ Rv1507A	cds
+ Rv1348	cds
+ Rv1135A	cds
+ Rv2379c	cds
+ Rv2293c	cds
+ Rv3624c	cds
+ Rv0312	cds
+ Rv2721c	cds
+ Rv1987	cds
+ Rv2147c	cds
+ Rv3759c	cds
+ Rv2927c	cds
+ Rv3725	cds
+ Rv1698	cds
+ Rv0896	cds
+ Rv3253c	cds
+ Rv3760	cds
+ Rv3313c	cds
+ Rv3377c	cds
+ Rv1932	cds
+ Rv2311	cds
+ Rv0460	cds
+ Rv2951c	cds
+ Rv3076	cds
+ Rv1433	cds
+ Rv1919c	cds
+ Rv2356c	cds
+ Rv2220	cds
+ Rv2715	cds
+ Rv2267c	cds
+ Rv1476	cds
+ Rv0946c	cds
+ Rv2984	cds
+ Rv3453	cds
+ Rv2686c	cds
+ Rv3019c	cds
+ Rv0186A	cds
+ Rv1767	cds
+ Rv0090	cds
+ Rv0846c	cds
+ Rv3468c	cds
+ Rv0671	cds
+ Rv3018A	cds
+ Rv1922	cds
+ Rv1802	cds
+ Rv3736	cds
+ Rv1429	cds
+ Rv1288	cds
+ Rv0122	cds
+ Rv2963	cds
+ Rv2270	cds
+ Rv0848	cds
+ Rv2019	cds
+ Rv0847	cds
+ Rv3448	cds
+ Rv1910c	cds
+ Rv1957	cds
+ Rv3447c	cds
+ Rv0121c	cds
+ Rv1674c	cds
+ Rv1911c	cds
+ Rv1287	cds
+ Rv3309c	cds
+ Rv1928c	cds
+ Rv1526c	cds
+ Rv1814	cds
+ Rv3638	cds
+ Rv1031	cds
+ Rv0212c	cds
+ Rv0326	cds
+ Rv2309A	cds
+ Rv2854	cds
+ Rv2206	cds
+ Rv2244	cds
+ Rv0048c	cds
+ Rv2410c	cds
+ Rv1953	cds
+ Rv0470c	cds
+ Rv1847	cds
+ Rv1648	cds
+ Rv1013	cds
+ Rv3878	cds
+ Rv2700	cds
+ Rv2644c	cds
+ Rv0341	cds
+ Rv2411c	cds
+ Rv2698	cds
+ Rv2243	cds
+ Rv3403c	cds
+ Rv2852c	cds
+ Rv0342	cds
+ Rv0488	cds
+ Rv2784c	cds
+ Rv0491	cds
+ Rv1592c	cds
+ Rv0411c	cds
+ Rv0410c	cds
+ Rv1539	cds
+ Rv1275	cds
+ Rv3404c	cds
+ Rv0412c	cds
+ Rv0736	cds
+ Rv0450c	cds
+ Rv3217c	cds
+ Rv0448c	cds
+ Rv0451c	cds
+ Rv2675c	cds
+ Rv1465	cds
+ Rv1412	cds
+ Rv1464	cds
+ Rv1638	cds
+ Rv0449c	cds
+ Rv3249c	cds
+ Rv1463	cds
+ Rv2460c	cds
+ Rv1466	cds
+ Rv0149	cds
+ Rv1347c	cds
+ Rv3842c	cds
+ Rv0192	cds
+ Rv1588c	cds
+ Rv3402c	cds
+ Rv0366c	cds
+ Rv2224c	cds
+ Rv3252c	cds
+ Rv2697c	cds
+ Rv2846c	cds
+ Rv1406	cds
+ Rv0481c	cds
+ Rv2306B	cds
+ Rv2383c	cds
+ Rv2377c	cds
+ Rv2121c	cds
+ Rv2386c	cds
+ Rv2378c	cds
+ Rv3056	cds
+ Rv2382c	cds
+ Rv2381c	cds
+ Rv2380c	cds
+ Rv0835	cds
+ Rv1981c	cds
+ Rv0538	cds
+ Rv1519	cds
+ Rv2578c	cds
+ Rv2384	cds
+ Rv1045	cds
+ Rv3250c	cds
+ Rv3251c	cds
+ Rv1565c	cds
+ Rv2178c	cds
+ Rv1289	cds
+ Rv2494	cds
+ Rv2211c	cds
+ Rv2334	cds
+ Rv1564c	cds
+ Rv2582	cds
+ Rv1780	cds
+ Rv3194c	cds
+ Rv0014c	cds
+ Rv0203	cds
+ Rv2213	cds
+ Rv0418	cds
+ Rv2463	cds
+ Rv3264c	cds
+ Rv0431	cds
+ Rv3336c	cds
+ Rv0733	cds
+ Rv3909	cds
+ Rv0498	cds
+ Rv3772	cds
+ Rv0554	cds
+ Rv3280	cds
+ Rv0023	cds
+ Rv2477c	cds
+ Rv0248c	cds
+ Rv0778	cds
+ Rv2543	cds
+ Rv3630	cds
+ Rv1614	cds
+ Rv0773c	cds
+ Rv1021	cds
+ Rv0357c	cds
+ Rv2112c	cds
+ Rv0732	cds
+ Rv0659c	cds
+ Rv0110	cds
+ Rv2883c	cds
+ Rv0444c	cds
+ Rv0715	cds
+ Rv0446c	cds
+ Rv2754c	cds
+ Rv0508	cds
+ Rv2448c	cds
+ Rv0217c	cds
+ Rv1328	cds
+ Rv0056	cds
+ Rv3794	cds
+ Rv1613	cds
+ Rv3307	cds
+ Rv0177	cds
+ Rv0427c	cds
+ Rv2610c	cds
+ Rv2119	cds
+ Rv0356c	cds
+ Rv3260c	cds
+ Rv0500	cds
+ Rv0798c	cds
+ Rv1069c	cds
+ Rv1538c	cds
+ Rv2229c	cds
+ Rv3646c	cds
+ Rv2945c	cds
+ Rv0391	cds
+ Rv3396c	cds
+ Rv3281	cds
+ Rv1457c	cds
+ Rv3888c	cds
+ Rv2612c	cds
+ Rv3255c	cds
+ Rv3375	cds
+ Rv2139	cds
+ Rv3775	cds
+ Rv3786c	cds
+ Rv3779	cds
+ Rv3032A	cds
+ Rv1474c	cds
+ Rv2908c	cds
+ Rv2446c	cds
+ Rv2845c	cds
+ Rv2979c	cds
+ Rv2015c	cds
+ Rv3921c	cds
+ Rv1379	cds
+ Rv1383	cds
+ Rv2476c	cds
+ Rv3715c	cds
+ Rv0663	cds
+ Rv3754	cds
+ Rv2245	cds
+ Rv0605	cds
+ Rv2246	cds
+ Rv1384	cds
+ Rv2059	cds
+ Rv1769	cds
+ Rv1659	cds
+ Rv3136	cds
+ Rv2995c	cds
+ Rv3355c	cds
+ Rv0036c	cds
+ Rv1606	cds
+ Rv0354c	cds
+ Rv1596	cds
+ Rv0355c	cds
+ Rv2247	cds
+ Rv2907c	cds
+ Rv0483	cds
+ Rv0497	cds
+ Rv3214	cds
+ Rv1601	cds
+ Rv0407	cds
+ Rv1496	cds
+ Rv1093	cds
+ Rv1510	cds
+ Rv1112	cds
+ Rv1491c	cds
+ Rv2843	cds
+ Rv1257c	cds
+ Rv2726c	cds
+ Rv1346	cds
+ Rv2052c	cds
+ Rv3816c	cds
+ Rv0838	cds
+ Rv1600	cds
+ Rv1479	cds
+ Rv0627	cds
+ Rv0125	cds
+ Rv0049	cds
+ Rv2141c	cds
+ Rv3452	cds
+ Rv0496	cds
+ Rv1315	cds
+ Rv0490	cds
+ Rv3817	cds
+ Rv3785	cds
+ Rv0681	cds
+ Rv2786c	cds
+ Rv3105c	cds
+ Rv0473	cds
+ Rv3277	cds
+ Rv1111c	cds
+ Rv0809	cds
+ Rv1607	cds
+ Rv0820	cds
+ Rv2903c	cds
+ Rv1007c	cds
+ Rv3464	cds
+ Rv0495c	cds
+ Rv1747	cds
+ Rv3434c	cds
+ Rv1244	cds
+ Rv2844	cds
+ Rv2684	cds
+ Rv1451	cds
+ Rv0198c	cds
+ Rv1290c	cds
+ Rv2467	cds
+ Rv3199c	cds
+ Rv1140	cds
+ Rv2418c	cds
+ Rv3922c	cds
+ Rv3284	cds
+ Rv3482c	cds
+ Rv2181	cds
+ Rv0181c	cds
+ Rv0050	cds
+ Rv0591	cds
+ Rv3923c	cds
+ Rv2646	cds
+ Rv2878c	cds
+ Rv1726	cds
+ Rv2372c	cds
+ Rv2877c	cds
+ Rv3866	cds
+ Rv3867	cds
+ Rv3595c	cds
+ Rv1800	cds
+ Rv2583c	cds
+ Rv3204	cds
+ Rv0958	cds
+ Rv2558	cds
+ Rv0124	cds
+ Rv0376c	cds
+ Rv1939	cds
+ Rv3637	cds
+ Rv2488c	cds
+ Rv1938	cds
+ Rv2496c	cds
+ Rv3896c	cds
+ Rv3327	cds
+ Rv0335c	cds
+ Rv3069	cds
+ Rv2497c	cds
+ Rv0807	cds
+ Rv2495c	cds
+ Rv0834c	cds
+ Rv0373c	cds
+ Rv0372c	cds
+ Rv2498c	cds
+ Rv2662	cds
+ Rv3183	cds
+ Rv3195	cds
+ Rv2134c	cds
+ Rv3681c	cds
+ Rv1748	cds
+ Rv0753c	cds
+ Rv0375c	cds
+ Rv0132c	cds
+ Rv1862	cds
+ Rv1832	cds
+ Rv3333c	cds
+ Rv0984	cds
+ Rv2656c	cds
+ Rv0266c	cds
+ Rv1801	cds
+ Rv1432	cds
+ Rv3534c	cds
+ Rv3036c	cds
+ Rv1168c	cds
+ Rv2133c	cds
+ Rv1961	cds
+ Rv1935c	cds
+ Rv3371	cds
+ Rv1973	cds
+ Rv3473c	cds
+ Rv2706c	cds
+ Rv0415	cds
+ Rv0687	cds
+ Rv2115c	cds
+ Rv2688c	cds
+ Rv3802c	cds
+ Rv1005c	cds
+ Rv3916c	cds
+ Rv3192	cds
+ Rv0749A	cds
+ Rv2013	cds
+ Rv1203c	cds
+ Rv3061c	cds
+ Rv2304c	cds
+ Rv0037c	cds
+ Rv0674	cds
+ Rv1934c	cds
+ Rv0752c	cds
+ Rv1004c	cds
+ Rv0750	cds
+ Rv3348	cds
+ Rv3017c	cds
+ Rv2231A	cds
+ Rv1473A	cds
+ Rv1647	cds
+ Rv2892c	cds
+ Rv3349c	cds
+ Rv0628c	cds
+ Rv1225c	cds
+ Rv2743c	cds
+ Rv0751c	cds
+ Rv1087A	cds
+ Rv2742c	cds
+ Rv2768c	cds
+ Rv1936	cds
+ Rv1082	cds
+ Rv2655c	cds
+ Rv3535c	cds
+ Rv3572	cds
+ Rv0673	cds
+ Rv3502c	cds
+ Rv1169c	cds
+ Rv1782	cds
+ Rv0874c	cds
+ Rv0797	cds
+ Rv1089A	cds
+ Rv0257	cds
+ Rv3599c	cds
+ Rv0245	cds
+ Rv0990c	cds
+ Rv0756c	cds
+ Rv0374c	cds
+ Rv1170	cds
+ Rv2175c	cds
+ Rv0393	cds
+ Rv3621c	cds
+ Rv2022c	cds
+ Rv3505	cds
+ Rv1954c	cds
+ Rv0384c	cds
+ Rv3345c	cds
+ Rv2769c	cds
+ Rv1583c	cds
+ Rv0656c	cds
+ Rv1897c	cds
+ Rv2660c	cds
+ Rv3798	cds
+ Rv3544c	cds
+ Rv1528c	cds
+ Rv1725c	cds
+ Rv2657c	cds
+ Rv1089	cds
+ Rv0745	cds
+ Rv0008c	cds
+ Rv1056	cds
+ Rv3644c	cds
+ Rv2209	cds
+ Rv0770	cds
+ Rv1536	cds
+ Rv2034	cds
+ Rv3546	cds
+ Rv1148c	cds
+ Rv3536c	cds
+ Rv2091c	cds
+ Rv0477	cds
+ Rv3340	cds
+ Rv1395	cds
+ Rv3060c	cds
+ Rv2731	cds
+ Rv2044c	cds
+ Rv3518c	cds
+ Rv1313c	cds
+ Rv0368c	cds
+ Rv0775	cds
+ Rv0302	cds
+ Rv3222c	cds
+ Rv0417	cds
+ Rv1460	cds
+ Rv1073	cds
+ Rv2827c	cds
+ Rv0667	cds
+ Rv2415c	cds
+ Rv0969	cds
+ Rv0769	cds
+ Rv1669	cds
+ Rv0763c	cds
+ Rv2621c	cds
+ Rv0251c	cds
+ Rv1584c	cds
+ Rv2014	cds
+ Rv3573c	cds
+ Rv2851c	cds
+ Rv3018c	cds
+ Rv0768	cds
+ Rv2737A	cds
+ Rv1391	cds
+ Rv0980c	cds
+ Rv1039c	cds
+ Rv3542c	cds
+ Rv1993c	cds
+ Rv2180c	cds
+ Rv2451	cds
+ Rv0369c	cds
+ Rv2050	cds
+ Rv1660	cds
+ Rv3062	cds
+ Rv3049c	cds
+ Rv0064A	cds
+ Rv1581c	cds
+ Rv2205c	cds
+ Rv3449	cds
+ Rv3844	cds
+ Rv3529c	cds
+ Rv3641c	cds
+ Rv3428c	cds
+ Rv3545c	cds
+ Rv2491	cds
+ Rv2711	cds
+ Rv0765c	cds
+ Rv1986	cds
+ Rv0586	cds
+ Rv2202c	cds
+ Rv1831	cds
+ Rv3406	cds
+ Rv3571	cds
+ Rv1019	cds
+ Rv3530c	cds
+ Rv2693c	cds
+ Rv2489c	cds
+ Rv0202c	cds
+ Rv2653c	cds
+ Rv0968	cds
+ Rv3370c	cds
+ Rv3008	cds
+ Rv0590A	cds
+ Rv0416	cds
+ Rv3504	cds
+ Rv3526	cds
+ Rv3513c	cds
+ Rv2035	cds
+ Rv3642c	cds
+ Rv1875	cds
+ Rv0027	cds
+ Rv1807	cds
+ Rv1373	cds
+ Rv3223c	cds
+ Rv0385	cds
+ Rv3225c	cds
+ Rv0793	cds
+ Rv2919c	cds
+ Rv3581c	cds
+ Rv1291c	cds
+ Rv1462	cds
+ Rv1259	cds
+ Rv1390	cds
+ Rv3415c	cds
+ Rv0970	cds
+ Rv1945	cds
+ Rv3129	cds
+ Rv2373c	cds
+ Rv0587	cds
+ Rv3196	cds
+ Rv2694c	cds
+ Rv2353c	cds
+ Rv1855c	cds
+ Rv0991c	cds
+ Rv1574	cds
+ Rv1859	cds
+ Rv1670	cds
+ Rv3543c	cds
+ Rv0978c	cds
+ Rv2341	cds
+ Rv3596c	cds
+ Rv1909c	cds
+ Rv3674c	cds
+ Rv1628c	cds
+ Rv2517c	cds
+ Rv1492	cds
+ Rv0791c	cds
+ Rv2744c	cds
+ Rv0983	cds
+ Rv1599	cds
+ Rv2868c	cds
+ Rv1705c	cds
+ Rv3801c	cds
+ Rv3832c	cds
+ Rv0293c	cds
+ Rv3294c	cds
+ Rv0776c	cds
+ Rv1741	cds
+ Rv3416	cds
+ Rv0619	cds
+ Rv3570c	cds
+ Rv1929c	cds
+ Rv2310	cds
+ Rv0654	cds
+ Rv1582c	cds
+ Rv3203	cds
+ Rv3515c	cds
+ Rv2076c	cds
+ Rv2870c	cds
+ Rv0553	cds
+ Rv3527	cds
+ Rv3913	cds
+ Rv2254c	cds
+ Rv2863	cds
+ Rv0841	cds
+ Rv0620	cds
+ Rv2779c	cds
+ Rv2358	cds
+ Rv1086	cds
+ Rv0792c	cds
+ Rv0790c	cds
+ Rv1028c	cds
+ Rv1577c	cds
+ Rv1046c	cds
+ Rv2466c	cds
+ Rv1806	cds
+ Rv0739	cds
+ Rv1985c	cds
+ Rv3865	cds
+ Rv2506	cds
+ Rv0442c	cds
+ Rv2777c	cds
+ Rv1493	cds
+ Rv1327c	cds
+ Rv2111c	cds
+ Rv3503c	cds
+ Rv3531c	cds
+ Rv0406c	cds
+ Rv3683	cds
+ Rv2408	cds
+ Rv1040c	cds
+ Rv0275c	cds
+ Rv2651c	cds
+ Rv0915c	cds
+ Rv1130	cds
+ Rv3643	cds
+ Rv3567c	cds
+ Rv2122c	cds
+ Rv1874	cds
+ Rv0789c	cds
+ Rv3639c	cds
+ Rv0711	cds
+ Rv1461	cds
+ Rv0724	cds
+ Rv2614A	cds
+ Rv1933c	cds
+ Rv2705c	cds
+ Rv2472	cds
+ Rv0493c	cds
+ Rv2667	cds
+ Rv3569c	cds
+ Rv3603c	cds
+ Rv0441c	cds
+ Rv0397	cds
+ Rv0959A	cds
+ Rv2277c	cds
+ Rv0737	cds
+ Rv3574	cds
+ Rv0325	cds
+ Rv3167c	cds
+ Rv1576c	cds
+ Rv0135c	cds
+ Rv0303	cds
+ Rv3917c	cds
+ Rv1533	cds
+ Rv2374c	cds
+ Rv2745c	cds
+ Rv1706A	cds
+ Rv2618	cds
+ Rv3048c	cds
+ Rv2458	cds
+ Rv0653c	cds
+ Rv3523	cds
+ Rv3206c	cds
+ Rv1873	cds
+ Rv2016	cds
+ Rv2021c	cds
+ Rv1167c	cds
+ Rv0559c	cds
+ Rv3880c	cds
+ Rv1894c	cds
+ Rv0367c	cds
+ Rv3197A	cds
+ Rv2486	cds
+ Rv3521	cds
+ Rv2699c	cds
+ Rv1083	cds
+ Rv0076c	cds
+ Rv1652	cds
+ Rv1131	cds
+ Rv3417c	cds
+ Rv1222	cds
+ Rv1256c	cds
+ Rv2654c	cds
+ Rv3764c	cds
+ Rv3358	cds
+ Rv3181c	cds
+ Rv0811c	cds
+ Rv0077c	cds
+ Rv1532c	cds
+ Rv2094c	cds
+ Rv3843c	cds
+ Rv1239c	cds
+ Rv1223	cds
+ Rv3537	cds
+ Rv2225	cds
+ Rv1706c	cds
+ Rv0830	cds
+ Rv1995	cds
+ Rv3047c	cds
+ Rv2774c	cds
+ Rv0689c	cds
+ Rv2555c	cds
+ Rv1470	cds
+ Rv2826c	cds
+ Rv1028A	cds
+ Rv0465c	cds
+ Rv2371	cds
+ Rv3055	cds
+ Rv0825c	cds
+ Rv2438A	cds
+ Rv2422	cds
+ Rv2710	cds
+ Rv1332	cds
+ Rv1534	cds
+ Rv3506	cds
+ Rv3445c	cds
+ Rv2862A	cds
+ Rv3385c	cds
+ Rv1890c	cds
+ Rv1326c	cds
+ Rv3559c	cds
+ Rv3640c	cds
+ Rv3538	cds
+ Rv3180c	cds
+ Rv0520	cds
+ Rv2672	cds
+ Rv1129c	cds
+ Rv2142c	cds
+ Rv3081	cds
+ Rv2635	cds
+ Rv2401	cds
+ Rv2370c	cds
+ Rv1776c	cds
+ Rv2749	cds
+ Rv0728c	cds
+ Rv3463	cds
+ Rv0328	cds
+ Rv2804c	cds
+ Rv2830c	cds
+ Rv0828c	cds
+ Rv3357	cds
+ Rv1176c	cds
+ Rv3182	cds
+ Rv1072	cds
+ Rv2785c	cds
+ Rv3679	cds
+ Rv0884c	cds
+ Rv0576	cds
+ Rv2874	cds
+ Rv1221	cds
+ Rv2345	cds
+ Rv0563	cds
+ Rv1755c	cds
+ Rv2801A	cds
+ Rv3064c	cds
+ Rv1952	cds
+ Rv3354	cds
+ Rv0897c	cds
+ Rv1791	cds
+ Rv1047	cds
+ Rv3067	cds
+ Rv0259c	cds
+ Rv3073c	cds
+ Rv2073c	cds
+ Rv2666	cds
+ Rv0271c	cds
+ Rv0330c	cds
+ Rv3516	cds
+ Rv0332	cds
+ Rv2829c	cds
+ Rv1556	cds
+ Rv3205c	cds
+ Rv2569c	cds
+ Rv2707	cds
+ Rv3115	cds
+ Rv0252	cds
+ Rv0327c	cds
+ Rv0030	cds
+ Rv3557c	cds
+ Rv2842c	cds
+ Rv0843	cds
+ Rv3023c	cds
+ Rv3566A	cds
+ Rv2142A	cds
+ Rv0194	cds
+ Rv2676c	cds
+ Rv1978	cds
+ Rv3030	cds
+ Rv3509c	cds
+ Rv0858c	cds
+ Rv3510c	cds
+ Rv2615c	cds
+ Rv0280	cds
+ Rv1770	cds
+ Rv1166	cds
+ Rv2072c	cds
+ Rv2531c	cds
+ Rv3858c	cds
+ Rv0282	cds
+ Rv2990c	cds
+ Rv3245c	cds
+ Rv3800c	cds
+ Rv0287	cds
+ Rv0283	cds
+ Rv3388	cds
+ Rv0284	cds
+ Rv0285	cds
+ Rv1797	cds
+ Rv1410c	cds
+ Rv1841c	cds
+ Rv0281	cds
+ Rv0291	cds
+ Rv0833	cds
+ Rv0286	cds
+ Rv1795	cds
+ Rv0241c	cds
+ Rv0243	cds
+ Rv3684	cds
+ Rv1447c	cds
+ Rv0106	cds
+ Rv0290	cds
+ Rv2082	cds
+ Rv3799c	cds
+ Rv0292	cds
+ Rv0242c	cds
+ Rv1798	cds
+ Rv0218	cds
+ Rv3174	cds
+ Rv3312c	cds
+ Rv1487	cds
+ Rv3733c	cds
+ Rv3777	cds
+ Rv1180	cds
+ Rv1302	cds
+ Rv3729	cds
+ Rv0855	cds
+ Rv1661	cds
+ Rv3687c	cds
+ Rv1663	cds
+ Rv1638A	cds
+ Rv3588c	cds
+ Rv1639c	cds
+ Rv1662	cds
+ Rv3778c	cds
+ Rv0100	cds
+ Rv3431c	cds
+ Rv3689	cds
+ Rv3823c	cds
+ Rv1164	cds
+ Rv0913c	cds
+ Rv3824c	cds
+ Rv3869	cds
+ Rv1182	cds
+ Rv2770c	cds
+ Rv0558	cds
+ Rv3565	cds
+ Rv0695	cds
+ Rv1444c	cds
+ Rv1184c	cds
+ Rv3318	cds
+ Rv2196	cds
+ Rv2952	cds
+ Rv1881c	cds
+ Rv2637	cds
+ Rv3319	cds
+ Rv0042c	cds
+ Rv0229c	cds
+ Rv0236A	cds
+ Rv0403c	cds
+ Rv0979A	cds
+ Rv3198A	cds
+ Rv1815	cds
+ Rv0338c	cds
+ Rv0430	cds
+ Rv3500c	cds
+ Rv3587c	cds
+ Rv2210c	cds
+ Rv0634A	cds
+ Rv1816	cds
+ Rv3629c	cds
+ Rv2350c	cds
+ Rv1092c	cds
+ Rv0009	cds
+ Rv2214c	cds
+ Rv0597c	cds
+ Rv1271c	cds
+ Rv1478	cds
+ Rv0710	cds
+ Rv1097c	cds
+ Rv2905	cds
+ Rv2983	cds
+ Rv2563	cds
+ Rv3301c	cds
+ Rv1697	cds
+ Rv1279	cds
+ Rv3068c	cds
+ Rv0073	cds
+ Rv2349c	cds
+ Rv0652	cds
+ Rv3499c	cds
+ Rv0039c	cds
+ Rv0379	cds
+ Rv3232c	cds
+ Rv0691c	cds
+ Rv1428c	cds
+ Rv3774	cds
+ Rv3213c	cds
+ Rv2509	cds
+ Rv0432	cds
+ Rv0002	cds
+ Rv3758c	cds
+ Rv2953	cds
+ Rv3005c	cds
+ Rv3151	cds
+ Rv2317	cds
+ Rv0518	cds
+ Rv0114	cds
+ Rv0295c	cds
+ Rv2567	cds
+ Rv2954c	cds
+ Rv3150	cds
+ Rv0035	cds
+ Rv1884c	cds
+ Rv0227c	cds
+ Rv3498c	cds
+ Rv0461	cds
+ Rv1886c	cds
+ Rv1437	cds
+ Rv3149	cds
+ Rv3664c	cds
+ Rv2773c	cds
+ Rv0723	cds
+ Rv0934	cds
+ Rv3305c	cds
+ Rv1883c	cds
+ Rv2315c	cds
+ Rv1677	cds
+ Rv1513	cds
+ Rv2809	cds
+ Rv0705	cds
+ Rv0200	cds
+ Rv2564	cds
+ Rv3145	cds
+ Rv3456c	cds
+ Rv1138c	cds
+ Rv3152	cds
+ Rv0954	cds
+ Rv0185	cds
+ Rv2775	cds
+ Rv2101	cds
+ Rv1475c	cds
+ Rv1547	cds
+ Rv2070c	cds
+ Rv2771c	cds
+ Rv2054	cds
+ Rv1280c	cds
+ Rv0718	cds
+ Rv1507c	cds
+ Rv3153	cds
+ Rv1695	cds
+ Rv0033	cds
+ Rv1282c	cds
+ Rv3120	cds
+ Rv3497c	cds
+ Rv2329c	cds
+ Rv0097	cds
+ Rv3756c	cds
+ Rv2260	cds
+ Rv0912	cds
+ Rv3156	cds
+ Rv3157	cds
+ Rv0111	cds
+ Rv3158	cds
+ Rv0034	cds
+ Rv3692	cds
+ Rv1312	cds
+ Rv0708	cds
+ Rv0703	cds
+ Rv0224c	cds
+ Rv3154	cds
+ Rv2102	cds
+ Rv1322A	cds
+ Rv0164	cds
+ Rv3458c	cds
+ Rv2882c	cds
+ Rv0584	cds
+ Rv1014c	cds
+ Rv1078	cds
+ Rv3457c	cds
+ Rv0879c	cds
+ Rv0707	cds
+ Rv0631c	cds
+ Rv1123c	cds
+ Rv3273	cds
+ Rv0139	cds
+ Rv1418	cds
+ Rv2239c	cds
+ Rv0714	cds
+ Rv2039c	cds
+ Rv3078	cds
+ Rv3272	cds
+ Rv2968c	cds
+ Rv0889c	cds
+ Rv3688c	cds
+ Rv0720	cds
+ Rv1132	cds
+ Rv3695	cds
+ Rv0721	cds
+ Rv3826	cds
+ Rv0069c	cds
+ Rv0706	cds
+ Rv3690	cds
+ Rv0215c	cds
+ Rv1079	cds
+ Rv0115	cds
+ Rv0220	cds
+ Rv3299c	cds
+ Rv1680	cds
+ Rv2435c	cds
+ Rv1469	cds
+ Rv0701	cds
+ Rv1319c	cds
+ Rv2197c	cds
+ Rv0910	cds
+ Rv0698	cds
+ Rv0601c	cds
+ Rv1546	cds
+ Rv0075	cds
+ Rv3755c	cds
+ Rv1127c	cds
+ Rv2002	cds
+ Rv1116A	cds
+ Rv0702	cds
+ Rv2523c	cds
+ Rv1771	cds
+ Rv1678	cds
+ Rv2431c	cds
+ Rv2901c	cds
+ Rv1122	cds
+ Rv0782	cds
+ Rv0890c	cds
+ Rv0995	cds
+ Rv0924c	cds
+ Rv1270c	cds
+ Rv3696c	cds
+ Rv2600	cds
+ Rv0786c	cds
+ Rv2998	cds
+ Rv1672c	cds
+ Rv2282c	cds
+ Rv2970c	cds
+ Rv1124	cds
+ Rv2434c	cds
+ Rv0216	cds
+ Rv1679	cds
+ Rv3106	cds
+ Rv3346c	cds
+ Rv0087	cds
+ Rv1863c	cds
+ Rv2599	cds
+ Rv3063	cds
+ Rv1033c	cds
+ Rv1147	cds
+ Rv0517	cds
+ Rv2090	cds
+ Rv2038c	cds
+ Rv0761c	cds
+ Rv3651	cds
+ Rv0891c	cds
+ Rv2692	cds
+ Rv2430c	cds
+ Rv1775	cds
+ Rv1211	cds
+ Rv1283c	cds
+ Rv1664	cds
+ Rv1362c	cds
+ Rv1281c	cds
+ Rv3827c	cds
+ Rv3298c	cds
+ Rv2944	cds
+ Rv2716	cds
+ Rv0029	cds
+ Rv3444c	cds
+ Rv3412	cds
+ Rv3868	cds
+ Rv2219	cds
+ Rv2449c	cds
+ Rv2405	cds
+ Rv2481c	cds
+ Rv1843c	cds
+ Rv3239c	cds
+ Rv1377c	cds
+ Rv2313c	cds
+ Rv1442	cds
+ Rv0471c	cds
+ Rv1783	cds
+ Rv2110c	cds
+ Rv3243c	cds
+ Rv2045c	cds
+ Rv2507	cds
+ Rv0487	cds
+ Rv3773c	cds
+ Rv3051c	cds
+ Rv0522	cds
+ Rv1640c	cds
+ Rv1558	cds
+ Rv2925c	cds
+ Rv0470A	cds
+ Rv1842c	cds
+ Rv1253	cds
+ Rv2109c	cds
+ Rv0005	cds
+ m1124_1250	srna
+ m1664_2306	srna
+ m7452_8208	srna
+ p12067_12345	srna
+ m15061_15317	srna
+ p17599_17983	srna
+ p23868_24321	srna
+ p24670_25240	srna
+ p25278_25392	srna
+ p25740_25965	srna
+ p26134_26382	srna
+ m29672_30184	srna
+ m31259_31967	srna
+ p31859_32007	srna
+ m33460_33794	srna
+ m37575_37955	srna
+ m38455_38597	srna
+ p39302_39703	srna
+ m45268_45647	srna
+ p47403_47791	srna
+ p50578_51199	srna
+ p51981_52645	srna
+ m63173_63565	srna
+ p72675_72805	srna
+ p74191_74512	srna
+ m79758_80403	srna
+ m81189_81855	srna
+ p103804_104664	srna
+ m108530_109526	srna
+ m109544_110564	srna
+ m122618_123231	srna
+ p127497_127625	srna
+ m134166_134354	srna
+ m134802_134977	srna
+ m137361_137693	srna
+ m138471_138603	srna
+ p142180_142247	srna
+ p142311_142586	srna
+ m148860_149537	srna
+ m150743_151130	srna
+ m155536_155841	srna
+ p156474_156619	srna
+ p160276_160799	srna
+ m166345_166663	srna
+ m166988_167100	srna
+ p168866_168997	srna
+ m170485_170808	srna
+ p177161_177337	srna
+ p177764_177901	srna
+ m184757_185096	srna
+ m196396_197084	srna
+ m199170_199505	srna
+ m200060_200228	srna
+ m200665_201024	srna
+ m201374_201675	srna
+ m202312_202816	srna
+ m209164_209397	srna
+ p210651_210826	srna
+ p211025_211878	srna
+ m222658_222768	srna
+ m234232_234395	srna
+ p235158_235469	srna
+ m236523_236663	srna
+ p242083_242175	srna
+ p244621_245197	srna
+ p247296_248005	srna
+ m251346_251618	srna
+ p254870_255922	srna
+ m260906_261421	srna
+ p267867_268140	srna
+ m277094_277453	srna
+ p279627_280152	srna
+ p281567_281857	srna
+ p284118_284715	srna
+ p285209_285888	srna
+ m292165_292386	srna
+ m296080_296559	srna
+ p298918_299407	srna
+ p299962_300257	srna
+ p302067_302472	srna
+ m304340_304439	srna
+ p307974_308315	srna
+ p308788_309319	srna
+ m321250_321436	srna
+ m321724_321838	srna
+ p323060_323181	srna
+ p323317_324056	srna
+ p327116_327260	srna
+ p329102_329533	srna
+ p333855_334074	srna
+ p334990_335081	srna
+ p338204_338434	srna
+ m339662_340045	srna
+ m341328_342075	srna
+ m345334_345941	srna
+ p357616_357751	srna
+ m358236_358306	srna
+ m364259_364355	srna
+ p371271_371387	srna
+ p372904_373453	srna
+ m385985_386191	srna
+ p386468_386554	srna
+ p386609_387012	srna
+ p390651_390830	srna
+ p390886_390986	srna
+ p392842_392965	srna
+ p395370_395548	srna
+ m396590_396842	srna
+ m401127_401581	srna
+ m410790_410939	srna
+ m413001_413459	srna
+ m414249_414366	srna
+ m417777_418072	srna
+ m418478_418870	srna
+ m419457_419785	srna
+ p425076_425178	srna
+ p427997_428413	srna
+ p431506_431796	srna
+ p434969_435846	srna
+ p456268_456618	srna
+ p457025_457590	srna
+ p458932_459370	srna
+ p459437_460278	srna
+ m462615_462995	srna
+ m465712_466008	srna
+ m468108_468219	srna
+ p481143_481349	srna
+ p482443_482601	srna
+ m484146_485096	srna
+ p490160_490303	srna
+ p498522_498721	srna
+ m505950_506060	srna
+ m521690_521844	srna
+ p526142_526668	srna
+ p530498_530765	srna
+ m532311_532558	srna
+ p533790_534015	srna
+ p540227_540926	srna
+ p549123_549426	srna
+ m551187_551351	srna
+ m551394_552191	srna
+ p554347_554477	srna
+ m559532_559709	srna
+ p561392_561575	srna
+ p583574_583840	srna
+ m587369_587755	srna
+ m587832_588144	srna
+ m591955_592267	srna
+ m592961_593017	srna
+ p594276_594385	srna
+ m597823_598088	srna
+ m600904_601330	srna
+ m612932_613322	srna
+ m613781_614001	srna
+ m615832_616264	srna
+ m617588_617861	srna
+ m621254_621563	srna
+ m626740_627057	srna
+ m630056_630197	srna
+ m631692_631931	srna
+ p636001_636123	srna
+ m649591_649692	srna
+ p650622_650825	srna
+ p655994_656151	srna
+ p663587_663713	srna
+ p666551_666838	srna
+ p668459_668871	srna
+ m670909_671157	srna
+ m671780_671933	srna
+ p676078_676215	srna
+ m680236_680493	srna
+ m691867_692504	srna
+ m692784_692936	srna
+ m700341_701336	srna
+ m702982_703063	srna
+ m704309_704447	srna
+ p717463_717626	srna
+ p717776_717903	srna
+ p728527_728859	srna
+ m732267_732632	srna
+ m735829_735935	srna
+ m736073_736202	srna
+ p736352_736454	srna
+ p739999_740603	srna
+ m758103_758636	srna
+ m762046_762185	srna
+ m767390_767541	srna
+ p767394_767642	srna
+ p767713_767900	srna
+ p768241_768424	srna
+ m779094_779270	srna
+ m788408_788635	srna
+ p789570_790234	srna
+ m805497_805642	srna
+ p809667_809840	srna
+ m816120_816447	srna
+ p819692_820062	srna
+ p820269_820877	srna
+ p824005_824155	srna
+ m825352_825850	srna
+ m832020_832158	srna
+ m841014_841175	srna
+ m841194_841470	srna
+ p842393_842531	srna
+ p850699_851096	srna
+ m852286_852683	srna
+ p855408_855811	srna
+ p857591_857656	srna
+ p869136_869240	srna
+ m871739_872102	srna
+ m881551_881771	srna
+ m881929_882376	srna
+ p885958_886091	srna
+ p886102_886362	srna
+ p887188_887355	srna
+ p888161_888273	srna
+ m890763_890907	srna
+ p891914_892316	srna
+ m898878_899028	srna
+ m899405_899515	srna
+ p900530_900654	srna
+ p900904_901025	srna
+ m904016_904184	srna
+ p909452_910161	srna
+ m912163_912377	srna
+ p918479_918586	srna
+ p918819_919373	srna
+ p923338_923685	srna
+ p924298_924772	srna
+ m924355_924474	srna
+ m926040_926647	srna
+ p932199_932586	srna
+ p936536_936624	srna
+ p938018_938091	srna
+ m939667_939773	srna
+ m941938_942159	srna
+ p942952_943330	srna
+ m946497_946690	srna
+ p947825_948360	srna
+ p949881_950052	srna
+ p954525_954914	srna
+ m956837_956970	srna
+ p966009_966219	srna
+ p972821_972950	srna
+ m980006_980204	srna
+ m983044_983651	srna
+ m987553_987991	srna
+ p991291_991458	srna
+ m996839_997013	srna
+ m997355_997710	srna
+ p1001308_1001716	srna
+ p1005434_1005928	srna
+ p1006734_1007247	srna
+ m1013895_1014636	srna
+ m1016346_1016472	srna
+ m1016886_1017022	srna
+ m1023998_1024360	srna
+ m1024662_1025298	srna
+ m1029184_1029338	srna
+ p1039720_1039831	srna
+ p1040655_1040948	srna
+ m1043138_1043877	srna
+ m1044276_1044504	srna
+ p1045484_1045700	srna
+ p1050626_1050762	srna
+ m1060409_1060549	srna
+ p1061626_1061745	srna
+ m1066504_1066767	srna
+ m1067117_1067536	srna
+ m1067696_1067858	srna
+ m1070344_1070437	srna
+ m1073103_1073304	srna
+ m1073561_1074233	srna
+ p1074740_1074967	srna
+ p1076137_1076220	srna
+ p1076436_1076608	srna
+ m1078489_1078685	srna
+ m1080718_1080817	srna
+ p1082492_1083265	srna
+ p1083337_1083513	srna
+ p1083836_1083981	srna
+ p1084147_1084319	srna
+ p1096283_1096576	srna
+ m1097265_1097924	srna
+ p1106722_1106863	srna
+ p1107453_1107754	srna
+ p1108506_1108869	srna
+ m1110669_1110962	srna
+ m1113286_1113520	srna
+ p1113598_1113690	srna
+ m1114776_1115210	srna
+ p1121622_1122096	srna
+ m1123721_1124285	srna
+ m1131795_1131967	srna
+ p1134716_1135331	srna
+ p1136873_1137823	srna
+ m1142085_1142599	srna
+ p1149691_1150027	srna
+ m1153056_1153405	srna
+ p1156445_1156604	srna
+ p1157160_1157340	srna
+ p1161722_1162213	srna
+ p1163758_1163954	srna
+ p1164036_1164162	srna
+ p1171134_1171411	srna
+ m1177824_1178104	srna
+ m1179420_1179532	srna
+ m1183649_1183867	srna
+ m1196291_1196478	srna
+ m1196882_1197010	srna
+ m1197021_1197154	srna
+ m1197709_1198070	srna
+ m1202942_1203259	srna
+ m1204296_1204393	srna
+ p1206249_1206341	srna
+ m1207555_1208103	srna
+ p1209793_1209933	srna
+ m1212265_1212641	srna
+ m1213833_1214230	srna
+ m1221422_1221579	srna
+ m1222093_1222213	srna
+ p1225571_1225766	srna
+ p1229587_1230106	srna
+ p1233025_1233626	srna
+ p1242723_1243093	srna
+ m1257868_1257959	srna
+ p1261274_1261605	srna
+ p1266264_1266374	srna
+ p1269666_1270001	srna
+ m1271479_1272160	srna
+ m1274192_1274814	srna
+ m1275228_1276009	srna
+ p1276330_1276505	srna
+ p1276514_1276805	srna
+ p1284149_1284453	srna
+ m1285119_1285188	srna
+ m1285583_1285853	srna
+ m1286827_1287051	srna
+ m1289075_1289207	srna
+ m1291272_1292096	srna
+ m1296406_1296608	srna
+ m1297703_1297853	srna
+ p1298085_1298652	srna
+ p1299814_1300130	srna
+ m1300853_1301083	srna
+ p1301845_1301998	srna
+ m1304179_1304675	srna
+ p1306782_1307267	srna
+ p1311794_1312240	srna
+ m1313344_1313617	srna
+ m1320539_1321256	srna
+ p1326573_1326846	srna
+ p1326864_1327391	srna
+ p1327540_1327919	srna
+ m1333522_1334155	srna
+ m1334182_1334560	srna
+ m1342668_1342979	srna
+ m1348867_1348979	srna
+ m1352077_1352191	srna
+ p1359157_1359951	srna
+ p1363207_1363489	srna
+ m1365017_1365114	srna
+ m1365341_1365471	srna
+ p1368047_1368350	srna
+ p1372453_1372942	srna
+ p1374605_1375036	srna
+ p1376547_1376899	srna
+ p1385612_1385813	srna
+ p1387820_1388026	srna
+ p1388042_1388207	srna
+ p1388439_1388651	srna
+ p1392365_1392747	srna
+ p1393527_1393870	srna
+ m1394170_1395003	srna
+ m1400087_1400381	srna
+ m1402293_1402732	srna
+ p1404640_1404929	srna
+ p1419632_1419880	srna
+ p1420042_1420768	srna
+ p1432757_1432912	srna
+ p1435066_1435397	srna
+ p1436463_1436747	srna
+ m1437638_1437877	srna
+ m1439648_1439770	srna
+ m1439866_1440047	srna
+ m1445141_1445394	srna
+ p1445987_1446091	srna
+ p1469024_1469135	srna
+ m1471866_1471969	srna
+ m1472141_1472209	srna
+ m1473829_1473944	srna
+ m1473979_1474172	srna
+ m1474203_1474493	srna
+ m1474741_1474920	srna
+ m1475030_1475167	srna
+ m1475306_1475371	srna
+ m1475455_1475876	srna
+ m1476003_1476594	srna
+ p1477107_1477363	srna
+ p1477839_1478221	srna
+ p1478589_1478792	srna
+ p1480381_1480558	srna
+ p1484022_1484180	srna
+ m1486471_1486916	srna
+ p1491076_1491402	srna
+ p1497203_1497393	srna
+ m1502404_1503391	srna
+ m1506128_1506356	srna
+ m1507953_1508050	srna
+ p1508190_1508486	srna
+ m1509321_1509743	srna
+ m1517275_1517428	srna
+ p1521418_1522156	srna
+ p1522476_1522816	srna
+ p1524630_1525108	srna
+ p1525655_1526030	srna
+ m1528777_1528980	srna
+ m1530046_1530745	srna
+ p1532594_1532723	srna
+ p1533519_1533748	srna
+ p1535472_1536248	srna
+ p1537093_1537313	srna
+ m1547729_1547852	srna
+ m1548340_1548768	srna
+ m1557400_1557651	srna
+ m1560874_1561593	srna
+ m1561685_1561828	srna
+ m1564358_1564455	srna
+ m1571813_1572103	srna
+ m1576814_1577097	srna
+ m1577305_1577466	srna
+ m1577550_1577642	srna
+ m1579105_1579260	srna
+ m1579446_1579568	srna
+ p1580325_1580455	srna
+ p1581236_1581509	srna
+ m1584053_1584170	srna
+ m1584308_1584539	srna
+ p1587247_1587932	srna
+ m1593959_1594170	srna
+ m1596752_1597092	srna
+ m1600788_1600974	srna
+ p1602423_1602692	srna
+ p1603949_1604300	srna
+ m1606696_1606789	srna
+ m1606965_1607358	srna
+ m1607388_1608034	srna
+ m1610814_1611054	srna
+ m1611482_1611619	srna
+ m1611977_1612159	srna
+ p1617024_1617213	srna
+ m1618024_1618206	srna
+ p1628636_1629481	srna
+ p1630466_1631246	srna
+ m1639283_1639645	srna
+ p1639983_1640573	srna
+ p1645021_1645545	srna
+ p1653712_1653868	srna
+ m1658804_1658938	srna
+ m1659710_1660086	srna
+ m1667581_1667990	srna
+ m1671056_1671306	srna
+ p1676296_1676425	srna
+ m1678254_1678641	srna
+ m1680055_1680455	srna
+ m1680724_1681125	srna
+ m1681984_1682215	srna
+ m1690452_1690855	srna
+ m1691979_1692209	srna
+ p1694854_1695155	srna
+ p1698181_1698435	srna
+ m1701476_1701571	srna
+ m1702074_1702937	srna
+ p1707420_1707730	srna
+ m1709073_1709574	srna
+ m1710200_1710677	srna
+ p1721155_1721313	srna
+ p1722371_1722496	srna
+ p1725084_1725246	srna
+ p1727217_1727729	srna
+ m1728666_1728871	srna
+ m1737893_1738217	srna
+ p1744509_1744660	srna
+ m1748537_1748758	srna
+ m1749479_1749886	srna
+ p1766474_1766851	srna
+ p1771044_1771498	srna
+ p1773243_1773426	srna
+ p1773780_1773956	srna
+ p1774887_1775023	srna
+ p1775200_1775318	srna
+ m1780398_1780587	srna
+ p1783647_1784221	srna
+ p1785782_1786159	srna
+ p1786224_1786902	srna
+ p1788506_1789479	srna
+ p1793612_1794101	srna
+ m1796821_1797144	srna
+ m1799752_1800053	srna
+ m1804255_1804345	srna
+ m1814463_1814746	srna
+ p1824376_1825022	srna
+ p1825074_1825205	srna
+ p1828881_1829038	srna
+ p1829999_1830207	srna
+ m1830662_1830890	srna
+ m1831343_1831827	srna
+ m1833186_1833530	srna
+ p1836855_1836964	srna
+ m1837175_1837299	srna
+ p1849244_1849767	srna
+ p1849885_1850577	srna
+ m1852350_1852478	srna
+ p1854542_1854762	srna
+ m1858774_1859759	srna
+ m1862030_1862216	srna
+ p1862444_1862637	srna
+ p1862648_1862876	srna
+ p1864018_1864409	srna
+ m1870273_1870495	srna
+ m1887299_1887512	srna
+ p1892926_1893266	srna
+ p1896918_1897152	srna
+ m1904624_1904939	srna
+ m1905861_1906537	srna
+ m1908945_1909233	srna
+ m1925143_1925217	srna
+ p1927263_1927743	srna
+ p1931763_1931899	srna
+ m1939303_1939571	srna
+ m1947802_1947903	srna
+ m1952732_1953126	srna
+ p1955156_1955701	srna
+ p1956768_1957093	srna
+ p1957417_1957590	srna
+ p1962003_1962139	srna
+ p1962188_1962710	srna
+ p1962941_1963165	srna
+ p1964956_1965148	srna
+ p1967076_1967534	srna
+ p1970856_1971218	srna
+ p1971322_1971944	srna
+ p1982460_1982809	srna
+ p1985335_1985595	srna
+ m1992775_1993427	srna
+ p2007213_2007377	srna
+ m2011703_2011978	srna
+ p2012665_2013136	srna
+ m2014736_2015221	srna
+ p2017319_2017499	srna
+ m2018844_2019262	srna
+ m2023140_2023437	srna
+ p2024103_2024247	srna
+ m2025964_2026704	srna
+ m2027998_2028131	srna
+ m2030736_2031067	srna
+ m2033248_2033828	srna
+ m2034018_2034421	srna
+ p2038697_2038955	srna
+ m2039626_2039873	srna
+ m2044308_2044562	srna
+ p2047602_2047848	srna
+ m2048763_2048885	srna
+ p2055232_2055771	srna
+ p2055936_2056288	srna
+ m2058070_2058996	srna
+ m2059078_2059225	srna
+ p2059431_2059541	srna
+ m2059711_2059949	srna
+ p2063043_2063218	srna
+ m2068623_2068792	srna
+ m2068945_2069486	srna
+ m2074346_2075020	srna
+ m2077051_2077947	srna
+ p2078875_2079784	srna
+ p2081553_2082178	srna
+ p2083285_2083424	srna
+ p2087174_2087864	srna
+ p2089668_2089829	srna
+ m2096739_2097122	srna
+ m2099290_2099566	srna
+ m2106071_2106690	srna
+ m2116263_2116431	srna
+ p2122852_2122967	srna
+ m2123371_2124163	srna
+ m2124223_2125115	srna
+ m2127437_2128210	srna
+ p2134267_2134359	srna
+ m2136720_2137086	srna
+ m2137189_2137314	srna
+ p2138903_2138988	srna
+ p2141951_2142171	srna
+ p2143786_2143981	srna
+ p2144075_2144192	srna
+ p2145611_2145826	srna
+ p2145894_2146584	srna
+ p2146964_2147086	srna
+ m2147828_2148398	srna
+ m2150415_2150535	srna
+ m2160751_2160894	srna
+ m2160937_2160975	srna
+ p2163056_2163212	srna
+ p2168468_2168690	srna
+ p2168712_2168959	srna
+ p2172593_2172816	srna
+ m2174954_2175205	srna
+ m2175973_2176334	srna
+ m2178439_2178592	srna
+ m2178704_2178835	srna
+ p2180461_2180797	srna
+ p2180877_2181028	srna
+ p2185285_2185403	srna
+ p2185501_2185628	srna
+ m2189845_2190264	srna
+ m2194062_2194160	srna
+ p2203763_2203902	srna
+ p2205570_2205831	srna
+ p2205848_2206494	srna
+ m2207133_2207499	srna
+ m2219325_2219491	srna
+ p2222124_2222242	srna
+ p2222358_2222724	srna
+ p2225384_2225648	srna
+ m2226567_2227076	srna
+ p2228676_2229506	srna
+ p2232275_2233242	srna
+ p2233688_2234128	srna
+ p2235168_2235350	srna
+ p2236971_2237270	srna
+ p2243852_2244185	srna
+ m2247683_2247820	srna
+ p2251272_2251504	srna
+ m2253578_2254131	srna
+ p2256029_2256345	srna
+ p2256463_2257000	srna
+ p2257036_2257155	srna
+ m2259696_2260161	srna
+ m2260909_2261190	srna
+ p2261862_2261959	srna
+ m2263313_2263623	srna
+ p2267109_2267566	srna
+ p2270454_2271045	srna
+ p2274787_2274930	srna
+ p2277651_2277949	srna
+ m2282246_2282446	srna
+ p2286450_2286701	srna
+ p2288415_2288554	srna
+ p2288947_2289380	srna
+ p2300448_2300792	srna
+ p2308938_2309173	srna
+ m2313093_2313235	srna
+ p2329918_2330394	srna
+ p2333751_2333880	srna
+ m2339651_2339749	srna
+ m2342123_2342349	srna
+ m2343590_2343954	srna
+ m2345902_2346159	srna
+ p2356314_2356612	srna
+ m2358264_2358471	srna
+ m2358595_2359370	srna
+ m2359446_2359803	srna
+ m2363452_2363540	srna
+ m2364786_2365368	srna
+ p2367012_2367114	srna
+ p2370572_2370694	srna
+ p2376086_2376299	srna
+ m2389654_2390010	srna
+ p2391995_2392524	srna
+ p2399817_2400048	srna
+ p2400406_2400622	srna
+ m2401765_2401964	srna
+ p2409607_2410314	srna
+ p2419897_2420020	srna
+ p2425397_2425524	srna
+ p2425530_2426275	srna
+ p2427202_2427362	srna
+ m2435012_2435435	srna
+ p2437557_2437746	srna
+ m2438037_2438375	srna
+ p2440533_2440712	srna
+ m2443383_2443512	srna
+ p2446291_2446466	srna
+ p2447487_2447696	srna
+ m2448968_2449440	srna
+ p2450051_2450411	srna
+ p2451044_2451341	srna
+ m2456973_2457240	srna
+ m2458935_2459293	srna
+ m2459933_2460318	srna
+ m2465516_2465780	srna
+ m2466720_2466943	srna
+ p2468955_2469146	srna
+ m2471071_2471328	srna
+ m2472528_2473389	srna
+ m2477901_2478705	srna
+ m2484770_2485093	srna
+ m2488096_2488230	srna
+ p2489977_2490244	srna
+ m2497549_2498369	srna
+ m2499198_2499380	srna
+ m2500131_2500820	srna
+ p2500386_2500819	srna
+ p2505652_2506153	srna
+ m2506501_2506663	srna
+ m2506979_2507338	srna
+ m2516050_2516674	srna
+ m2519622_2519803	srna
+ m2520379_2520741	srna
+ p2523222_2523745	srna
+ p2534370_2534649	srna
+ m2538393_2538631	srna
+ p2544383_2544667	srna
+ p2548968_2549106	srna
+ m2557372_2557723	srna
+ m2558586_2558741	srna
+ m2560079_2560687	srna
+ p2564337_2564472	srna
+ p2564531_2564694	srna
+ m2567340_2568106	srna
+ p2570251_2570405	srna
+ p2570911_2571009	srna
+ m2575307_2575589	srna
+ m2581316_2581743	srna
+ p2582183_2582438	srna
+ m2584359_2584615	srna
+ p2586697_2586903	srna
+ m2590979_2591171	srna
+ m2600168_2600670	srna
+ p2607011_2607375	srna
+ m2611230_2611488	srna
+ m2617008_2617351	srna
+ p2617768_2617954	srna
+ m2619184_2619395	srna
+ m2624022_2624451	srna
+ p2625856_2626123	srna
+ p2630415_2630611	srna
+ m2636980_2637280	srna
+ p2637485_2638291	srna
+ p2638741_2639012	srna
+ m2641514_2641601	srna
+ p2642907_2643031	srna
+ p2649637_2650391	srna
+ p2652448_2653324	srna
+ p2659632_2659745	srna
+ p2680357_2680706	srna
+ m2680432_2681020	srna
+ p2683856_2684392	srna
+ m2689004_2689107	srna
+ m2692217_2692360	srna
+ p2694798_2695056	srna
+ p2695876_2696730	srna
+ m2697766_2697874	srna
+ m2698350_2698840	srna
+ p2700518_2701042	srna
+ m2705611_2706031	srna
+ p2706750_2707067	srna
+ p2709851_2709990	srna
+ p2710837_2710978	srna
+ p2717651_2717876	srna
+ m2718955_2719145	srna
+ p2724731_2724884	srna
+ m2726369_2726483	srna
+ p2727974_2728143	srna
+ p2728467_2728620	srna
+ p2737286_2737431	srna
+ m2740541_2740992	srna
+ m2741020_2741181	srna
+ m2741309_2741699	srna
+ p2742492_2742615	srna
+ p2744364_2744770	srna
+ m2752247_2752398	srna
+ p2756568_2756676	srna
+ m2759942_2760067	srna
+ p2763819_2764046	srna
+ m2765727_2766341	srna
+ m2766621_2766756	srna
+ p2771780_2771853	srna
+ p2772272_2773052	srna
+ m2774624_2774982	srna
+ p2786264_2786756	srna
+ p2793167_2793308	srna
+ p2793679_2794016	srna
+ p2801108_2801678	srna
+ p2802001_2802177	srna
+ m2807911_2808168	srna
+ p2814431_2814630	srna
+ p2816909_2817374	srna
+ p2819220_2819783	srna
+ p2821285_2821474	srna
+ p2827941_2829394	srna
+ p2829834_2829914	srna
+ p2834571_2834864	srna
+ m2836995_2837140	srna
+ m2837171_2837381	srna
+ p2850140_2850501	srna
+ p2850722_2851053	srna
+ p2851774_2852139	srna
+ p2856173_2856300	srna
+ p2857827_2858079	srna
+ m2860878_2860986	srna
+ p2861493_2861593	srna
+ p2864959_2865109	srna
+ m2865162_2865672	srna
+ m2865781_2866738	srna
+ m2866864_2867075	srna
+ m2867146_2867237	srna
+ m2867448_2867726	srna
+ p2869887_2870032	srna
+ p2870766_2871255	srna
+ m2880565_2880700	srna
+ m2882855_2883078	srna
+ m2885624_2886562	srna
+ m2891672_2891939	srna
+ m2899804_2899971	srna
+ m2907581_2907742	srna
+ p2911259_2911641	srna
+ p2912095_2912593	srna
+ p2912615_2912775	srna
+ p2913405_2914152	srna
+ p2914438_2914733	srna
+ m2917605_2917730	srna
+ p2933722_2934073	srna
+ p2936912_2937086	srna
+ p2937923_2938228	srna
+ p2939670_2939998	srna
+ p2944003_2944158	srna
+ m2949600_2949817	srna
+ p2951593_2952044	srna
+ p2952632_2952772	srna
+ p2953810_2953961	srna
+ m2955029_2955504	srna
+ m2956172_2956320	srna
+ p2968653_2969096	srna
+ m2970992_2971485	srna
+ m2972022_2972284	srna
+ m2973291_2973619	srna
+ p2976154_2976403	srna
+ p2977584_2978237	srna
+ p2978553_2979449	srna
+ m2981591_2981885	srna
+ m2982605_2983064	srna
+ m2989939_2990365	srna
+ p2993857_2994245	srna
+ p2998527_2998948	srna
+ m3011954_3012078	srna
+ p3012767_3012952	srna
+ m3018344_3018863	srna
+ m3019468_3019704	srna
+ m3023139_3023286	srna
+ m3023615_3024063	srna
+ m3025487_3026334	srna
+ m3027036_3027634	srna
+ m3034800_3034982	srna
+ p3050812_3051013	srna
+ p3056075_3056260	srna
+ p3056370_3056492	srna
+ m3059451_3059755	srna
+ p3061423_3062196	srna
+ m3062766_3063200	srna
+ m3064066_3064275	srna
+ m3074567_3074907	srna
+ p3078047_3078398	srna
+ p3079382_3079538	srna
+ p3079693_3079909	srna
+ p3081647_3082042	srna
+ p3082252_3082401	srna
+ p3082438_3082507	srna
+ p3082513_3082822	srna
+ p3085512_3085621	srna
+ p3088049_3088157	srna
+ p3089830_3089970	srna
+ m3094926_3095549	srna
+ p3097713_3097822	srna
+ p3102327_3102576	srna
+ p3106335_3106591	srna
+ p3107434_3107635	srna
+ m3109680_3109865	srna
+ m3110059_3110154	srna
+ p3110721_3110872	srna
+ p3114850_3114948	srna
+ m3123245_3123364	srna
+ p3123634_3124610	srna
+ p3132785_3132911	srna
+ p3134441_3134787	srna
+ p3136137_3136512	srna
+ p3145008_3145294	srna
+ p3148342_3148736	srna
+ p3154662_3155024	srna
+ m3162186_3162524	srna
+ m3163807_3164038	srna
+ m3168308_3168467	srna
+ p3169646_3169871	srna
+ p3176874_3177171	srna
+ m3177929_3178073	srna
+ m3185395_3185554	srna
+ m3186148_3186517	srna
+ m3187787_3187986	srna
+ p3190030_3190143	srna
+ p3197627_3198265	srna
+ m3202055_3202434	srna
+ p3205476_3205915	srna
+ p3210744_3211237	srna
+ p3211556_3211737	srna
+ p3215752_3216275	srna
+ p3216357_3216476	srna
+ p3221725_3222113	srna
+ p3222285_3222559	srna
+ m3228030_3228168	srna
+ m3250623_3250991	srna
+ m3255363_3255658	srna
+ m3256787_3256897	srna
+ m3266772_3267134	srna
+ m3273566_3273709	srna
+ p3276508_3276937	srna
+ p3281516_3281859	srna
+ m3285757_3286268	srna
+ m3286482_3287194	srna
+ p3288009_3288075	srna
+ p3296690_3296948	srna
+ p3297865_3298045	srna
+ p3298850_3299014	srna
+ p3301907_3302011	srna
+ p3303618_3304165	srna
+ p3306622_3307298	srna
+ m3309056_3309177	srna
+ m3309743_3310093	srna
+ m3310262_3310419	srna
+ p3318078_3318499	srna
+ p3323313_3323645	srna
+ m3331716_3331967	srna
+ p3331787_3332731	srna
+ p3347267_3347623	srna
+ p3347685_3347791	srna
+ m3348138_3348461	srna
+ p3348693_3348988	srna
+ m3352047_3352186	srna
+ m3356083_3356933	srna
+ p3359410_3359751	srna
+ p3366320_3366543	srna
+ m3366968_3367142	srna
+ p3368484_3368615	srna
+ p3370499_3370609	srna
+ p3374638_3374887	srna
+ m3376211_3376370	srna
+ p3381331_3381854	srna
+ p3382630_3382796	srna
+ p3384618_3384743	srna
+ m3396258_3396430	srna
+ p3398806_3399276	srna
+ p3402862_3403149	srna
+ p3410253_3410762	srna
+ p3413491_3413609	srna
+ m3416859_3417127	srna
+ m3419405_3420397	srna
+ p3421213_3421890	srna
+ m3421520_3421662	srna
+ p3422327_3422665	srna
+ p3423239_3423515	srna
+ m3425569_3426493	srna
+ m3430676_3430795	srna
+ m3431410_3431829	srna
+ p3431903_3432301	srna
+ p3433452_3433681	srna
+ m3435247_3435384	srna
+ m3437514_3437853	srna
+ p3438065_3438263	srna
+ p3442839_3443182	srna
+ m3446931_3447183	srna
+ m3447197_3447368	srna
+ p3447452_3447600	srna
+ p3461315_3462019	srna
+ m3464021_3464417	srna
+ p3467971_3468335	srna
+ m3481162_3481254	srna
+ m3481332_3481439	srna
+ m3482217_3482747	srna
+ m3485576_3485933	srna
+ p3491133_3491553	srna
+ m3492612_3492895	srna
+ p3495221_3495365	srna
+ p3495688_3495752	srna
+ p3495925_3496009	srna
+ p3499075_3499326	srna
+ m3501257_3502083	srna
+ m3502637_3502773	srna
+ m3504373_3505297	srna
+ p3510289_3510402	srna
+ p3510426_3510567	srna
+ p3510600_3510822	srna
+ m3513167_3513273	srna
+ m3513327_3513444	srna
+ m3526648_3526832	srna
+ p3531146_3531771	srna
+ m3536656_3537390	srna
+ m3543294_3544139	srna
+ m3545442_3545836	srna
+ m3547233_3547382	srna
+ m3548612_3548945	srna
+ m3559099_3559234	srna
+ m3559965_3560107	srna
+ m3567175_3567458	srna
+ p3568716_3568896	srna
+ p3581719_3582173	srna
+ p3583556_3584149	srna
+ p3584314_3584700	srna
+ m3585040_3585157	srna
+ p3587271_3587380	srna
+ m3590265_3590576	srna
+ m3591862_3592502	srna
+ m3595097_3595543	srna
+ p3596844_3597129	srna
+ p3597807_3598681	srna
+ m3599766_3600204	srna
+ p3607084_3607499	srna
+ p3608313_3608866	srna
+ m3611612_3611836	srna
+ p3614222_3614847	srna
+ p3618168_3618352	srna
+ p3621272_3621736	srna
+ p3632063_3632625	srna
+ p3632885_3633389	srna
+ p3637869_3638241	srna
+ m3640476_3640549	srna
+ p3645942_3646597	srna
+ m3649141_3649456	srna
+ m3649823_3650103	srna
+ m3655189_3656066	srna
+ p3669962_3670537	srna
+ p3670611_3670741	srna
+ p3670801_3671059	srna
+ m3674979_3675176	srna
+ m3680241_3680357	srna
+ p3687691_3688097	srna
+ p3688406_3688815	srna
+ m3697953_3698455	srna
+ p3703219_3703592	srna
+ p3707649_3707832	srna
+ m3712491_3712697	srna
+ m3714974_3715335	srna
+ p3722635_3722716	srna
+ m3723993_3724118	srna
+ m3724286_3724445	srna
+ p3729991_3730641	srna
+ p3735559_3735817	srna
+ p3743104_3743430	srna
+ p3744762_3745118	srna
+ p3753440_3753697	srna
+ p3755716_3756089	srna
+ p3760177_3760773	srna
+ p3762055_3762784	srna
+ p3763121_3763299	srna
+ p3763903_3764054	srna
+ p3775981_3776439	srna
+ p3783383_3783742	srna
+ m3785865_3786457	srna
+ p3796908_3797242	srna
+ p3798346_3798866	srna
+ p3798873_3799091	srna
+ p3799149_3799244	srna
+ m3802537_3802840	srna
+ m3803663_3803848	srna
+ m3805066_3805367	srna
+ p3810829_3810992	srna
+ p3820472_3820585	srna
+ p3824419_3824763	srna
+ p3828809_3828915	srna
+ p3829901_3830162	srna
+ p3832601_3832689	srna
+ m3834596_3834735	srna
+ p3841566_3842198	srna
+ m3842794_3842900	srna
+ m3846012_3846196	srna
+ m3846611_3847133	srna
+ p3846614_3846973	srna
+ m3847319_3847625	srna
+ p3848260_3848324	srna
+ p3848699_3848849	srna
+ m3848875_3849260	srna
+ p3853822_3853953	srna
+ p3858579_3858693	srna
+ m3870627_3870738	srna
+ m3870892_3871014	srna
+ m3872656_3872816	srna
+ p3877433_3877820	srna
+ m3883879_3884826	srna
+ m3892215_3892309	srna
+ p3892457_3892593	srna
+ m3894429_3894700	srna
+ m3897108_3897555	srna
+ p3898974_3899329	srna
+ p3907294_3907456	srna
+ m3907703_3908066	srna
+ p3913589_3914383	srna
+ p3916119_3916408	srna
+ m3922676_3923077	srna
+ m3932046_3932369	srna
+ p3936733_3936893	srna
+ m3939324_3939465	srna
+ m3954049_3954232	srna
+ p3957070_3957276	srna
+ m3959216_3959373	srna
+ p3964756_3964941	srna
+ p3965324_3965459	srna
+ p3965555_3965624	srna
+ p3968149_3968603	srna
+ p3968623_3968979	srna
+ m3978143_3978364	srna
+ m3978687_3979153	srna
+ p3979648_3979926	srna
+ p3982598_3982891	srna
+ m3986842_3987229	srna
+ p3995252_3995500	srna
+ p3995618_3996043	srna
+ m3997675_3997903	srna
+ p4009676_4010000	srna
+ m4020579_4020678	srna
+ m4020784_4020941	srna
+ m4020963_4021201	srna
+ p4021982_4022433	srna
+ m4025781_4025936	srna
+ p4028984_4029096	srna
+ m4036492_4036625	srna
+ p4040611_4040715	srna
+ p4041235_4041360	srna
+ p4047945_4048163	srna
+ p4048596_4048833	srna
+ p4056275_4056911	srna
+ p4062360_4062495	srna
+ m4069713_4069821	srna
+ p4073404_4073530	srna
+ p4077869_4078067	srna
+ p4094656_4094973	srna
+ m4100684_4100937	srna
+ p4102101_4102175	srna
+ p4105639_4106255	srna
+ m4107190_4107590	srna
+ m4108788_4109177	srna
+ m4109415_4109643	srna
+ m4112111_4112281	srna
+ m4116043_4116337	srna
+ m4119559_4120181	srna
+ m4121968_4122257	srna
+ m4122549_4122813	srna
+ m4123769_4123893	srna
+ m4124912_4126112	srna
+ p4126641_4126782	srna
+ m4132363_4132927	srna
+ m4135629_4135737	srna
+ p4136945_4137137	srna
+ p4139584_4139934	srna
+ p4139981_4140260	srna
+ p4147475_4147626	srna
+ p4152889_4153099	srna
+ m4162573_4163021	srna
+ m4170790_4171015	srna
+ m4171030_4171314	srna
+ m4173600_4174189	srna
+ m4176080_4176187	srna
+ m4176959_4177529	srna
+ m4178966_4179821	srna
+ m4187045_4187614	srna
+ m4187712_4187956	srna
+ p4189814_4190659	srna
+ p4190937_4191072	srna
+ p4192116_4192268	srna
+ p4192567_4193369	srna
+ m4197277_4197433	srna
+ p4198575_4198858	srna
+ m4198778_4199088	srna
+ m4209160_4209393	srna
+ p4213343_4213421	srna
+ m4220318_4220479	srna
+ m4221994_4222205	srna
+ m4225084_4225879	srna
+ m4227381_4227542	srna
+ m4229506_4229707	srna
+ m4231118_4231307	srna
+ m4231922_4232028	srna
+ m4235638_4236004	srna
+ m4241095_4241313	srna
+ m4246508_4246739	srna
+ m4250050_4250179	srna
+ m4252134_4252249	srna
+ p4263384_4263832	srna
+ p4264694_4265100	srna
+ p4271560_4271701	srna
+ p4272504_4272933	srna
+ m4273806_4273948	srna
+ m4273957_4274327	srna
+ m4274468_4274642	srna
+ m4275150_4275534	srna
+ m4277246_4277371	srna
+ m4277515_4277990	srna
+ m4278062_4278365	srna
+ p4281370_4281635	srna
+ p4284408_4284774	srna
+ p4284780_4285075	srna
+ m4286786_4286912	srna
+ p4291315_4291629	srna
+ p4295772_4296006	srna
+ m4301002_4301319	srna
+ p4302042_4302243	srna
+ p4305557_4305688	srna
+ p4310832_4311156	srna
+ p4311172_4311296	srna
+ m4314001_4314099	srna
+ m4317965_4318405	srna
+ p4318433_4318718	srna
+ m4319240_4319417	srna
+ m4319601_4320632	srna
+ m4321592_4321796	srna
+ p4336209_4336582	srna
+ m4336402_4336685	srna
+ m4341078_4341661	srna
+ m4344825_4345033	srna
+ m4351149_4351479	srna
+ m4352258_4352364	srna
+ m4352395_4352773	srna
+ m4354129_4354475	srna
+ m4354540_4355210	srna
+ m4356099_4356362	srna
+ m4356972_4357314	srna
+ p4358433_4358818	srna
+ p4361979_4362249	srna
+ p4363355_4363787	srna
+ p4364652_4364840	srna
+ p4365289_4365944	srna
+ p4369756_4369882	srna
+ p4372921_4373434	srna
+ p4374014_4374452	srna
+ p4383104_4383439	srna
+ p4383927_4384485	srna
+ m4386818_4387144	srna
+ p4387519_4387645	srna
+ m4393744_4393857	srna
+ m4397066_4397183	srna
+ m4397208_4397883	srna
+ m4398963_4399497	srna
+ m4400556_4400891	srna
+ m4402403_4402771	srna
+ p4404581_4404851	srna
+ p4409088_4409227	srna
+ p4411176_4411532	srna
+p1525_1571	utr
+p1950_2051	utr
+p4998_5104	utr
+p5194_5239	utr
+p7268_7301	utr
+p9819_9913	utr
+p10829_10886	utr
+p10974_11111	utr
+m12988_13132	utr
+p13017_13979	utr
+m13559_13713	utr
+m13996_14020	utr
+p14878_14913	utr
+m15374_15589	utr
+p15613_16094	utr
+m23182_23269	utr
+m23738_23860	utr
+m25445_25504	utr
+p29608_29682	utr
+p29690_29721	utr
+p33155_33186	utr
+m38654_39055	utr
+m43366_43400	utr
+m46296_46580	utr
+m47208_47365	utr
+m48101_48133	utr
+m49940_50020	utr
+m51125_51184	utr
+m51728_51827	utr
+p53245_53662	utr
+p57379_57409	utr
+p58110_58191	utr
+p58483_58585	utr
+p59081_59121	utr
+p59377_59408	utr
+p59868_59895	utr
+p63021_63199	utr
+m64746_65011	utr
+p64968_65108	utr
+m65351_65529	utr
+p68442_68619	utr
+p71560_71588	utr
+m72102_72273	utr
+m76166_76236	utr
+m78897_79301	utr
+p80257_80623	utr
+p82669_82747	utr
+p85169_85508	utr
+m87168_87207	utr
+m2952504_2952561	utr
+p2280125_2280489	utr
+p97602_97757	utr
+p117540_117713	utr
+p119700_120134	utr
+m119837_119914	utr
+m125508_125642	utr
+m130542_130894	utr
+p133860_133949	utr
+p136008_136086	utr
+p136157_136288	utr
+p137246_137318	utr
+p137910_137940	utr
+p139674_139712	utr
+m140233_140266	utr
+m2952994_2953506	utr
+p2239958_2240158	utr
+p152216_152323	utr
+p154130_154231	utr
+m156550_156577	utr
+m157601_157640	utr
+p161475_161520	utr
+m162581_162643	utr
+p162674_162907	utr
+m163250_163292	utr
+p163308_163365	utr
+m164670_164711	utr
+p164692_164920	utr
+p166850_166909	utr
+m167124_167270	utr
+p167291_167710	utr
+m168648_168703	utr
+p171127_171214	utr
+p172169_172210	utr
+p174759_174832	utr
+p176669_176736	utr
+m186270_186494	utr
+p186480_186558	utr
+p187430_187744	utr
+m193483_194143	utr
+p194112_194609	utr
+m194816_194931	utr
+p194917_194992	utr
+p196658_196860	utr
+p206779_206813	utr
+m209582_209702	utr
+p209673_209846	utr
+m210813_210891	utr
+m212251_212276	utr
+p214928_214968	utr
+p216225_216268	utr
+m217619_218389	utr
+m218552_218601	utr
+p219368_219485	utr
+p219918_220679	utr
+p221821_221870	utr
+p222162_222288	utr
+p224665_224840	utr
+m237758_237891	utr
+m241293_241317	utr
+m244352_244483	utr
+m247319_247383	utr
+p251674_251781	utr
+p253603_253934	utr
+m257659_257782	utr
+p264024_264066	utr
+p265477_265506	utr
+p266296_266380	utr
+p269818_269842	utr
+m272840_272865	utr
+m274234_274305	utr
+p277765_277868	utr
+p279530_279586	utr
+m282615_282648	utr
+m286852_286897	utr
+m287072_287111	utr
+p289043_289103	utr
+m289683_289811	utr
+m292030_292097	utr
+p292069_292170	utr
+m293712_293797	utr
+m295634_295713	utr
+p295716_296004	utr
+m297620_298115	utr
+m300804_300833	utr
+m301656_301734	utr
+m302029_302172	utr
+m302653_302703	utr
+p661270_661294	utr
+m309548_309616	utr
+m322306_322763	utr
+m323274_323312	utr
+m324532_324599	utr
+m326223_326265	utr
+p326250_326779	utr
+m328462_328574	utr
+m330326_330932	utr
+p330391_330421	utr
+p331650_331747	utr
+m331659_331694	utr
+p332669_333110	utr
+p339322_339363	utr
+p341907_342129	utr
+p351477_351524	utr
+p351819_351847	utr
+p353037_353082	utr
+m356705_356861	utr
+p356876_356986	utr
+p361262_361333	utr
+p363779_363825	utr
+p364470_364604	utr
+p366143_366227	utr
+p377830_377930	utr
+p378588_378853	utr
+p382419_382489	utr
+m382621_382878	utr
+p382877_383601	utr
+p384487_384534	utr
+m385021_385172	utr
+p385150_385537	utr
+m392565_392695	utr
+p394714_395197	utr
+p397368_397441	utr
+p398629_398657	utr
+m401847_401872	utr
+m403163_403192	utr
+m405842_405872	utr
+p409325_409361	utr
+p410802_410837	utr
+m415344_415501	utr
+m416966_417027	utr
+p419713_419834	utr
+p424020_424967	utr
+m424740_424776	utr
+m434680_434739	utr
+p438734_438821	utr
+p439650_439757	utr
+m441195_441264	utr
+p443079_443183	utr
+m458381_458460	utr
+m459316_459375	utr
+m462003_462053	utr
+p476643_476885	utr
+p483814_483976	utr
+p489940_490148	utr
+p495009_495321	utr
+m495024_495061	utr
+p501112_501147	utr
+p504999_505085	utr
+m510226_510376	utr
+m510653_510701	utr
+m515322_515372	utr
+m515817_515918	utr
+p518659_518732	utr
+p519042_519072	utr
+p519568_519599	utr
+p521455_521513	utr
+p522168_522365	utr
+p528425_528607	utr
+p530231_530260	utr
+p532912_533124	utr
+m532996_533090	utr
+m533790_533832	utr
+m534397_534444	utr
+m538549_538587	utr
+m544852_545374	utr
+p551989_552025	utr
+p552551_552613	utr
+m553901_554312	utr
+p556420_556457	utr
+p557321_557526	utr
+p558814_558894	utr
+p559756_559887	utr
+p560749_560964	utr
+m560754_560847	utr
+m561712_561776	utr
+p564935_565020	utr
+p565444_565796	utr
+p566397_566507	utr
+m567783_567920	utr
+p573066_573183	utr
+p573836_573983	utr
+p575301_575347	utr
+p577339_577512	utr
+p579317_579348	utr
+p580582_580808	utr
+p590971_591009	utr
+p591055_591110	utr
+p591348_591474	utr
+p591577_591653	utr
+m593636_593870	utr
+p593868_594106	utr
+m595303_595424	utr
+p596672_596758	utr
+p600414_600440	utr
+p602787_602818	utr
+p604517_604601	utr
+p606449_606550	utr
+m607526_608058	utr
+m608536_608588	utr
+p610138_610187	utr
+m610781_611171	utr
+p612220_612254	utr
+m3494182_3494974	utr
+p618273_618304	utr
+p620866_620906	utr
+m621958_622120	utr
+p622125_622328	utr
+m624387_624472	utr
+m626441_626490	utr
+m627332_628297	utr
+m629732_629961	utr
+m635505_635572	utr
+m635876_635934	utr
+m637464_637582	utr
+m638970_639011	utr
+p646256_646297	utr
+p648475_648535	utr
+m649897_650406	utr
+m2249421_2249477	utr
+m650746_650778	utr
+p653779_653824	utr
+p654740_655163	utr
+m655950_656009	utr
+p659341_659449	utr
+p2955421_2955766	utr
+p2949458_2949592	utr
+m664819_665041	utr
+p3493182_3494181	utr
+m665384_665809	utr
+m675917_676032	utr
+m676785_677124	utr
+p678330_678386	utr
+m678362_678388	utr
+p678603_679228	utr
+m696904_697153	utr
+p704058_704147	utr
+m704644_704751	utr
+m705910_705960	utr
+p706134_706323	utr
+p710588_710781	utr
+p711408_711535	utr
+m719913_719990	utr
+m728477_728582	utr
+m729279_729326	utr
+m730232_730319	utr
+m731034_731154	utr
+p731365_731493	utr
+p731567_731602	utr
+p731677_731711	utr
+p731880_731929	utr
+p733326_733523	utr
+p734223_734253	utr
+p734971_735021	utr
+p735451_735516	utr
+p736225_736256	utr
+m736242_736297	utr
+m737204_737267	utr
+m738150_738296	utr
+m739161_739326	utr
+p748073_748275	utr
+p748813_748848	utr
+p749242_749738	utr
+p752597_752846	utr
+m754410_754684	utr
+p759480_759806	utr
+p763326_763369	utr
+p770551_770581	utr
+m775461_775585	utr
+m778906_778951	utr
+m779340_779542	utr
+p779488_780367	utr
+m1965371_1965573	utr
+p780600_780720	utr
+p781384_781559	utr
+p782405_782484	utr
+p784591_784820	utr
+p786012_786148	utr
+m789924_790023	utr
+p794526_794714	utr
+p795471_795518	utr
+p800202_800486	utr
+p802436_802527	utr
+p803371_803410	utr
+p806167_806334	utr
+p809911_809945	utr
+p811238_811372	utr
+p812813_812975	utr
+p815631_815662	utr
+p817535_817767	utr
+m818483_818536	utr
+p823595_823666	utr
+p824766_824799	utr
+p827471_827542	utr
+m3496367_3496409	utr
+p831662_831775	utr
+p832304_832533	utr
+p832849_832875	utr
+m845954_845981	utr
+p846023_846158	utr
+m2251884_2252043	utr
+m850041_850341	utr
+m850528_850586	utr
+m850714_850740	utr
+m1959792_1959854	utr
+m668395_668443	utr
+m853690_853824	utr
+m854158_854266	utr
+m855827_855883	utr
+p860869_860911	utr
+p865855_866060	utr
+m881049_881074	utr
+p882472_882523	utr
+m883345_883450	utr
+p883435_883560	utr
+p887025_887083	utr
+m891388_891471	utr
+p894979_895069	utr
+p898800_898830	utr
+m899632_899731	utr
+p899788_900211	utr
+p903695_903724	utr
+m904635_904904	utr
+p904820_904915	utr
+m905088_905233	utr
+m907234_907337	utr
+m908019_908180	utr
+m909319_909610	utr
+p910906_910971	utr
+p912684_912725	utr
+m913346_913557	utr
+p913503_913556	utr
+m914225_914256	utr
+m916312_916476	utr
+m917647_917733	utr
+m918751_918911	utr
+p919608_919633	utr
+p1965575_1965656	utr
+m922517_922893	utr
+p923965_923998	utr
+p924073_924109	utr
+p924886_924950	utr
+m927409_927836	utr
+m930486_930527	utr
+p1965942_1966720	utr
+p931598_931652	utr
+m932192_932278	utr
+m932933_933002	utr
+p935491_935576	utr
+p936390_936436	utr
+m937318_938240	utr
+m940389_940455	utr
+m941107_941337	utr
+m942312_942679	utr
+m944195_944274	utr
+p944736_944937	utr
+p948389_948558	utr
+p952776_952824	utr
+p953230_953256	utr
+p953731_953827	utr
+p955011_955076	utr
+p958456_958480	utr
+m960163_960341	utr
+m964193_964311	utr
+m965536_965982	utr
+p967834_967897	utr
+m968164_968423	utr
+p968306_968449	utr
+m970245_970273	utr
+p970476_970504	utr
+p972458_972561	utr
+p976864_977562	utr
+m978216_978480	utr
+m981268_981302	utr
+p982638_982761	utr
+p987073_987232	utr
+m989909_989947	utr
+p999422_999471	utr
+p1000768_1000802	utr
+m1002416_1002440	utr
+p1014511_1014680	utr
+p1015301_1015390	utr
+m1017142_1017216	utr
+m1025394_1025496	utr
+p1029338_1029775	utr
+m1031865_1031895	utr
+m1032634_1032709	utr
+m1037357_1037919	utr
+p1037926_1038000	utr
+m1041049_1041165	utr
+p1043240_1043298	utr
+m1045075_1045198	utr
+p1045223_1045320	utr
+p1050347_1050440	utr
+m1050511_1050592	utr
+m1051460_1051543	utr
+m1052318_1052594	utr
+m1057531_1057645	utr
+m1057964_1058078	utr
+m1060570_1060655	utr
+m1061655_1061729	utr
+p1061904_1061963	utr
+p1064052_1064104	utr
+p1065075_1065126	utr
+p1066039_1066077	utr
+p1069852_1069882	utr
+p1074422_1074594	utr
+m1077198_1077232	utr
+p1078335_1078390	utr
+p1078688_1078742	utr
+p1081685_1082437	utr
+p1094847_1094885	utr
+p1095060_1095369	utr
+p1099023_1099065	utr
+p1101006_1101377	utr
+m1108100_1108171	utr
+m1108505_1108577	utr
+p1110193_1110268	utr
+p1111550_1111584	utr
+p1112224_1112284	utr
+p1112322_1112383	utr
+p1113461_1113510	utr
+p1113874_1114292	utr
+p1123589_1123713	utr
+p1125418_1125452	utr
+p1127968_1128090	utr
+p1131493_1131624	utr
+m1134569_1134784	utr
+m1135466_1135500	utr
+m1136482_1136572	utr
+p1138257_1138314	utr
+p1138909_1138961	utr
+p1143649_1143735	utr
+p1144513_1144563	utr
+m2056113_2056331	utr
+m1165754_1165780	utr
+m1166807_1166895	utr
+m1168410_1168703	utr
+m1169229_1169401	utr
+m1170673_1171037	utr
+p1176123_1176927	utr
+p1177470_1177627	utr
+p1179225_1179395	utr
+p1183475_1183507	utr
+p1187351_1187434	utr
+p1188394_1188464	utr
+p1196175_1196278	utr
+p1197116_1197230	utr
+m1198090_1198155	utr
+m1199374_1199425	utr
+p1200525_1200766	utr
+p1203112_1203312	utr
+p1204036_1204066	utr
+m1205268_1205303	utr
+m1205799_1205983	utr
+p1222787_1222996	utr
+p1224299_1224384	utr
+m1225128_1225262	utr
+p1225261_1225355	utr
+m1227566_1227595	utr
+m1230549_1230659	utr
+m1236974_1237208	utr
+p1237193_1237226	utr
+m1240960_1241114	utr
+p1241600_1241632	utr
+p1243680_1243706	utr
+m1249263_1249329	utr
+m1258694_1259066	utr
+m1261347_1261712	utr
+m1264129_1264296	utr
+p1267287_1267346	utr
+p1268196_1268224	utr
+p1280021_1280151	utr
+p1281873_1281912	utr
+p1282040_1282305	utr
+p1282894_1283176	utr
+m1282915_1283055	utr
+m1284863_1284891	utr
+m1286087_1286283	utr
+p1287021_1287327	utr
+p1291027_1291064	utr
+p1292742_1292797	utr
+m1298693_1298763	utr
+m1300125_1300219	utr
+p1300175_1300303	utr
+p1301225_1301306	utr
+m1301605_1301754	utr
+m1302682_1302883	utr
+p1302855_1302930	utr
+m1305034_1305668	utr
+m1306002_1306201	utr
+p1308908_1309004	utr
+p1309332_1309363	utr
+p1310453_1311041	utr
+p1313630_1313724	utr
+p1315192_1315233	utr
+p1319983_1320034	utr
+p1321454_1321519	utr
+m1323883_1324531	utr
+p1324529_1324961	utr
+m1325612_1325775	utr
+p1335755_1335793	utr
+m1337200_1337247	utr
+p1337216_1337472	utr
+m1338514_1338543	utr
+p1338899_1339002	utr
+p1339303_1339348	utr
+p1341291_1341838	utr
+p1342548_1342941	utr
+m1344055_1344215	utr
+m1348625_1348708	utr
+p1349283_1349331	utr
+p1351126_1351190	utr
+p1353119_1353156	utr
+p1354137_1354242	utr
+p1354471_1354984	utr
+m1359445_1359471	utr
+m1363447_1363502	utr
+p1365809_1365874	utr
+p1367859_1367907	utr
+m1371068_1371776	utr
+m1374198_1374321	utr
+m1376169_1376229	utr
+p1381866_1381987	utr
+p1383182_1383212	utr
+p1384203_1384277	utr
+p1386810_1386856	utr
+m1387069_1387797	utr
+m1388629_1388684	utr
+m1389245_1389356	utr
+m1393053_1393193	utr
+m1393983_1394078	utr
+p1402810_1402978	utr
+p1409359_1409442	utr
+m1409422_1409483	utr
+p1413210_1413259	utr
+m1413885_1413959	utr
+p1413941_1414396	utr
+m1418524_1418578	utr
+m1418954_1419013	utr
+p1424154_1424196	utr
+p1425294_1425350	utr
+p1437269_1437323	utr
+p1437816_1437908	utr
+p1440752_1440804	utr
+p1443400_1443430	utr
+p1451780_1451996	utr
+p1452948_1453203	utr
+p1455013_1455162	utr
+p1458212_1458294	utr
+p1459510_1459765	utr
+p1460997_1461044	utr
+p1461291_1461320	utr
+p1463184_1463227	utr
+p1465802_1465840	utr
+p1468132_1468646	utr
+m1469635_1469670	utr
+p1473383_1473657	utr
+p1476796_1476898	utr
+m1477094_1477133	utr
+m1480825_1480893	utr
+m1485067_1485312	utr
+p1485279_1485352	utr
+p1485676_1485861	utr
+p1487032_1487160	utr
+p1488076_1488113	utr
+m1494426_1494463	utr
+p1505891_1505916	utr
+p1507535_1507572	utr
+p1512007_1512040	utr
+p1518733_1518762	utr
+p1519135_1519197	utr
+p1532371_1532466	utr
+m1533884_1533947	utr
+m1537645_1537742	utr
+m1538170_1538223	utr
+p1539441_1539617	utr
+m1540646_1540688	utr
+p1540821_1541019	utr
+p1541806_1542035	utr
+p1552610_1552653	utr
+p1561436_1561463	utr
+p1563389_1563693	utr
+p1564267_1564400	utr
+p1565028_1565092	utr
+p1566698_1566824	utr
+m1570970_1570996	utr
+m1573858_1574111	utr
+p1577533_1577612	utr
+p1580552_1580590	utr
+m1580937_1581144	utr
+p1581074_1581171	utr
+m1581970_1582069	utr
+m1585970_1586209	utr
+p1586214_1586382	utr
+p1589173_1589385	utr
+p1590362_1590396	utr
+p1593326_1593387	utr
+p1593979_1594041	utr
+p1598884_1598993	utr
+p1601038_1601122	utr
+m1604760_1604788	utr
+m1612208_1612341	utr
+m1612951_1613027	utr
+p1613256_1613306	utr
+p1616350_1616638	utr
+p1618071_1618170	utr
+m1623116_1623286	utr
+m1625366_1625417	utr
+m1630200_1630286	utr
+p1635004_1635028	utr
+p1639647_1639702	utr
+p1653579_1653630	utr
+p1660621_1660655	utr
+p1662302_1662380	utr
+m1666047_1666086	utr
+p1666765_1666989	utr
+p1669145_1669282	utr
+p1678909_1678941	utr
+p1680630_1680698	utr
+p1682106_1682156	utr
+m1689271_1689302	utr
+m1689921_1690133	utr
+p1692712_1692923	utr
+p1693824_1693990	utr
+m1695145_1695280	utr
+m1696444_1696726	utr
+m1697423_1698094	utr
+p1701094_1701266	utr
+p1703030_1703073	utr
+m1706596_1706629	utr
+p1714054_1714210	utr
+m1714133_1714171	utr
+m1728410_1728508	utr
+p1733040_1733107	utr
+p1735412_1735975	utr
+p1736213_1736518	utr
+p1743772_1744089	utr
+m1744372_1744425	utr
+p1745030_1745063	utr
+p1747147_1747182	utr
+p1751249_1751549	utr
+p1757424_1757680	utr
+m1771602_1771639	utr
+m1773830_1773927	utr
+m1774621_1774859	utr
+m1775145_1775286	utr
+m1782585_1782704	utr
+m1786529_1786583	utr
+m1792277_1792399	utr
+m1961826_1962227	utr
+p1794706_1794755	utr
+p1798246_1798293	utr
+p1806001_1806180	utr
+m1807077_1807297	utr
+p1810151_1810239	utr
+p1811059_1811126	utr
+p1814578_1815204	utr
+p1816082_1816136	utr
+p1818518_1818574	utr
+m1823274_1823359	utr
+m1824401_1824429	utr
+m1825888_1825916	utr
+m1825954_1825997	utr
+p3497550_3497873	utr
+p1828127_1828179	utr
+m1828808_1828864	utr
+p1833380_1833541	utr
+p1834988_1835012	utr
+p1836237_1836396	utr
+m1836831_1836880	utr
+p1837034_1837074	utr
+p1842417_1842450	utr
+m1842846_1842897	utr
+p1842892_1843076	utr
+m1846325_1846715	utr
+m1848464_1848516	utr
+p3496514_3496550	utr
+p1852879_1852927	utr
+p1853123_1853183	utr
+p1853574_1853605	utr
+p1854389_1854418	utr
+p1855681_1855763	utr
+p1858617_1858732	utr
+m1862275_1862346	utr
+p1872560_1872638	utr
+p1874123_1874159	utr
+m1898208_1898232	utr
+p1902297_1902396	utr
+p1906327_1906402	utr
+p1907545_1907593	utr
+p1914877_1914936	utr
+p1915018_1915526	utr
+p1923754_1923828	utr
+m1928749_1929130	utr
+m1929722_1929785	utr
+m1931457_1931496	utr
+p1934059_1934881	utr
+p1941680_1941852	utr
+m1953771_1953863	utr
+m1959015_1959242	utr
+p2957433_2957571	utr
+p3491712_3492146	utr
+m2950419_2950488	utr
+m2255143_2256083	utr
+p2950487_2951328	utr
+p1970705_1970764	utr
+p1976228_1976363	utr
+m1977290_1977327	utr
+p1981026_1981129	utr
+m1984777_1984978	utr
+p1994662_1994793	utr
+p1998947_1999736	utr
+p2000007_2000033	utr
+p2000434_2000535	utr
+p2002471_2002625	utr
+p2006448_2006635	utr
+p2006948_2007063	utr
+p2009991_2010295	utr
+m2012531_2012576	utr
+p2015263_2015539	utr
+p2017615_2017739	utr
+p2023433_2023653	utr
+p2029782_2029903	utr
+m3499916_3499942	utr
+p2030644_2030693	utr
+p2030979_2031065	utr
+p2038533_2038614	utr
+p2039351_2039387	utr
+p2048372_2048397	utr
+p2049598_2049786	utr
+p2049867_2049920	utr
+p2051151_2051281	utr
+p2052689_2052932	utr
+p2053290_2053442	utr
+m2248295_2248562	utr
+m3500750_3500789	utr
+p2057466_2057527	utr
+p2058194_2058255	utr
+p2058961_2059003	utr
+m2061115_2061177	utr
+p2068972_2069079	utr
+p2070626_2070653	utr
+p2071915_2071951	utr
+p2072357_2072595	utr
+p2073825_2073942	utr
+p2074438_2074498	utr
+p2074762_2074840	utr
+p2075519_2075570	utr
+p2075829_2075876	utr
+p2078703_2078755	utr
+m2084637_2084755	utr
+m2086982_2087029	utr
+m2089519_2089680	utr
+m2092086_2092258	utr
+m2093699_2093730	utr
+m2095189_2095217	utr
+p2096759_2096876	utr
+p2097300_2097347	utr
+m2104108_2104145	utr
+m2104824_2104881	utr
+p2104902_2104984	utr
+p2109471_2109541	utr
+m2110522_2110590	utr
+m2119117_2119459	utr
+m2120696_2120794	utr
+m2121431_2121494	utr
+p2124825_2124887	utr
+p2125247_2125339	utr
+p2125820_2125903	utr
+m2129966_2130540	utr
+m2131858_2131906	utr
+m2132330_2132369	utr
+m2133204_2133230	utr
+m2133693_2133730	utr
+m2135868_2135894	utr
+p2136137_2136257	utr
+p2137401_2137859	utr
+p2139710_2139740	utr
+m2140566_2140738	utr
+p2140705_2140905	utr
+p2142407_2142520	utr
+p2143676_2143729	utr
+m2145089_2145213	utr
+p2148955_2149681	utr
+p2150769_2150953	utr
+p2151386_2151588	utr
+m2152396_2152424	utr
+m2156112_2156148	utr
+m2157988_2158086	utr
+m2159875_2159920	utr
+p2160360_2160462	utr
+p2162763_2163010	utr
+m2167550_2167648	utr
+m2170641_2171060	utr
+m2171526_2171557	utr
+p2176514_2176811	utr
+m2176931_2176973	utr
+m2178899_2178956	utr
+p2178950_2179672	utr
+m2179437_2179482	utr
+p2183870_2184126	utr
+m2194179_2194643	utr
+p2197705_2198023	utr
+p2201250_2201276	utr
+p2201580_2201718	utr
+p2202097_2202137	utr
+p2203130_2203383	utr
+p2204707_2205334	utr
+p2219591_2219753	utr
+m2221645_2221718	utr
+m2223165_2223342	utr
+m2224030_2224140	utr
+m2224171_2224219	utr
+m2225189_2225347	utr
+m2227796_2227907	utr
+p2230611_2230860	utr
+p2231455_2231679	utr
+m2234892_2234990	utr
+m2237576_2237627	utr
+m147772_147804	utr
+p1851989_1852272	utr
+m2792495_2792584	utr
+p88167_88203	utr
+p660869_661002	utr
+p830037_830061	utr
+m2258430_2258853	utr
+p2258672_2259280	utr
+p2259821_2260065	utr
+p2260083_2260664	utr
+p2265039_2265188	utr
+p2265255_2265279	utr
+m2266338_2266420	utr
+m2266721_2266804	utr
+m2268117_2268267	utr
+p2279104_2279128	utr
+m3497480_3497528	utr
+p3053683_3053841	utr
+m2278933_2278962	utr
+p2282741_2282968	utr
+m2289635_2289684	utr
+m2306987_2307176	utr
+p2307759_2307820	utr
+m2307823_2308130	utr
+p2308157_2308469	utr
+m2310808_2310912	utr
+p2313839_2313957	utr
+p2315140_2315173	utr
+m2316231_2316680	utr
+m2324603_2324646	utr
+m2330964_2331114	utr
+m2331328_2331414	utr
+p2331407_2331731	utr
+m2332880_2333036	utr
+m2333289_2333322	utr
+m2337218_2338064	utr
+p2337870_2338708	utr
+m2338506_2338626	utr
+p2342945_2343026	utr
+m2274509_2274568	utr
+m2349293_2349333	utr
+m2352055_2352102	utr
+m2353298_2353364	utr
+p2360180_2360239	utr
+p2363282_2363390	utr
+m2363963_2364085	utr
+p2364108_2364133	utr
+p2368443_2368838	utr
+m2368922_2368982	utr
+m2370793_2370904	utr
+m2374020_2374460	utr
+p2374458_2374590	utr
+m2376291_2376329	utr
+m2379728_2379754	utr
+p2381028_2381070	utr
+m2382408_2382488	utr
+p2388521_2388615	utr
+m2390208_2390307	utr
+p2390289_2390781	utr
+m2391190_2391214	utr
+m2392460_2392516	utr
+p2393642_2393688	utr
+m2395238_2395300	utr
+m2396839_2396901	utr
+p2397253_2397329	utr
+p2398407_2398719	utr
+m2399578_2399797	utr
+m2400329_2400375	utr
+m2403952_2404164	utr
+m2404522_2404615	utr
+m2405399_2405665	utr
+m2405957_2406117	utr
+m2409525_2409614	utr
+m2423138_2423239	utr
+m2424839_2424893	utr
+m2429859_2429897	utr
+m2431539_2431564	utr
+m2431970_2432038	utr
+m2433533_2433630	utr
+m2434537_2434626	utr
+m2437394_2437445	utr
+m2440236_2440331	utr
+p2443026_2443301	utr
+m2444499_2444585	utr
+m2445330_2445414	utr
+m2446947_2447065	utr
+m2447501_2447604	utr
+p2448126_2448159	utr
+p2449963_2449988	utr
+m2452021_2452114	utr
+m2453273_2453436	utr
+p2457513_2457552	utr
+p2461328_2461544	utr
+m2463048_2463232	utr
+m2464752_2464836	utr
+m2468028_2468210	utr
+m2468316_2468930	utr
+m2469288_2469386	utr
+p2471333_2471410	utr
+p2473289_2473399	utr
+m2474499_2474863	utr
+m2475971_2476041	utr
+m2481702_2481729	utr
+p2486209_2486234	utr
+p2486988_2487077	utr
+p2487482_2487614	utr
+p2489052_2489274	utr
+m2489307_2489368	utr
+m2492354_2492401	utr
+p2497688_2497741	utr
+m2501209_2501643	utr
+p2508453_2508481	utr
+m2510031_2510350	utr
+m2510670_2510714	utr
+m2511653_2511689	utr
+p2512295_2512538	utr
+p2515245_2515303	utr
+p2517696_2517770	utr
+p2519366_2519395	utr
+p2520713_2520742	utr
+p2522165_2522359	utr
+m2529175_2529340	utr
+m2529875_2530003	utr
+m2531898_2532200	utr
+p2533966_2534104	utr
+p2545303_2545331	utr
+p2545632_2545736	utr
+p2546825_2546882	utr
+p2551529_2551559	utr
+p2552940_2553059	utr
+p2553076_2553172	utr
+p2558811_2558917	utr
+p2562458_2562598	utr
+p2563115_2563173	utr
+p2564029_2564134	utr
+p2567411_2567503	utr
+p2568407_2568437	utr
+p2568891_2569081	utr
+p2573708_2573812	utr
+p2574056_2574559	utr
+m2584791_2585051	utr
+m2596963_2597008	utr
+m2601473_2601913	utr
+m2603462_2603602	utr
+m2606591_2606707	utr
+p2608541_2608795	utr
+p2610422_2610499	utr
+p2610790_2610836	utr
+p2611806_2611966	utr
+m2612988_2613106	utr
+m2614064_2614091	utr
+p2614562_2614692	utr
+p2617582_2617623	utr
+m2618909_2618972	utr
+m2620485_2620532	utr
+p2620530_2620598	utr
+m2625239_2625887	utr
+m2626173_2626222	utr
+m2626520_2626653	utr
+m2626981_2627037	utr
+m2627102_2627171	utr
+m2628699_2628780	utr
+m2632076_2632109	utr
+m2632800_2632922	utr
+m2637513_2637687	utr
+p2641204_2641245	utr
+p2642043_2642101	utr
+m2646674_2646746	utr
+m2653988_2654061	utr
+m2655094_2655608	utr
+p2655583_2655618	utr
+m2667116_2667254	utr
+m2675838_2675874	utr
+m2683143_2683247	utr
+m2684267_2684299	utr
+p930564_930952	utr
+p2242877_2243596	utr
+p2692716_2692798	utr
+p2693885_2694289	utr
+m2703834_2704008	utr
+m2704438_2704467	utr
+p2710044_2710074	utr
+m2710179_2710350	utr
+p2710336_2710506	utr
+m2716315_2716394	utr
+p2720644_2720897	utr
+m2721833_2721865	utr
+m2724184_2724229	utr
+p2726152_2726192	utr
+p2726781_2726805	utr
+m2726919_2727335	utr
+m2727921_2727966	utr
+m2734613_2734791	utr
+m2739687_2739771	utr
+m2740362_2740479	utr
+m2741771_2742122	utr
+m2744985_2745313	utr
+m2745725_2745766	utr
+m2752516_2752847	utr
+m2756705_2756800	utr
+m2756883_2756935	utr
+m2759489_2759739	utr
+m920614_920740	utr
+m2762284_2762530	utr
+p2760751_2760853	utr
+m2763775_2763890	utr
+m2765292_2765330	utr
+m2765405_2765536	utr
+p2765612_2765654	utr
+p2766840_2767026	utr
+m2768160_2768260	utr
+m2768885_2768910	utr
+m2776148_2776315	utr
+m2782263_2782365	utr
+m2784043_2784122	utr
+m3508531_3509117	utr
+m2808471_2808757	utr
+p2808736_2808914	utr
+m2812097_2812354	utr
+m2819871_2819952	utr
+p2822360_2822437	utr
+p2823260_2823685	utr
+m2825281_2825487	utr
+p2825485_2825570	utr
+p2829971_2830160	utr
+p2830584_2830805	utr
+m2832592_2832709	utr
+m2834074_2834108	utr
+m2835336_2835379	utr
+p2835442_2835493	utr
+p2835588_2835784	utr
+p2837264_2837478	utr
+p2838158_2838327	utr
+m2849333_2849489	utr
+m2849822_2849851	utr
+m2854908_2854937	utr
+m2857782_2857852	utr
+p2861145_2861297	utr
+m2864413_2864593	utr
+m2869029_2869252	utr
+m2869628_2869726	utr
+m2870365_2870774	utr
+m2876486_2876575	utr
+p2877747_2877830	utr
+p2878542_2878919	utr
+p2881703_2881757	utr
+p2884492_2884610	utr
+p2892450_2892599	utr
+p2899310_2899338	utr
+m2900115_2900225	utr
+p2907741_2907772	utr
+m2907783_2907825	utr
+m2910199_2910228	utr
+m2910901_2911003	utr
+m2916194_2916249	utr
+p2917710_2917870	utr
+p2921378_2921550	utr
+p2926240_2926354	utr
+p2927909_2927989	utr
+m2930335_2930804	utr
+p2930785_2930859	utr
+m2931561_2931692	utr
+m2933143_2933170	utr
+p2934969_2935045	utr
+m2945541_2945846	utr
+m2947015_2947095	utr
+m2948559_2948585	utr
+p2948600_2948635	utr
+p3451751_3451780	utr
+p2762381_2762414	utr
+m145502_145626	utr
+p2687974_2688009	utr
+p612925_613037	utr
+m2055360_2055680	utr
+p89481_89574	utr
+m2957962_2958908	utr
+p2958871_2958958	utr
+m2959191_2959334	utr
+m2959821_2959852	utr
+p2964340_2964404	utr
+p2965876_2965938	utr
+p2966398_2966532	utr
+m2969336_2969496	utr
+p2969610_2969752	utr
+m2973678_2973794	utr
+m2975776_2975874	utr
+p2980910_2981481	utr
+p2981755_2981852	utr
+p2982352_2982432	utr
+p2982537_2982698	utr
+p2984655_2984724	utr
+m2991074_2991183	utr
+p2991117_2991187	utr
+p2996019_2996104	utr
+m2997974_2998051	utr
+p2998056_2998163	utr
+p3000082_3000111	utr
+p3001904_3001982	utr
+m3003237_3003279	utr
+p3003270_3003331	utr
+m3005651_3005753	utr
+m3007142_3007235	utr
+p3009274_3009343	utr
+m3010647_3010696	utr
+p3010687_3010771	utr
+m3011369_3011398	utr
+m3011768_3011835	utr
+m3013609_3013682	utr
+m3014452_3014662	utr
+m3014966_3015195	utr
+p3017656_3017834	utr
+p3019422_3019457	utr
+p3019887_3020572	utr
+m3021077_3021547	utr
+p3022286_3022460	utr
+p3023433_3023564	utr
+p3024258_3024476	utr
+p3026848_3027064	utr
+p3028040_3028097	utr
+p3029124_3029171	utr
+p3029859_3029918	utr
+m3030878_3030907	utr
+m3032381_3032519	utr
+p3032499_3032861	utr
+m3034620_3034746	utr
+p3034884_3034908	utr
+m3036057_3036130	utr
+m3041536_3041569	utr
+m3042476_3042518	utr
+m3051425_3051487	utr
+p2684426_2684678	utr
+p3055492_3055577	utr
+m3056365_3056419	utr
+m3058064_3058192	utr
+m3059828_3059854	utr
+p3062479_3062504	utr
+m3064417_3064514	utr
+p3064529_3064570	utr
+m3066192_3066221	utr
+m3070084_3070169	utr
+m3073610_3073679	utr
+m3080458_3080580	utr
+m3081034_3081118	utr
+p3082840_3082908	utr
+m3083024_3083373	utr
+p3083371_3083425	utr
+m3084348_3084484	utr
+m3085556_3085712	utr
+m3087872_3087949	utr
+p3087936_3088018	utr
+m3088985_3089044	utr
+m3092598_3092750	utr
+m3092900_3092950	utr
+m3093749_3093904	utr
+m3097631_3097705	utr
+m3098939_3098963	utr
+m3100170_3100201	utr
+m3102163_3102255	utr
+p3115304_3115407	utr
+p3115720_3115886	utr
+m3123568_3123624	utr
+m3147874_3147958	utr
+m3148259_3148384	utr
+m3149977_3150051	utr
+m3152951_3153038	utr
+m3160522_3160579	utr
+m3162062_3162092	utr
+m3175410_3175453	utr
+m3178188_3178457	utr
+m3179313_3179367	utr
+p3187978_3188078	utr
+m3189398_3189582	utr
+m3192202_3192372	utr
+m3193159_3193189	utr
+m3194137_3194165	utr
+p3194152_3194314	utr
+m3199983_3200163	utr
+m3204303_3204380	utr
+m3208329_3208575	utr
+m3211746_3211802	utr
+m3212109_3212161	utr
+m3213855_3213911	utr
+m3214254_3214379	utr
+p3214494_3214627	utr
+p3215573_3215615	utr
+m3217644_3217764	utr
+m3218829_3219273	utr
+m3224681_3224707	utr
+m3230681_3230737	utr
+m3234140_3234188	utr
+m3239765_3239828	utr
+m3241172_3241221	utr
+m3241960_3241985	utr
+p3243282_3243696	utr
+p3274903_3274948	utr
+m3275460_3276379	utr
+p3276218_3276438	utr
+m3282716_3282878	utr
+p3287833_3287939	utr
+m3290260_3290623	utr
+m3291326_3291502	utr
+m3300571_3300595	utr
+m3302456_3302684	utr
+m3302782_3303102	utr
+p3305254_3305278	utr
+m3306472_3306665	utr
+m3310653_3310713	utr
+m3312001_3312100	utr
+m3312839_3312952	utr
+m3318816_3318875	utr
+m3319598_3319662	utr
+m3324477_3324572	utr
+m3325704_3325817	utr
+p3325722_3325933	utr
+p3326950_3327045	utr
+p3342083_3342164	utr
+m3342575_3343175	utr
+m3343821_3343850	utr
+m3343901_3344032	utr
+m3346076_3346134	utr
+m3346335_3346858	utr
+m3347720_3347875	utr
+m3348620_3348658	utr
+m3350994_3351057	utr
+m3359212_3359584	utr
+m3360587_3360623	utr
+m3362987_3363125	utr
+m3363569_3363692	utr
+m3367158_3367263	utr
+p3376388_3376429	utr
+m3386920_3387074	utr
+m3388032_3388069	utr
+m3388871_3388975	utr
+p3392787_3392811	utr
+m3397142_3397175	utr
+m3398368_3398424	utr
+m3403163_3403199	utr
+m3404922_3404947	utr
+p3406216_3406284	utr
+m3407216_3407313	utr
+p3407326_3407757	utr
+m3408307_3408403	utr
+m3409379_3409508	utr
+m3411084_3411216	utr
+m3411958_3412084	utr
+m3414167_3414231	utr
+m3414685_3414718	utr
+m3414959_3415434	utr
+m3418663_3418725	utr
+p3420971_3421031	utr
+m3423235_3423261	utr
+p3425510_3425583	utr
+m3437897_3438049	utr
+p3441755_3441794	utr
+m3445989_3446028	utr
+m780417_780459	utr
+p3452888_3452924	utr
+p3457273_3457442	utr
+m3460742_3460813	utr
+m3461735_3461759	utr
+m3463892_3463937	utr
+p3464450_3464546	utr
+p3465687_3465866	utr
+p3467426_3467605	utr
+m3467663_3468412	utr
+m3469265_3469300	utr
+m3476962_3477163	utr
+p3483946_3483973	utr
+p3486175_3486508	utr
+p3487712_3487987	utr
+p3490376_3490746	utr
+m847956_848102	utr
+m3613604_3613663	utr
+m1165500_1165671	utr
+m1826586_1826613	utr
+p852352_852395	utr
+m2348344_2348557	utr
+p851561_851607	utr
+p2030204_2030346	utr
+p650394_650466	utr
+p3501166_3501333	utr
+p3501733_3501793	utr
+p3502937_3503392	utr
+p3505284_3505362	utr
+p3507996_3508094	utr
+m1793741_1793996	utr
+p3509067_3509223	utr
+m3509547_3510087	utr
+m3511318_3511369	utr
+p3511599_3511681	utr
+p3519167_3519281	utr
+m3527282_3527390	utr
+p3527386_3527468	utr
+m3529164_3529337	utr
+m3532918_3532942	utr
+p3536064_3536101	utr
+m3539813_3539845	utr
+m3540746_3540881	utr
+m3541365_3541442	utr
+p3542102_3542137	utr
+m3555279_3555421	utr
+m3556800_3557310	utr
+p3557065_3557809	utr
+m3563173_3563208	utr
+m3566574_3566695	utr
+m3566897_3567000	utr
+p3568368_3568493	utr
+m3568680_3569108	utr
+m3571212_3571473	utr
+m3571569_3571601	utr
+p3571590_3571940	utr
+m3573670_3573694	utr
+m3581483_3581626	utr
+m3582506_3582531	utr
+m3583711_3583800	utr
+m3584659_3584805	utr
+m3585555_3585676	utr
+p3585691_3585777	utr
+p3586118_3586273	utr
+p3586835_3587140	utr
+p3587618_3587797	utr
+p3590618_3590682	utr
+m3590640_3590691	utr
+m3591493_3591552	utr
+m3593730_3593803	utr
+p3595434_3595712	utr
+p3595968_3596062	utr
+m3597855_3598050	utr
+m3599552_3599738	utr
+p3601020_3601054	utr
+m3605181_3605750	utr
+m3607035_3607111	utr
+m3608255_3608363	utr
+p3611146_3611299	utr
+m3611190_3611459	utr
+m3611880_3611958	utr
+p305810_305995	utr
+m3620532_3620609	utr
+m3621255_3621475	utr
+m3623092_3623158	utr
+m3626614_3626662	utr
+m3628064_3628159	utr
+m3629648_3629751	utr
+m3631989_3632035	utr
+m3634832_3635040	utr
+p3635064_3635094	utr
+m3638710_3638773	utr
+m3639649_3639871	utr
+m3640142_3640357	utr
+p3640470_3640542	utr
+p3649382_3649419	utr
+p3650110_3650233	utr
+p3652683_3653447	utr
+m3656618_3656919	utr
+p3656932_3657020	utr
+m3659925_3660109	utr
+p3660697_3661191	utr
+p3664888_3664927	utr
+p3666250_3666356	utr
+m3668045_3668168	utr
+p3668160_3668346	utr
+m3669389_3669585	utr
+m3670000_3670033	utr
+m3670412_3670444	utr
+m3671795_3671844	utr
+p3671883_3672327	utr
+p3673576_3673601	utr
+p3675087_3675131	utr
+p3676732_3676774	utr
+m3683025_3683050	utr
+m3687578_3687684	utr
+p3696469_3696567	utr
+m3700331_3700704	utr
+p3704048_3704101	utr
+p3704872_3704899	utr
+p3714339_3714391	utr
+p3721232_3721256	utr
+p3721698_3721733	utr
+p3725980_3726126	utr
+p3777600_3777736	utr
+p3778521_3778567	utr
+p3786273_3786313	utr
+p3790112_3790155	utr
+m3790372_3790847	utr
+p3790810_3791622	utr
+m3796421_3796447	utr
+m3798490_3798907	utr
+m3799944_3800072	utr
+m3804792_3804889	utr
+p3805576_3805620	utr
+m3812344_3812500	utr
+m3821892_3822261	utr
+p3826218_3826251	utr
+m3828728_3828782	utr
+m3831520_3831693	utr
+m3831813_3832145	utr
+p3832137_3832479	utr
+p3834790_3834891	utr
+m3836892_3836985	utr
+m3837289_3837554	utr
+m3842077_3842204	utr
+m3843846_3843884	utr
+p3847136_3847164	utr
+p3847702_3848073	utr
+m3850140_3850371	utr
+m3854794_3855014	utr
+m3861371_3861494	utr
+m3862391_3862511	utr
+p3874283_3874403	utr
+m3875913_3876051	utr
+m3876823_3876889	utr
+m3877433_3877463	utr
+m3878508_3878658	utr
+m3880071_3880285	utr
+m3880400_3880431	utr
+m3880654_3881085	utr
+p3881765_3881836	utr
+p3883443_3883524	utr
+m3893721_3893748	utr
+p3893957_3894092	utr
+p3894390_3894425	utr
+p3895608_3895819	utr
+p3898886_3898948	utr
+m3900403_3900492	utr
+m3902107_3902149	utr
+m3905567_3906173	utr
+m3907008_3907518	utr
+p3909739_3909767	utr
+m3910294_3910464	utr
+p3910469_3910650	utr
+m3920063_3920096	utr
+m3920862_3920886	utr
+p3926536_3926568	utr
+p3930895_3931004	utr
+m3936833_3936876	utr
+p3939571_3939616	utr
+m3950458_3950823	utr
+m3955522_3956242	utr
+p3956261_3956413	utr
+m3957369_3957634	utr
+p3961787_3961868	utr
+p3964055_3964139	utr
+m3964243_3964478	utr
+m3965193_3965238	utr
+m3965741_3965883	utr
+m3970541_3970704	utr
+m3972454_3972551	utr
+m3975297_3975334	utr
+p3977923_3977949	utr
+p3986733_3986843	utr
+m3995700_3995803	utr
+m3996965_3997028	utr
+p3997951_3997979	utr
+p3999639_3999695	utr
+m4008434_4008547	utr
+m4012271_4012299	utr
+p4012304_4012416	utr
+p4014042_4014073	utr
+p4016304_4016483	utr
+p4017084_4017121	utr
+m4023804_4023867	utr
+p4025791_4025829	utr
+p4026379_4026443	utr
+m4028421_4028967	utr
+m4029763_4029870	utr
+p4035711_4035756	utr
+m4038051_4038157	utr
+m4040705_4040889	utr
+m4041320_4041422	utr
+m4046119_4046167	utr
+m4052884_4052917	utr
+m4053401_4053517	utr
+m4053848_4053880	utr
+m4054043_4054141	utr
+m4054697_4054811	utr
+m4055124_4055196	utr
+m4056376_4056471	utr
+m4063208_4063253	utr
+p4067383_4067422	utr
+p4067912_4067978	utr
+p4071581_4071790	utr
+p4072667_4073344	utr
+p4075698_4075751	utr
+m4082722_4083013	utr
+m4084392_4084452	utr
+m4087258_4087609	utr
+m4088189_4088327	utr
+m4088532_4088709	utr
+p4092879_4092945	utr
+p4099518_4099646	utr
+p4110665_4110826	utr
+m4114343_4114473	utr
+p4116380_4116477	utr
+p4117153_4117230	utr
+p4120956_4121338	utr
+m4121555_4121686	utr
+p4124349_4124416	utr
+p4125377_4125438	utr
+p4126480_4126540	utr
+m4126782_4127294	utr
+m4128726_4128750	utr
+m4129266_4129322	utr
+m4129692_4129892	utr
+p4131713_4131738	utr
+p4134593_4134725	utr
+m4136019_4136121	utr
+m4143921_4143950	utr
+m4148187_4148260	utr
+m4148269_4148317	utr
+m4148963_4148995	utr
+m4149481_4149590	utr
+m4153484_4153512	utr
+p4153618_4153739	utr
+m4155576_4155739	utr
+m4159822_4159888	utr
+m4160914_4160964	utr
+p4164999_4165052	utr
+m4166732_4166820	utr
+p4168431_4168535	utr
+p4169301_4169466	utr
+p4171144_4171420	utr
+p4180616_4181018	utr
+m4183957_4184011	utr
+p4185912_4186088	utr
+p4186578_4186633	utr
+m4190233_4190283	utr
+m4190518_4190832	utr
+m4193246_4193307	utr
+m4196507_4196567	utr
+p4197108_4197235	utr
+m4197521_4197627	utr
+m4198138_4198204	utr
+m4198598_4198652	utr
+p4205503_4205537	utr
+m4206918_4206995	utr
+p4209005_4209046	utr
+p4209527_4210272	utr
+m4211040_4211079	utr
+p4212211_4212292	utr
+m4212912_4212995	utr
+p4214888_4215122	utr
+m4216938_4216967	utr
+m4223564_4223698	utr
+m4224896_4224994	utr
+m4253854_4254379	utr
+m4263067_4263354	utr
+m4264366_4264562	utr
+m4265463_4265641	utr
+m4266659_4266952	utr
+m4268837_4268924	utr
+m4270338_4270365	utr
+p4273670_4273738	utr
+p4274594_4274797	utr
+p4284332_4284394	utr
+p4285250_4285972	utr
+p4286687_4286720	utr
+p4287936_4288500	utr
+m4288181_4288259	utr
+m4291530_4291638	utr
+m4293175_4293224	utr
+p4301567_4301606	utr
+m4305686_4306235	utr
+p4306841_4306866	utr
+m4310775_4311008	utr
+p4313542_4313566	utr
+m4314682_4314737	utr
+p4320590_4320703	utr
+p4321328_4321537	utr
+p4322072_4322325	utr
+p4323366_4323498	utr
+p4323898_4324014	utr
+p4325015_4325073	utr
+m4325823_4326003	utr
+p4325969_4326044	utr
+p4328200_4328418	utr
+m4329615_4330038	utr
+m4336082_4336284	utr
+m4337436_4338170	utr
+p4338737_4338848	utr
+p4340216_4340269	utr
+p4341479_4341565	utr
+p4342732_4342769	utr
+p4348725_4348826	utr
+p4350603_4350744	utr
+p4352182_4352273	utr
+p4352577_4352608	utr
+p4352897_4353009	utr
+p4356543_4356692	utr
+m4357452_4357592	utr
+m4359783_4360198	utr
+m4361926_4362031	utr
+m4364758_4364826	utr
+m4364935_4364978	utr
+m4366839_4366907	utr
+m4373631_4373725	utr
+m4374014_4374048	utr
+m4374373_4374412	utr
+m4382852_4382989	utr
+m4383986_4384049	utr
+p4393202_4393448	utr
+p4400152_4400185	utr
+p4403083_4403191	utr
+m4404367_4404432	utr
+p4404413_4404494	utr
+m4405168_4405456	utr
+m4408203_4408333	utr
+m4408898_4408968	utr
+EBG00000313378	ncrna
+EBG00000313327	ncrna
+EBG00000313383	ncrna
+EBG00000313364	ncrna
+EBG00000313344	ncrna
+EBG00000313338	ncrna
+EBG00000313317	ncrna
+EBG00000313387	ncrna
+EBG00000313390	ncrna
+EBG00000313343	ncrna
+EBG00000313377	ncrna
+EBG00000313340	ncrna
+EBG00000313353	ncrna
+EBG00000313337	ncrna
+EBG00000313388	ncrna
+EBG00000313376	ncrna
+EBG00000313322	ncrna
+EBG00000313323	ncrna
+EBG00000313321	ncrna
+EBG00000313389	ncrna
+EBG00000313380	ncrna
+EBG00000313368	ncrna
+EBG00000313313	ncrna
+EBG00000313367	ncrna
+EBG00000313385	ncrna
+EBG00000313324	ncrna
+EBG00000313318	ncrna
+EBG00000313354	ncrna
+EBG00000313356	ncrna
+EBG00000313375	ncrna
