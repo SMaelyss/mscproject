@@ -9,7 +9,7 @@ Author: Sarah Maelyss N'djomon
 ------------------------------------------------------------------------------------------------------------------------
 Description
 ===========
-This table takes a list of all the cds, srna, utr and ncrna element's elemt_ids and element_types and places them into
+This file takes a list of all the cds, srna, utr and ncrna element's elemt_ids and element_types and places them into
 the values format needed for insertion into the sql element table. This involves surrounding each item by quotations,
 separating them with a comma and encompassing them in brackets. Example: ('element_id', 'element_type').
 
@@ -51,14 +51,14 @@ em_type = element_type_list # value
 zipper = zip(em_id, em_type)
 em_dict = dict(zipper)
 
-# create a variable with the element ids and types in the sql values format
+# Create a variable with the element ids and types in the sql values format
 em_fin = str()
 for k, v in em_dict.items():
     em_fin = f'{em_fin}(\'{k}\', \'{v}\'),\n'
 
 
-# test 
-#print(em_fin)
+# Test 
+# print(em_fin)
 
 
 
