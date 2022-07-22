@@ -18,10 +18,15 @@ calls all_elements.txt
 is called by tables_sql.py
 
 """
+import sys
+
+sys.path.insert(0, "./")
+sys.path.insert(0, "../")
+sys.path.insert(0, "./datafiles/")
 
 
 # import and open the file with the element ids and types
-all_elements_raw = 'all_elements.txt'
+all_elements_raw = '/d/projects/u/ns003/MSC_PROJECT_DB/mydb/datafiles/all_elements.txt'
 
 all_elements_list = list()
 with open(all_elements_raw, 'r') as f:
@@ -52,7 +57,8 @@ for k, v in em_dict.items():
     em_fin = f'{em_fin}(\'{k}\', \'{v}\'),\n'
 
 
-
+# test 
+#print(em_fin)
 
 
 

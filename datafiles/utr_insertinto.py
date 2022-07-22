@@ -21,7 +21,7 @@ is called by tables_sql.py
 
 
 values = """INSERT INTO utr
-  (utr_element_id,utr_start,utr_end,strand,downstream_gene_element_id,upstream_gene_element_id,tss,predicted_utr_name,independent) 
+  (utr_element_id,seq_start,seq_end,strand,downstream_gene_element_id,upstream_gene_element_id,tss,predicted_utr_name,independent) 
 VALUES 
   ('m1002416_1002440',1002416,1002440,'-','Rv0897c','Rv0898c',0,'UTR_BTWN_Rv0897c',1),
   ('m1017142_1017216',1017142,1017216,'-','Rv0904c','Rv0913c',0,'3UTR_Rv0913c',0),

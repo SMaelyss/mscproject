@@ -20,7 +20,7 @@ is called by tables_sql.py
 """
 
 values = """
-INSERT INTO relation
+INSERT INTO relations
   (relation_id,module_id,element_id,module_match_score,element_type,module_colour) 
 VALUES 
   (null,null,'m1002416_1002440',0.885333145,'utr','black'),

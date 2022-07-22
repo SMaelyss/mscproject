@@ -1,17 +1,17 @@
 
 """
-File: ncrna_insertinto.py
+File: annotated_ncrna_insertinto.py
 
 Version: V1.1
 Date: 03.07.2022
-Function: ncrna table items from research data excel file, formatted for sql in MrDataConverter:
+Function: annotated_ncrna table items from research data excel file, formatted for sql in MrDataConverter:
 ref: https://shancarter.github.io/mr-data-converter/.
 
 Author: Sarah Maelyss N'djomon
 ------------------------------------------------------------------------------------------------------------------------
 Description
 ===========
-This file provides a variable containing the insert into function for populating the ncrna table.
+This file provides a variable containing the insert into function for populating the annotated_ncrna table.
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -20,8 +20,8 @@ is called by tables_sql.py
 """
 
 
-values = """ INSERT INTO ncrna
-  (ncrna_element_id,ncrna_name,related_srna_name) 
+values = """ INSERT INTO annotated_ncrna
+  (annotated_ncrna_element_id,annotated_ncrna_name,related_srna_name) 
 VALUES 
   ('EBG00000313378','F6','ncRv10243A'),
   ('EBG00000313327','mcr19','ncRv0485'),
