@@ -1,0 +1,166 @@
+{% extends 'base.html'%}
+
+{% block content%}
+
+
+
+{% if ti == 'loc' and element_id != 'e'%}
+
+
+
+<h4> Genome element network</h4>
+<table id="element network">
+  <thead>
+    <th scope="col">id </th>
+    <th scope="col">transcript type</th>
+    <th scope="col">module match score</th>
+  </thead>
+  <tbody>
+    {% for network_element_type, network_element_id, network_mm in element_network%}
+    <tr>
+      <td> {{network_element_id}}</td>
+      <td> {{network_element_type}}</td>
+      <td> {{network_mm}} </td>
+    </tr>
+    {% endfor %}
+
+  </tbody>
+</table>
+<br>
+<br>
+<h4> Condition network</h4>
+<table id="module network">
+  <thead>
+    <th scope="col">condition </th>
+    <th scope="col">raw correlation score</th>
+    <th scope="col">p adjusted correlation score</th>
+  </thead>
+  <tbody>
+    {% for network_summed_condition_name, network_raw_cor, network_p_adj in module_network%}
+    <tr>
+      <td> {{network_summed_condition_name}}</td>
+      <td> {{network_raw_cor}}</td>
+      <td> {{network_p_adj}} </td>
+    </tr>
+    {% endfor %}
+
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+{% elif ti == 'id or name' and element_id != 'e' %}
+<p>Text:{{text}}</p>
+<p>element_id: {{element_id}}</p>
+<p> mm: {{mm}}</p>
+<p> p adj correlation score: {{p_adj}}</p>
+<p> table to search on: {{element_type}}</p>
+<br>
+<br>
+<h4> Genome element network</h4>
+<table id="element network">
+  <thead>
+    <th scope="col">transcript type </th>
+    <th scope="col">id</th>
+    <th scope="col">module match score</th>
+  </thead>
+  <tbody>
+    {% for network_element_type, network_element_id, network_mm in element_network%}
+    <tr>
+      <td> {{network_element_id}}</td>
+      <td> {{network_element_type}}</td>
+      <td> {{network_mm}} </td>
+    </tr>
+    {% endfor %}
+
+  </tbody>
+</table>
+<br>
+<br>
+<h4> Condition network</h4>
+<table id="module network">
+  <thead>
+    <th scope="col">condition </th>
+    <th scope="col">raw correlation score</th>
+    <th scope="col">p adjusted correlation score</th>
+  </thead>
+  <tbody>
+    {% for network_summed_condition_name, network_raw_cor, network_p_adj in module_network%}
+    <tr>
+      <td> {{network_summed_condition_name}}</td>
+      <td> {{network_raw_cor}}</td>
+      <td> {{network_p_adj}} </td>
+    </tr>
+    {% endfor %}
+
+  </tbody>
+</table>
+<p>Network of trnscripts related to the searched element and elements within their module at the chosen module match
+  score</p>
+
+<p>key</p>
+<li class="menu">
+  <p>utr: green</p>
+  <p>cds: blue</p>
+  <p>srna: pink</p>
+  <p>annotated_ncRNA: yellow</p>
+</li>
+
+{% else%}
+<h3>No transcript found, please double check entry or refer to the all data explorer.</h3>
+{% endif %}
+
+<var hidden id="s_nodes"> {{s_nodes}}</var>
+
+
+<div id="mynetwork"></div>
+
+<script type="text/javascript">
+  '{% for all_nodes, all_attributes in nodes_zip %}'
+  console.log('{{all_nodes}}');
+  '{% endfor %}'
+
+
+
+
+  let nodes = new vis.DataSet([
+    {% for all_nodes, all_attributes in nodes_zip %}
+  { id: '{{all_nodes}}', label: '{{all_nodes|safe}}', color: '{{all_attributes}}' },
+  {% endfor %}
+  ]);
+
+
+  console.log(nodes);
+
+  let edges = new vis.DataSet([
+
+    {% for source_nodes, target_nodes in ez %}
+  { from: '{{source_nodes}}', to: '{{target_nodes}}' },
+  {% endfor %}
+  ]);
+
+  let data = {
+    nodes: nodes,
+    edges: edges
+  };
+  let options = {
+    autoResize: true,
+    height: '100%',
+    width: '100%',
+    clickToUse: false,
+  };
+  let container = document.getElementById("mynetwork");
+
+  let network = new vis.Network(container, data, options);
+</script>
+
+
+
+
+{% endblock%}

@@ -1,0 +1,36 @@
+{% extends 'base.html'%}
+{% block content%}
+<h2>Explore using transcripts</h2>
+<br>
+
+<h4>Search using SRNA or UTR  transcript location </h4>
+<form action="searcher_result" method="post" name="loc_searcher">
+  {% csrf_token %}
+
+  {{loc_form}}
+  <br>
+ <input class="submit-control" type="submit" value="submit request" name="loc_searcher_submit">
+</form>
+
+<br>
+
+
+<h4>Search using transcript id or name </h4>
+
+<form action="searcher_result" method="post" name="id_name_searcher">
+  {% csrf_token %}
+  {{id_name_form}}
+  <br>
+  <input class="submit-control"type="submit" value="submit request" name="id_name_searcher_submit">
+</form>
+
+
+<h5> Information</h5>
+
+<p> The module match score refers to how strongly the transcript are related to other transcripts in their hub.</p>
+<p> The P adjucted correlation score denotes how correlated the moduiles are with a culture condition.</p>
+<p> Use these to specify a minimum limit.</p>
+
+<h6 hidden>Examples</h6>
+<p hidden >UTR: p171127_171214 | 171127 | 171214 | +</p>
+{% endblock%}

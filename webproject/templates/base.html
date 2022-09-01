@@ -1,0 +1,61 @@
+<!-- Has the base elements that will appear in all of the webpages -->
+{% load static %}
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Base</title>
+  <!-- Javascript files -->
+  <script type="text/javascript" src="{% static 'js/main.js' %}"></script>
+  <script type="text/javascript" src="{% static 'js/vis.min.js' %}"></script>
+
+  <!-- Css files -->
+  <link rel="stylesheet" href="{% static 'css/main.css' %}" type="text/css">
+</head>
+
+<body>
+  <div id="header-wrapper">
+    <div id="header" class="header_container">
+
+      <div id="menu">
+        <ul>
+          <li><a href="{% url 'home' %}">Home</a></li>
+          <li><a href="{% url 'listall_homepage' %}">Explore all data</a></li>
+          <li><a href="{% url 'searcher_homepage' %}">Search data</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="banner" class="header_container">
+      <div class="title">
+        <h2>Module RNAs Explorer</h2>
+        <span class="byline">An explorer for the unannotated non-coding RNA of Mycobacterium Tuberculosis </span>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="container">
+    <!-- syntax to act as a base -->
+    {% block content %}
+
+    {% endblock %}
+  </div>
+
+  <div class="footer">
+    <div id="menu">
+      <ul>
+        <li><a href="https://github.com/SMaelyss/mscproject">Explorer Github</a></li>
+        <li><a href=#>Data research Github</a></li>
+      </ul>
+    </div>
+  </div>
+
+
+
+</body>
+
+</html>

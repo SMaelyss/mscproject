@@ -1,0 +1,226 @@
+/* top of page*/
+.header_container {
+  margin: 10 10 10 10;
+}
+.research_link {
+  text-align: left;
+}
+
+/* encompass other pages html  */
+.container {
+  margin: 10 10 10 10;
+  overflow: hidden;
+  margin: 0em auto;
+
+  border-radius: 25px;
+
+  padding: 20px;
+}
+
+.footer {
+  bottom: 0;
+}
+
+.tableContainer {
+  height: 300px;
+  overflow-y: auto;
+  border-collapse: collapse;
+}
+
+.table {
+  position: static;
+  top: 0;
+  width: 100%;
+  border-collapse: collapse;
+  background: #5f86ad;
+  color: #f3f3f3;
+}
+
+td,
+th {
+  text-align: left;
+  
+}
+tr:hover {
+  background: rgb(36, 60, 87);
+  color: #fff;
+  
+  
+ 
+}
+
+th {
+  background:  rgb(36, 60, 87);
+  position: sticky;
+  top: 0; /* Don't forget this, required for the stickiness */
+}
+
+/* network */
+#mynetwork {
+  width: 600px;
+  height: 400px;
+  border: 1px solid lightgray;
+  text-align: center;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+/* play with */
+body {
+  margin: 0px;
+  padding: 0px;
+  background: #ffffff;
+  font-family: "Didact Gothic", sans-serif;
+  font-size: 12pt;
+  font-weight: 200;
+  color: rgb(255, 255, 255);
+  background-image: url("/static/images/bg.jpg");
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  padding: 0;
+}
+
+p,
+ul {
+  margin-top: 0;
+}
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+p {
+  line-height: 180%;
+}
+
+ul.actions li {
+  display: inline-block;
+  padding: 0em 0.5em;
+}
+
+#wrapper {
+  position: relative;
+  padding: 5em 0em 7em 0em;
+  background: #fff;
+}
+
+
+
+#header-wrapper {
+  position: relative;
+  top: 0;
+  padding: 5em 0em 7em 0em;
+}
+
+#menu {
+  position: sticky;
+  top: 4.5em;
+  right: 0;
+}
+
+#menu ul {
+  display: inline-block;
+}
+
+#menu li {
+  display: block;
+  float: left;
+  text-align: center;
+}
+
+#menu li a,
+#menu li span {
+  padding: 1em 1.5em;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 0.8em;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+#menu li:hover a,
+#menu li.active a,
+#menu li.active span {
+}
+
+#menu .active a {
+  background: #2651a8;
+  border-radius: 6px;
+  color: rgba(255, 255, 255, 1);
+}
+
+#menu .icon {
+}
+
+#banner {
+  padding-top: 10em;
+  text-align: center;
+  position: sticky;
+}
+
+#banner .title h2 {
+  font-size: 4em;
+}
+
+#banner .title .byline {
+  font-size: 2em;
+}
+
+#banner .button {
+  margin-top: 2em;
+  padding: 1.4em 3em;
+  border-radius: 6px;
+  font-weight: 700;
+  font-size: 1em;
+}
+
+.banner {
+  margin-bottom: 5em;
+}
+
+.submit-control {
+  background: #aeb6e7;
+  color: rgb(2, 1, 8);
+  border: 1px solid #eee;
+  border-radius: 20px;
+  text-shadow: none;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  transform: scale(1.12);
+  margin: 10px;
+
+  
+}
+
+.submit-control:hover {
+  background: rgb(54, 18, 122);
+  color: #fff;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  text-shadow: none;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  transform: scale(1.12);
+  margin: 10px;
+}
+
+input[type="radio"] {
+  background-color: #fff;
+  margin: 0;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: currentColor;
+  width: 1.15em;
+  height: 1.15em;
+  border: 0.15em solid currentColor;
+  border-radius: 50%;
+}
+input[type="radio"]:checked {
+  accent-color: purple;
+}
+
+

@@ -22,10 +22,10 @@ sys.path.insert(0, "./datafiles/")
 
 # import pymysql and connect to db
 import pymysql.cursors
-dbname = "ns003"
-dbhost = "thoth.cryst.bbk.ac.uk"
-dbuser = "ns003"
-dbpass = "gly36val28"
+dbname = "mscproject_local"
+dbhost = "localhost"
+dbuser = "root"
+dbpass = ""
 dbport = 3306
 
 db = pymysql.connect(host=dbhost, port=dbport, user=dbuser, db=dbname, passwd=dbpass)
@@ -33,14 +33,14 @@ cursor = db.cursor()
 
 
 # imported data files
-import elements_manipulator as em  # done
-import srna_insertinto as si  # done
-import utr_insertinto as ui  # done
-import annotated_ncrna_insertinto as ni  # done
-import cds_insertinto as ci  # done
-import go_term_insertinto as gti  # done
-import relations_insertinto as ri  # done
-import module_cor_insertinto as mci
+from datafiles import elements_manipulator as em  # done
+from datafiles import srna_insertinto as si  # done
+from datafiles import utr_insertinto as ui  # done
+from datafiles import annotated_ncrna_insertinto as ni  # done
+from datafiles import cds_insertinto as ci  # done
+from datafiles import go_term_insertinto as gti  # done
+from datafiles import relations_insertinto as ri  # done
+from datafiles import module_cor_insertinto as mci
 
 
 # All tables to be made for the database
@@ -279,13 +279,14 @@ ADD FOREIGN KEY (module_id) REFERENCES modules(module_id);
 # Create, index and populate ELEMENTS TABLE
 sql14 = """CREATE TABLE elements(
     element_id VARCHAR(190) PRIMARY KEY,
-    element_type ENUM('cds', 'srna', 'utr', 'annotated_ncrna') NOT NULL
+    element_type VARCHAR(190) NOT NULL
 );"""
 
 sql15 = f""" INSERT INTO elements
   (element_id,element_type) 
 VALUES {em.em_fin}('filler', 'cds');
 """
+
 
 # Create, index and populate SRNA TABLE
 sql16 = """ CREATE TABLE srna(
@@ -330,8 +331,8 @@ sql22 = """CREATE TABLE cds(
 cds_element_id VARCHAR(190) PRIMARY KEY,
 cds_name VARCHAR(190),
 mycobroswer_functional_category VARCHAR(190),
-go_term_mol VARCHAR(190),
-go_term_bio VARCHAR(190)
+go_term_mol VARCHAR(255),
+go_term_bio VARCHAR(255)
 );"""
 
 sql23 = f""" {ci.values} """
@@ -363,7 +364,7 @@ sql27 = """CREATE TABLE relations(
     relation_id INT PRIMARY KEY AUTO_INCREMENT,
     module_id VARCHAR(190),
     element_id VARCHAR(190),
-    element_type ENUM('cds', 'srna', 'utr', 'annotated_ncrna') NOT NULL,
+    element_type VARCHAR(190),
     module_match_score DEC(15,12),
     module_colour VARCHAR(190)
 );"""
@@ -505,9 +506,11 @@ cursor.execute(sql13b)
 
 cursor.execute(sql14)
 cursor.execute(sql15)
+
 cursor.execute(sql16)
 cursor.execute(sql17)
 cursor.execute(sql18)
+
 cursor.execute(sql19)
 cursor.execute(sql20)
 cursor.execute(sql21)

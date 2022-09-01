@@ -1,0 +1,17 @@
+{% extends 'base.html'%}
+
+<!-- From block content will be placed into the base.html -->
+{% block content%}
+<h2> Choose a category to explore</h1>
+  <!-- {{page}} is a orm of django template language, an alternative is jinja.-->
+  <form action="listall_result" method="post">
+    
+    {% csrf_token %}
+    {{ form }}
+  
+    <br>
+    <input class="submit-control" type="submit" value="submit request">
+
+  </form>
+
+{% endblock%}
