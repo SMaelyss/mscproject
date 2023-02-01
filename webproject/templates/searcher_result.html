@@ -9,62 +9,8 @@
 
 
 <h4> Genome element network</h4>
-<table id="element network">
-  <thead>
-    <th scope="col">id </th>
-    <th scope="col">transcript type</th>
-    <th scope="col">module match score</th>
-  </thead>
-  <tbody>
-    {% for network_element_type, network_element_id, network_mm in element_network%}
-    <tr>
-      <td> {{network_element_id}}</td>
-      <td> {{network_element_type}}</td>
-      <td> {{network_mm}} </td>
-    </tr>
-    {% endfor %}
-
-  </tbody>
-</table>
-<br>
-<br>
-<h4> Condition network</h4>
-<table id="module network">
-  <thead>
-    <th scope="col">condition </th>
-    <th scope="col">raw correlation score</th>
-    <th scope="col">p adjusted correlation score</th>
-  </thead>
-  <tbody>
-    {% for network_summed_condition_name, network_raw_cor, network_p_adj in module_network%}
-    <tr>
-      <td> {{network_summed_condition_name}}</td>
-      <td> {{network_raw_cor}}</td>
-      <td> {{network_p_adj}} </td>
-    </tr>
-    {% endfor %}
-
-  </tbody>
-</table>
-
-
-
-
-
-
-
-
-
-{% elif ti == 'id or name' and element_id != 'e' %}
-<p>Text:{{text}}</p>
-<p>element_id: {{element_id}}</p>
-<p> mm: {{mm}}</p>
-<p> p adj correlation score: {{p_adj}}</p>
-<p> table to search on: {{element_type}}</p>
-<br>
-<br>
-<h4> Genome element network</h4>
-<table id="element network">
+<div class="tableContainer">
+<table id="element network" class="table">
   <thead>
     <th scope="col">transcript type </th>
     <th scope="col">id</th>
@@ -84,11 +30,11 @@
 <br>
 <br>
 <h4> Condition network</h4>
-<table id="module network">
+<table id="module network" class="table">
   <thead>
     <th scope="col">condition </th>
     <th scope="col">raw correlation score</th>
-    <th scope="col">p adjusted correlation score</th>
+    <th scope="col">adjusted p value</th>
   </thead>
   <tbody>
     {% for network_summed_condition_name, network_raw_cor, network_p_adj in module_network%}
@@ -101,22 +47,93 @@
 
   </tbody>
 </table>
+</div>
+
+
+
+<p>Colour key:</p>
+
+<button style="background-color: #7BE141">UTR </button>
+<button style="background-color: #8de8e8 ">CDS</button>
+<button style="background-color: #c6637b"> sRNA</button>
+<button style="background-color: #f9e099">Annotated ncRNA </button>
+
+
+
+
+
+
+{% elif ti == 'id or name' and element_id != 'e' %}
+<!-- <p>Text:{{text}}</p>
+<p>element_id: {{element_id}}</p>
+<p> mm: {{mm}}</p>
+<p> p adj correlation score: {{p_adj}}</p>
+<p> table to search on: {{element_type}}</p> -->
+<br>
+<br>
+<h4> Genome element network</h4>
+<div class="tableContainer">
+<table id="element network" class="table">
+  <thead>
+    <th scope="col">transcript type </th>
+    <th scope="col">id</th>
+    <th scope="col">module match score</th>
+  </thead>
+  <tbody>
+    {% for network_element_type, network_element_id, network_mm in element_network%}
+    <tr>
+      <td> {{network_element_id}}</td>
+      <td> {{network_element_type}}</td>
+      <td> {{network_mm}} </td>
+    </tr>
+    {% endfor %}
+
+  </tbody>
+</table>
+<br>
+<br>
+<h4> Condition network</h4>
+<table id="module network" class="table">
+  <thead>
+    <th scope="col">condition </th>
+    <th scope="col">raw correlation score</th>
+    <th scope="col">adjusted P value</th>
+  </thead>
+  <tbody>
+    {% for network_summed_condition_name, network_raw_cor, network_p_adj in module_network%}
+    <tr>
+      <td> {{network_summed_condition_name}}</td>
+      <td> {{network_raw_cor}}</td>
+      <td> {{network_p_adj}} </td>
+    </tr>
+    {% endfor %}
+
+  </tbody>
+</table>
+</div>
+
 <p>Network of trnscripts related to the searched element and elements within their module at the chosen module match
   score</p>
 
-<p>key</p>
-<li class="menu">
-  <p>utr: green</p>
-  <p>cds: blue</p>
-  <p>srna: pink</p>
-  <p>annotated_ncRNA: yellow</p>
-</li>
+
+
+<p>Colour key:</p>
+
+<button style="background-color: #7BE141">UTR </button>
+<button style="background-color: #8de8e8 ">CDS</button>
+<button style="background-color: #c6637b"> sRNA</button>
+<button style="background-color: #f9e099">Annotated ncRNA </button>
+
+
+
 
 {% else%}
+
 <h3>No transcript found, please double check entry or refer to the all data explorer.</h3>
 {% endif %}
 
 <var hidden id="s_nodes"> {{s_nodes}}</var>
+
 
 
 <div id="mynetwork"></div>
@@ -125,9 +142,6 @@
   '{% for all_nodes, all_attributes in nodes_zip %}'
   console.log('{{all_nodes}}');
   '{% endfor %}'
-
-
-
 
   let nodes = new vis.DataSet([
     {% for all_nodes, all_attributes in nodes_zip %}

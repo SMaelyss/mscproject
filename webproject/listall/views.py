@@ -17,6 +17,7 @@ Listall_result takes the request from the listall form and retrieves the request
 
 from multiprocessing import context
 from django.shortcuts import render
+from django.db import connection
 
 # import the form
 from listall.forms import ListallForm
@@ -59,7 +60,13 @@ def listall_result(request):
           'mc_table_zip': mc_table_zip,
           'listalldata': listalldata,
         }
+
         
+        print(connection.queries)
+
+      
+       
+
 
       elif listalldata == 'elements_listall_req':
         e_id = Elements.objects.values_list('element_id', flat=True)
@@ -77,6 +84,8 @@ def listall_result(request):
           'listalldata': listalldata,  
         }
 
+      
+
       elif listalldata == 'samples_listall_req':
         s_all = Samples.objects.all()
         s_full_con = Samples.objects.values_list('full_condition', flat=True)
@@ -92,6 +101,9 @@ def listall_result(request):
           'listalldata': listalldata,
           'gc_table_zip':gc_table_zip,
         }
+
+         
+
 
       elif listalldata == 'goterms_listall_req':
         gt_all  = GoTerms.objects.all()

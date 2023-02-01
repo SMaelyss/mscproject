@@ -1,0 +1,221 @@
+{% extends 'base.html'%}
+{% block content%}
+
+{% if ti == 'loc' and element_id != 'e'%}
+
+<p>{{element_id}}</p>
+<p>Module membership score: {{mm}}</p>
+<p>Module ID: {{module_id}}</p>
+
+
+
+
+
+
+
+{% if element_type == 'Srna'%}
+{%for i in all_details%}
+<h3> sRNA transcript</h4>
+  <h4>START site: {{i.seq_start}}</h4>
+  <h4>END site: {{i.seq_end}} </h4>
+  <h4> sRNA name: {{i.srna_name}}</h4>
+  <h4> Associated ORF name: {{i.gene_element_id}}</h4>
+
+
+  <h4>The transcript is associated with the following ORF: {{i.gene_element_id}}</h4>
+  {% if i.intergenic == 0 %}
+  <h4> This transcript is not intergenic</h4>
+  {% else %}
+  <h4>This transcript is intergenic</h4>
+  {% endif%}
+
+  {% if i.tss == 0 %}
+  <h4> The TSS of this transcript is unknown </h4>
+  {% else %}
+  <h4>This transcript is has a TSS of {{i.tss}} nt </h4>
+
+  {% endif%}
+  {% endfor%}
+
+
+
+
+
+
+  {% elif element_type == 'Utr'%}
+  {%for i in all_details%}
+  <h3>UTR transcript</h3>
+  <h4> START site: {{i.seq_start}}</h4>
+  <h4>END site: {{i.seq_end}} </h4>
+
+  <h4>Predicted UTR name : {{i.predicted_utr_name}}</h4>
+  {% if i.independent == 0 %}
+  <h4> This transcript is not independent</h4>
+  {% else %}
+  <h4>This transcript is indepenedent</h4>
+  {% endif%}
+
+  <h4> Strand polarity: {{i.strand}}</h4>
+  <h4> Upstream gene element: {{i.upstream_gene_element_id}}</h4>
+  <h4> Downstream gene element: {{i.downstream_gene_element_id}}</h4>
+
+  {% if i.tss == 0 %}
+  <h4> The TSS of this transcript is unknown </h4>
+  {% else %}
+  <h4>TSS: {{i.tss}} nt </h4>
+  {% endif%}
+  {% endfor%}
+
+
+
+  {% elif element_type == 'Cds'%}
+  {%for i in all_details%}
+  <h4> CDS name: {{i.cds_name}}</h4>
+  <h4> Mycobrowser functional_category: {{i.mycobroswer_functional_category}}</h4>
+  <h4> Go term molecular function: {{i.go_term_mol}}</h4>
+  <h4> Go term biological process: {{i.go_term_bio}}</h4>
+  {% endfor %}
+
+
+
+
+  {% elif element_type == 'Annotated_ncrna'%}
+  {%for i in all_details%}
+  <h4> Annotated ncRNA by name: {{i.annotated_ncrna_name}}</h4>
+  <h4> Related sRNA by name: {{i.related_srna_name}} </h4>
+  {% endfor %}
+
+
+
+  {% endif%}
+
+  <div class="tableContainer">
+    <table class="table">
+      <thead>
+        <th scope="col">Most positively correlated experimental conditions</th>
+
+      </thead>
+      <tbody>
+        {%for i in top_conditions%}
+        <tr>
+          <td> {{i}} </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {% elif ti == 'id or name' and element_id != 'e' %}
+  <p>Searched element: {{element_id}}, {{element_type}}</p>
+  <p>Module membership score: {{mm}}</p>
+  <p>This element bellongs to the module with id: {{module_id}}</p>
+
+
+
+
+
+
+
+  {% if element_type == 'Srna'%}
+  {%for i in all_details%}
+  <h4> This transcript is an {{element_id}}. Site starts at nt: {{i.seq_start}} and ends at nt
+    {{i.seq_end}}</h4>
+  <h4> The sRNA name : {{i.srna_name}}</h4>
+  <h4> The associated ORF name : {{i.gene_element_id}}</h4>
+
+  {% if i.intergenic == 0 %}
+  <h4> This transcript is not intergenic</h4>
+  {% else %}
+  <h4>This transcript is intergenic</h4>
+  {% endif%}
+  {% if i.tss == 0 %}
+  <h4> The TSS of this transcript is unknown </h4>
+  {% else %}
+  <h4>This transcript is has a TSS of {{i.tss}} nt </h4>
+  {% endif%}
+  {% endfor%}
+
+
+
+
+
+
+  {% elif element_type == 'Utr'%}
+  {%for i in all_details%}
+  <h4> This transcript is an {{element_id}}. Site starts at nt: {{i.seq_start}} and ends at nt
+    {{i.seq_end}}</h4>
+  <h4> The predicted UTR name : {{i.predicted_utr_name}}</h4>
+  {% if i.independent == 0 %}
+  <h4> This transcript is not independent</h4>
+  {% else %}
+  <h4>This transcript is indepenedent</h4>
+  {% endif%}
+
+  <h4> The polarity of the strand is: {{i.strand}}</h4>
+  <h4> The upstream gene element: : {{i.upstream_gene_element_id}}</h4>
+  <h4> The downstream gene element: : {{i.downstream_gene_element_id}}</h4>
+
+  <h4>The predicted name of this transcript is {{i.predicted_utr_name}}</h4>
+  {% if i.tss == 0 %}
+  <h4> The TSS of this transcript is unknown </h4>
+  {% else %}
+  <h4>This transcript is has a TSS of {{i.tss}} nt </h4>
+  {% endif%}
+  {% endfor%}
+
+
+
+  {% elif element_type == 'Cds'%}
+  {%for i in all_details%}
+  <h4> Cds name : {{i.cds_name}}</h4>
+  <h4> Mycobrowser functional_category : {{i.mycobroswer_functional_category}}</h4>
+  <h4> Go term molecular function : {{i.go_term_mol}}</h4>
+  <h4> Go term biological process : {{i.go_term_bio}}</h4>
+  {% endfor %}
+
+
+
+
+  {% elif element_type == 'Annotated_ncrna'%}
+  {%for i in all_details%}
+  <h4> Annotated ncrna name: {{i.annotated_ncrna_name}}</h4>
+  <h4> Related sRNA by name: {{i.related_srna_name}} </h4>
+  {% endfor %}
+
+
+
+  {% endif%}
+
+  <div class="tableContainer">
+    <table class="table">
+      <thead>
+        <th scope="col">Top 3 conditions </th>
+
+      </thead>
+      <tbody>
+        {%for i in top_conditions%}
+        <tr>
+          <td> {{i}} </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  {% endif%}
+
+  {% endblock%}

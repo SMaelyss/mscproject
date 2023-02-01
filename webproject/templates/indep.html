@@ -1,0 +1,31 @@
+{% extends 'base.html'%}
+{% block content%}
+<h2>Obtain a detailed overview of a mycobacterium tuberculosis transcript</h2>
+<br>
+
+<h4>Search using sRNA or UTR sequence location</h4>
+<form action="indep_result" method="post" name="loc_searcher">
+  {% csrf_token %}
+
+  {{loc_form}}
+  <br>
+  <input class="submit-control" type="submit" value="submit request" name="loc_searcher_submit">
+</form>
+
+<br>
+
+
+<h4>Search using a transcripts ID or name </h4>
+
+<form action="indep_result" method="post" name="id_name_searcher">
+  {% csrf_token %}
+  {{id_name_form}}
+  <br>
+  <input class="submit-control" type="submit" value="submit request" name="id_name_searcher_submit">
+</form>
+
+
+
+<h6 hidden>Examples</h6>
+<p hidden>UTR: p171127_171214 | 171127 | 171214 | +</p>
+{% endblock%}

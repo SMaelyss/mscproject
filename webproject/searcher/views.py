@@ -20,6 +20,7 @@ import re
 
 from django.shortcuts import render
 from multiprocessing import context
+from django.db import connection
 
 from searcher.forms import SearcherIdNameForm, SearcherLocForm
 from .models import Modules, ModuleCorrelation, Elements, Relations, Samples, GrowthConditions, GoTerms, Srna, Utr, AnnotatedNcrna, Cds
@@ -63,9 +64,10 @@ def searcher_result(request):
         print('loc form is valid')
         start =int(loc_form.cleaned_data['user_input_start'])
         end = int(loc_form.cleaned_data['user_input_end'])
-        strand = str(loc_form.cleaned_data['user_input_strand'])#
+        strand = str(loc_form.cleaned_data['user_input_strand'])
         mm = loc_form.cleaned_data['user_input_mm']
-        p_adj = loc_form.cleaned_data['user_input_p_adj']
+        raw_cor = loc_form.cleaned_data['user_input_raw_cor']
+        cor_dir = loc_form.cleaned_data['user_input_cor_direction']
         element_type = loc_form.cleaned_data['user_input_element_type']
         
 
@@ -107,22 +109,48 @@ def searcher_result(request):
          
             return network_zip 
           element_network = return_element_network(element_id, mm)
-
+          
         # obtain all conditions of a given p score in relation to the searched elements module
-          def return_module_network(element_id, p_adj):
-            p_adj = p_adj
+          def return_module_network(element_id, raw_cor, cor_dir):
+          
+            raw_cor_mod = str(f"{cor_dir}{raw_cor}")
+          
+
             module_id = Relations.objects.filter(element_id=element_id).values_list('module_id',flat=True)[0]
-            network_summed_condition_name = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(p_adjusted_cor__gt=p_adj)).values_list('summed_condition_name', flat=True)
-            network_raw_cor = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(p_adjusted_cor__gt=p_adj)).values_list('raw_cor', flat=True)
-            network_p_adj = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(p_adjusted_cor__gt=p_adj)).values_list('p_adjusted_cor', flat=True)
+
+            network_summed_condition_name = list()
+
+            # Allow users to obtain all item swith correlation score more positive or more negative than threshold.
+
+            if cor_dir == '+':
+              if raw_cor == 0:
+                network_summed_condition_name = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__gte=raw_cor_mod, raw_cor__lt=0.5 )).values_list('summed_condition_name', flat=True)
+                network_raw_cor = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__gte=raw_cor_mod,raw_cor__lt=0.5 )).values_list('raw_cor', flat=True)
+                network_p_adj = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__gte=raw_cor_mod,raw_cor__lt=0.5 )).values_list('p_adjusted_cor', flat=True)
+              else:
+                network_summed_condition_name = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__gte=raw_cor_mod)).values_list('summed_condition_name', flat=True)
+                network_raw_cor = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__gte=raw_cor_mod)).values_list('raw_cor', flat=True)
+                network_p_adj = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__gte=raw_cor_mod)).values_list('p_adjusted_cor', flat=True)
+            elif cor_dir == '-':
+              if raw_cor == 0:
+                network_summed_condition_name = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__lte=raw_cor_mod, raw_cor__gte=-0.5)).values_list('summed_condition_name', flat=True)
+                network_raw_cor = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__lte=raw_cor_mod, raw_cor__gte=-0.5)).values_list('raw_cor', flat=True)
+                network_p_adj = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__lte=raw_cor_mod, raw_cor__gte=-0.5)).values_list('p_adjusted_cor', flat=True)
+              else:
+                network_summed_condition_name = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__lte=raw_cor_mod)).values_list('summed_condition_name', flat=True)
+                network_raw_cor = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__lte=raw_cor_mod)).values_list('raw_cor', flat=True)
+                network_p_adj = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__lte=raw_cor_mod)).values_list('p_adjusted_cor', flat=True)
+        
 
             network_zip = zip(network_summed_condition_name, network_raw_cor, network_p_adj)
 
             return network_zip
-          module_network = return_module_network(element_id, p_adj)
+          module_network = return_module_network(element_id, raw_cor, cor_dir)
 
-        # create a vis.js node and edge network of the searched element and 
-          def cytoscape_network(element_id, element_type):
+          print(module_network)
+
+        # create a vis.js node and edge network of the searched element 
+          def vis_network(element_id, element_type, mm):
             module_id = Relations.objects.filter(element_id=element_id).values_list('module_id',flat=True)[0]
             network_element_id = Relations.objects.filter(Q(module_id=module_id) & Q(module_match_score__gt=mm)).values_list('element_id',flat=True)
             network_element_type = Relations.objects.filter(Q(module_id=module_id) & Q(module_match_score__gt=mm)).values_list('element_type',flat=True)
@@ -190,11 +218,11 @@ def searcher_result(request):
           
             return source_nodes, source_attribute, target_nodes, target_attribute , return_edge_zip
 
-          s_nodes = cytoscape_network(element_id, element_type, )[0]
-          t_nodes = cytoscape_network(element_id, element_type, )[2]
-          s_attribute = cytoscape_network(element_id, element_type)[1]
-          t_attribute = cytoscape_network(element_id, element_type)[3]
-          edge_zip = cytoscape_network(element_id, element_type)[4]
+          s_nodes = vis_network(element_id, element_type, mm)[0]
+          t_nodes = vis_network(element_id, element_type, mm )[2]
+          s_attribute = vis_network(element_id, element_type,mm)[1]
+          t_attribute = vis_network(element_id, element_type, mm)[3]
+          edge_zip = vis_network(element_id, element_type, mm)[4]
         
           all_nodes = s_nodes + t_nodes
           all_attributes = s_attribute + t_attribute
@@ -206,8 +234,15 @@ def searcher_result(request):
           all_attributes = ['#8de8e8' if item == 'Cds' else item for item in all_attributes]
 
           nodes_zip = zip(all_nodes, all_attributes )
-          nodes_zip = sorted(set(nodes_zip))
-        
+
+         
+          if nodes_zip is not None:
+             nodes_zip = sorted(set(nodes_zip))
+          
+          else:
+            nodes_zip = ''
+
+
           all_nodes =  sorted(set(all_nodes))
     
           t = 'LOCATION SEARCH USED'
@@ -224,14 +259,18 @@ def searcher_result(request):
             'end':end,
             'strand':strand,
             'mm':mm,
-            'p_adj':p_adj,
+            'raw_cor':raw_cor,
+            'cor_dir':cor_dir,
             'element_type': element_type,
           }
+
+          print(connection.queries)
         else:
           error_text = 'check inputs'
           context = {
             'error_text':error_text,
           }
+
 
     
     elif 'id_name_searcher_submit' in request.POST:
@@ -242,7 +281,8 @@ def searcher_result(request):
         id_name = id_name_form.cleaned_data['user_input_element_id']
         text = id_name_form.cleaned_data['user_input_text']
         mm = id_name_form.cleaned_data['user_input_mm']
-        p_adj = id_name_form.cleaned_data['user_input_p_adj']
+        raw_cor = id_name_form.cleaned_data['user_input_raw_cor']
+        cor_dir = id_name_form.cleaned_data['user_input_cor_direction']
         element_type = id_name_form.cleaned_data['user_input_element_type']
 
         def return_element_id(id_name, text, element_type):
@@ -258,7 +298,6 @@ def searcher_result(request):
             elif element_type == 'Annotated_ncrna':
               element_id = list(AnnotatedNcrna.objects.filter(annotated_ncrna_element_id=text).values_list('annotated_ncrna_element_id', flat=True))
 
-
           else:
             if element_type == 'Srna':
               element_id = list(Srna.objects.filter(srna_name=text).values_list('srna_element_id', flat=True))
@@ -273,18 +312,21 @@ def searcher_result(request):
 
           if not element_id:
             element_id = list('e')
-          print(element_id)
+          
           return element_id
         element_id = list(return_element_id(id_name, text, element_type))[0]
         
-        print(element_id)
+       
         if element_id != 'e':
           def return_element_network(element_id, mm):
             mm = mm
+            print(mm)
             module_id = Relations.objects.filter(element_id=element_id).values_list('module_id',flat=True)[0]
             network_element_type = Relations.objects.filter(Q(module_id=module_id) & Q(module_match_score__gt=mm)).values_list('element_type',flat=True)
             network_element_id = Relations.objects.filter(Q(module_id=module_id) & Q(module_match_score__gt=mm)).values_list('element_id',flat=True)
             network_mm = Relations.objects.filter(Q(module_id=module_id) & Q(module_match_score__gt=mm)).values_list('module_match_score',flat=True)
+            print(network_element_id)
+            
 
             #if network_zip.count > 50: 
             #  'some kind of warning'
@@ -292,26 +334,57 @@ def searcher_result(request):
             #print(module_id.query)
             #print(module_id)
             #print(network.query)
+            
             return network_zip 
           
           element_network = return_element_network(element_id, mm)
+          print(element_id)
 
-          def return_module_network(element_id, p_adj):
-            p_adj = p_adj
+          def return_module_network(element_id, raw_cor, cor_dir):
+            raw_cor_mod = str(f"{cor_dir}{raw_cor}")
             module_id = Relations.objects.filter(element_id=element_id).values_list('module_id',flat=True)[0]
-            network_summed_condition_name = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(p_adjusted_cor__gt=p_adj)).values_list  ('summed_condition_name', flat=True)
-            network_raw_cor = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(p_adjusted_cor__gt=p_adj)).values_list('raw_cor', flat=True)
-            network_p_adj = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(p_adjusted_cor__gt=p_adj)).values_list('p_adjusted_cor', flat=True)
+            print(module_id)
 
+            network_summed_condition_name = list()
+
+            # Allow users to obtain all item swith correlation score more positive or more negative than threshold.
+            if cor_dir == '+':
+              if raw_cor == 0:
+                network_summed_condition_name = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__gte=raw_cor_mod, raw_cor__lt=0.5 )).values_list('summed_condition_name', flat=True)
+                network_raw_cor = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__gte=raw_cor_mod,raw_cor__lt=0.5 )).values_list('raw_cor', flat=True)
+                network_p_adj = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__gte=raw_cor_mod,raw_cor__lt=0.5 )).values_list('p_adjusted_cor', flat=True)
+              else:
+                network_summed_condition_name = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__gte=raw_cor_mod)).values_list('summed_condition_name', flat=True)
+                network_raw_cor = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__gte=raw_cor_mod)).values_list('raw_cor', flat=True)
+                network_p_adj = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__gte=raw_cor_mod)).values_list('p_adjusted_cor', flat=True)
+            elif cor_dir == '-':
+              if raw_cor == 0:
+                network_summed_condition_name = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__lte=raw_cor_mod, raw_cor__gte=-0.5)).values_list('summed_condition_name', flat=True)
+                network_raw_cor = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__lte=raw_cor_mod, raw_cor__gte=-0.5)).values_list('raw_cor', flat=True)
+                network_p_adj = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__lte=raw_cor_mod, raw_cor__gte=-0.5)).values_list('p_adjusted_cor', flat=True)
+              else:
+                network_summed_condition_name = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__lte=raw_cor_mod)).values_list('summed_condition_name', flat=True)
+                network_raw_cor = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__lte=raw_cor_mod)).values_list('raw_cor', flat=True)
+                network_p_adj = ModuleCorrelation.objects.filter(Q(module_id=module_id) & Q(raw_cor__lte=raw_cor_mod)).values_list('p_adjusted_cor', flat=True)
+        
+
+            
             network_zip = zip(network_summed_condition_name, network_raw_cor, network_p_adj)
+            
 
             return network_zip
-          module_network = return_module_network(element_id, p_adj)
+          module_network = return_module_network(element_id, raw_cor, cor_dir)
 
-          def cytoscape_network(element_id, element_type):
+          def vis_network(element_id, element_type,mm):
             module_id = Relations.objects.filter(element_id=element_id).values_list('module_id',flat=True)[0]
+            network_element_id = list()
             network_element_id = Relations.objects.filter(Q(module_id=module_id) & Q(module_match_score__gt=mm)).values_list('element_id',flat=True)
+            
+            
+
+
             network_element_type = Relations.objects.filter(Q(module_id=module_id) & Q(module_match_score__gt=mm)).values_list('element_type',flat=True)
+          
 
             target_attribute = list(network_element_type)
             target_nodes = list(network_element_id)
@@ -352,6 +425,8 @@ def searcher_result(request):
               target_nodes.append(sn1)
               target_attribute.append('Srna')
             
+            types = ''
+            
           
           
           
@@ -384,16 +459,22 @@ def searcher_result(request):
               target_attribute.append('srna')
 
               id_count = 0
+            
             return_edge_zip = zip(source_nodes, target_nodes)     
             return source_nodes, source_attribute, target_nodes, target_attribute , return_edge_zip
 
-          s_nodes = cytoscape_network(element_id, element_type, )[0]
-          t_nodes = cytoscape_network(element_id, element_type, )[2]
-          s_attribute = cytoscape_network(element_id, element_type)[1]
-          t_attribute = cytoscape_network(element_id, element_type)[3]
-          edge_zip = cytoscape_network(element_id, element_type)[4]
+          s_nodes =vis_network(element_id, element_type,mm )[0]
+          t_nodes =vis_network(element_id, element_type, mm)[2]
+          s_attribute =vis_network(element_id, element_type,mm)[1]
+          t_attribute =vis_network(element_id, element_type,mm)[3]
+          edge_zip =vis_network(element_id, element_type,mm)[4]
+
         
           all_nodes = s_nodes + t_nodes
+
+          
+        
+       
           all_attributes = s_attribute + t_attribute
           all_attributes = ['#7BE141' if item == 'utr' else item for item in all_attributes]
           all_attributes = ['#7BE141' if item == 'Utr' else item for item in all_attributes]
@@ -401,14 +482,26 @@ def searcher_result(request):
           all_attributes = ['#c6637b' if item == 'srna' else item for item in all_attributes]
           all_attributes = ['#8de8e8' if item == 'cds' else item for item in all_attributes]
           all_attributes = ['#8de8e8' if item == 'Cds' else item for item in all_attributes]
-          all_attributes = ['##f9e099' if item == 'annotated_ncrna' else item for item in all_attributes]
-          all_attributes = ['##f9e099' if item == 'Annotated_ncrna' else item for item in all_attributes]
+          all_attributes = ['#f9e099' if item == 'annotated_ncrna' else item for item in all_attributes]
+          all_attributes = ['#f9e099' if item == 'Annotated_ncrna' else item for item in all_attributes]
+
+          nodes_zip = zip(all_nodes, all_attributes)
+          if nodes_zip is not None:
+             nodes_zip = sorted(set(nodes_zip))
+          
+          else:
+            nodes_zip = ''
 
 
-          nodes_zip = zip(all_nodes, all_attributes )
-          nodes_zip = sorted(set(nodes_zip))
+          
+
+      
+             
+          
         
           all_nodes =  sorted(set(all_nodes))
+          
+          
 
           t = 'ID NAME SEARCH USED'
           context = {
@@ -423,9 +516,12 @@ def searcher_result(request):
             'id_name':id_name,
             'text':text,
             'mm':mm,
-            'p_adj':p_adj,
+            'raw_cor': raw_cor,
+            'cor_dir':cor_dir,
             'element_type': element_type,
           }
+
+          
 
         else:
           error_text = 'check inputs'

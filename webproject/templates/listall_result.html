@@ -2,23 +2,23 @@
 {% load humanize %}
 
 {% block content%}
-<h2> Table of requested categories </h2>
+<h2> Table of results </h2>
 
 <br>
 <br>
 <br>
 
 {% if listalldata == 'modules_listall_req' %}
-<h3>transcript Modules</h3>
+<h3>Modules</h3>
 <br><br>
 <div class="tableContainer">
 <table id="Modules_table" class="table">
   <thead>
     <th scope="col">Module colour hex code</th>
     <th scope="col">Module colour</th>
-    <th scope="col">enrich utr q value</th>
-    <th scope="col">enrich srna q value</th>
-    <th scope="col">mycobrowser category</th>
+    <th scope="col">Enriched utr q value</th>
+    <th scope="col">Enriched srna q value</th>
+    <th scope="col">Mycobrowser category</th>
   </thead>
   <tbody>
     {% for m_all in m_all %}
@@ -36,15 +36,15 @@
 <br>
 <br>
 <br>
-<h3>transcript Modules and culture conditions</h3>
+<h3>Module and culture conditions</h3>
 <br><br>
 <div class="tableContainer">
 <table id="Modules_correlation_table" class="table">
   <thead>
     <th scope="col">Module colour hex code </th>
     <th scope="col">Module condition</th>
-    <th scope="col">raw correlation</th>
-    <th scope="col">p adj correlation</th>
+    <th scope="col">Raw correlation score</th>
+    <th scope="col">Adjusted p value</th>
   </thead>
   <tbody>
     {% for mc_all, mc_summed_condition_name, mc_module in mc_table_zip%}
@@ -67,8 +67,8 @@
 <div class="tableContainer">
 <table id="Elements_table" class="table">
   <thead>
-    <th scope="col">transcript name</th>
-    <th scope="col">transcript type</th>
+    <th scope="col">Transcript name</th>
+    <th scope="col">Transcript type</th>
   </thead>
   <tbody>
     {%for e_id, e_type in e_table_zip %}
@@ -81,7 +81,7 @@
 </table>
 </div>
 <br><br><br><br>
-<h3>All elements and their modules</h3>
+<h3>All elements and element modules</h3>
 <br><br>
 <div class="tableContainer">
 <table id="elements_related_tables" class="table">
@@ -114,9 +114,9 @@
     <th scope="col">Sample name</th>
     <th scope="col">Dataset name</th>
     <th scope="col">Total reads</th>
-    <th scope="col">mapped reads</th>
-    <th scope="col">research method</th>
-    <th scope="col"> Condition id number </th>
+    <th scope="col">Mapped reads</th>
+    <th scope="col">Research method</th>
+    <th scope="col">Condition id number </th>
   </thead>
   <tbody>
     {%for s_all, s_full_con in s_table_zip %}
@@ -139,8 +139,8 @@
 <div class="tableContainer">
 <table id="Samples_table_relation" class="table">
   <thead>
-    <th scope="col"> Condition descriptor </th>
-    <th scope="col"> Condition id number </th>
+    <th scope="col">Condition descriptor </th>
+    <th scope="col">Condition id number </th>
   </thead>
   <tbody>
     {%for gc_full_condition_name, gc_full_condition_id in gc_table_zip %}
@@ -155,15 +155,15 @@
 
 
 {% else %}
-<h3>Gene Ontology GO terms </h3>
+<h3>Gene Ontology (GO) terms </h3>
 <br><br>
 <div class="tableContainer">
 <table id="Goterm_table" class="table">
   <thead>
-    <th scope="col">id </th>
-    <th scope="col">name</th>
-    <th scope="col">type</th>
-    <th scope="col">def</th>
+    <th scope="col">ID </th>
+    <th scope="col">Name</th>
+    <th scope="col">Type</th>
+    <th scope="col">Definition</th>
   </thead>
   <tbody>
     {%for gt_all in gt_all %}

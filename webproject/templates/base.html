@@ -17,6 +17,7 @@
 </head>
 
 <body>
+  
   <div id="header-wrapper">
     <div id="header" class="header_container">
 
@@ -24,18 +25,20 @@
         <ul>
           <li><a href="{% url 'home' %}">Home</a></li>
           <li><a href="{% url 'listall_homepage' %}">Explore all data</a></li>
-          <li><a href="{% url 'searcher_homepage' %}">Search data</a></li>
+          <li><a href="{% url 'searcher_homepage' %}">Visualise hub networks</a></li>
+          <li><a href="{% url 'indep_homepage' %}">Transcript search</a></li>
+
         </ul>
       </div>
     </div>
-    <div id="banner" class="header_container">
+    <div id="mid-section">
       <div class="title">
         <h2>Module RNAs Explorer</h2>
-        <span class="byline">An explorer for the unannotated non-coding RNA of Mycobacterium Tuberculosis </span>
+        <span class="byline">Browse the unannotated non-coding RNA of Mycobacterium Tuberculosis </span>
       </div>
     </div>
   </div>
-
+  
 
 
   <div class="container">

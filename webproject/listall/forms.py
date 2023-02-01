@@ -6,7 +6,7 @@ listall_choices = [
   ('modules_listall_req', 'Modules'),
   ('elements_listall_req', 'Elements'),
   ('samples_listall_req', 'Samples'),
-  ('goterms_listall_req', 'Go terms'),
+  ('goterms_listall_req', 'GO terms'),
 ]
 
 
